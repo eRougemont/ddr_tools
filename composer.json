@@ -1,0 +1,31 @@
+{
+    "name": "erougemont/ddr_tools",
+    "description": "Convert OCR files",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Frédéric Glorieux",
+            "email": "frederic.glorieux@fictif.org",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../citeproc-php",
+            "options": {
+                "symlink": true,
+                "versions": {
+                    "seboettg/citeproc-php": "2.7-dev"
+                }
+            }
+        }
+    ],
+    "require": {
+        "oeuvres/teinte": "dev-main",
+        "seboettg/collection": ">=3.1.0,<4.0.0",
+        "seboettg/citeproc-php": "^2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}

@@ -1,0 +1,623 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b2479cadb2498b98b358655a8bf9913d",
+    "packages": [
+        {
+            "name": "citation-style-language/locales",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/citation-style-language/locales.git",
+                "reference": "8bbac89b216f551ca3d4f77860818938d678badd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/8bbac89b216f551ca3d4f77860818938d678badd",
+                "reference": "8bbac89b216f551ca3d4f77860818938d678badd",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC-BY-SA-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Citation Style Language (CSL) Team",
+                    "homepage": "http://citationstyles.org/about/#Credits"
+                }
+            ],
+            "description": "Citation Style Language (CSL) Locales",
+            "homepage": "http://citationstyles.org/",
+            "support": {
+                "issues": "https://github.com/citation-style-language/locales/issues",
+                "source": "https://github.com/citation-style-language/locales/tree/v0.0.6"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/rmzelle",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-07-31T14:30:14+00:00"
+        },
+        {
+            "name": "citation-style-language/styles",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/citation-style-language/styles.git",
+                "reference": "2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46",
+                "reference": "2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC-BY-SA-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Citation Style Language (CSL) Team",
+                    "homepage": "http://citationstyles.org/about/#Credits"
+                }
+            ],
+            "description": "Citation Style Language (CSL) Styless",
+            "homepage": "http://citationstyles.org/",
+            "support": {
+                "issues": "https://github.com/citation-style-language/styles/issues",
+                "source": "https://github.com/citation-style-language/styles/tree/v0.0.291"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/rmzelle",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-08-31T10:31:32+00:00"
+        },
+        {
+            "name": "erusev/parsedown",
+            "version": "1.8.0-beta-7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown.git",
+                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
+                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Parsedown": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
+            "keywords": [
+                "markdown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown/issues",
+                "source": "https://github.com/erusev/parsedown/tree/1.8.0-beta-7"
+            },
+            "time": "2019-03-17T18:47:21+00:00"
+        },
+        {
+            "name": "erusev/parsedown-extra",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown-extra.git",
+                "reference": "fd33d68349630d18d56367712a64445a6e0bc83e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/fd33d68349630d18d56367712a64445a6e0bc83e",
+                "reference": "fd33d68349630d18d56367712a64445a6e0bc83e",
+                "shasum": ""
+            },
+            "require": {
+                "erusev/parsedown": "^1.8.0|^1.8.0-beta-4",
+                "ext-dom": "*",
+                "ext-mbstring": "*",
+                "php": ">=5.3.6"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ParsedownExtra": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "An extension of Parsedown that adds support for Markdown Extra.",
+            "homepage": "https://github.com/erusev/parsedown-extra",
+            "keywords": [
+                "markdown",
+                "markdown extra",
+                "parsedown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown-extra/issues",
+                "source": "https://github.com/erusev/parsedown-extra/tree/master"
+            },
+            "time": "2021-10-25T08:46:29+00:00"
+        },
+        {
+            "name": "myclabs/php-enum",
+            "version": "1.8.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/myclabs/php-enum.git",
+                "reference": "a867478eae49c9f59ece437ae7f9506bfaa27483"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/myclabs/php-enum/zipball/a867478eae49c9f59ece437ae7f9506bfaa27483",
+                "reference": "a867478eae49c9f59ece437ae7f9506bfaa27483",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": "^7.3 || ^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5",
+                "squizlabs/php_codesniffer": "1.*",
+                "vimeo/psalm": "^4.6.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MyCLabs\\Enum\\": "src/"
+                },
+                "classmap": [
+                    "stubs/Stringable.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP Enum contributors",
+                    "homepage": "https://github.com/myclabs/php-enum/graphs/contributors"
+                }
+            ],
+            "description": "PHP Enum implementation",
+            "homepage": "http://github.com/myclabs/php-enum",
+            "keywords": [
+                "enum"
+            ],
+            "support": {
+                "issues": "https://github.com/myclabs/php-enum/issues",
+                "source": "https://github.com/myclabs/php-enum/tree/1.8.4"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/mnapoli",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/myclabs/php-enum",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2022-08-04T09:53:51+00:00"
+        },
+        {
+            "name": "oeuvres/kit",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/kit.git",
+                "reference": "df0d1331cf1227061e6a827070ce193f367abc55"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/df0d1331cf1227061e6a827070ce193f367abc55",
+                "reference": "df0d1331cf1227061e6a827070ce193f367abc55",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "ext-xsl": "*",
+                "ext-zip": "*",
+                "php": ">=7.2",
+                "psr/log": "1.1.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "9"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Kit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "Routing, logging, templating… small code for big texts",
+            "keywords": [
+                "log",
+                "logging",
+                "router",
+                "routing",
+                "template",
+                "templating",
+                "xml",
+                "xsl",
+                "xslt"
+            ],
+            "support": {
+                "issues": "https://github.com/oeuvres/kit/issues",
+                "source": "https://github.com/oeuvres/kit/tree/main"
+            },
+            "time": "2023-09-06T17:50:48+00:00"
+        },
+        {
+            "name": "oeuvres/teinte",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/teinte_php.git",
+                "reference": "67a28cb0d1a4e37c31e6cb7f4953dd8a4cfdd9e1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/teinte_php/zipball/67a28cb0d1a4e37c31e6cb7f4953dd8a4cfdd9e1",
+                "reference": "67a28cb0d1a4e37c31e6cb7f4953dd8a4cfdd9e1",
+                "shasum": ""
+            },
+            "require": {
+                "erusev/parsedown-extra": "dev-master",
+                "ext-tidy": "*",
+                "oeuvres/kit": "dev-main",
+                "oeuvres/xsl": "dev-main",
+                "php": ">=7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "9"
+            },
+            "default-branch": true,
+            "bin": [
+                "bin/teinte"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Teinte\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "Transform texts from and to : TEI, DOCX, HTML, EPUB, MD…",
+            "support": {
+                "issues": "https://github.com/oeuvres/teinte_php/issues",
+                "source": "https://github.com/oeuvres/teinte_php/tree/main"
+            },
+            "time": "2023-09-06T17:52:44+00:00"
+        },
+        {
+            "name": "oeuvres/xsl",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oeuvres/teinte_xsl.git",
+                "reference": "e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oeuvres/teinte_xsl/zipball/e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4",
+                "reference": "e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Oeuvres\\Xsl\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Frédéric Glorieux",
+                    "email": "frederic.glorieux@fictif.org"
+                }
+            ],
+            "description": "XSLT-1.0 package to transform texts, from and to, TEI",
+            "support": {
+                "issues": "https://github.com/oeuvres/teinte_xsl/issues",
+                "source": "https://github.com/oeuvres/teinte_xsl/tree/main"
+            },
+            "time": "2023-09-06T17:53:33+00:00"
+        },
+        {
+            "name": "psr/log",
+            "version": "1.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/log.git",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/d49695b909c3b7628b6289db5479a1c204601f11",
+                "reference": "d49695b909c3b7628b6289db5479a1c204601f11",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Log\\": "Psr/Log/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for logging libraries",
+            "homepage": "https://github.com/php-fig/log",
+            "keywords": [
+                "log",
+                "psr",
+                "psr-3"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/1.1.4"
+            },
+            "time": "2021-05-03T11:20:27+00:00"
+        },
+        {
+            "name": "seboettg/citeproc-php",
+            "version": "2.7-dev",
+            "dist": {
+                "type": "path",
+                "url": "../citeproc-php",
+                "reference": "5a1d3f855e3ce6638b4d0f5b666fb3f4e3a17a3c"
+            },
+            "require": {
+                "citation-style-language/locales": "dev-master",
+                "citation-style-language/styles": "dev-master",
+                "ext-intl": "*",
+                "ext-json": "*",
+                "ext-mbstring": "*",
+                "ext-simplexml": "*",
+                "myclabs/php-enum": "^1.8",
+                "php": ">=7.3",
+                "seboettg/collection": ">=3.1.0,<4.0.0"
+            },
+            "require-dev": {
+                "php-coveralls/php-coveralls": "^1",
+                "phpmd/phpmd": "^2.8",
+                "phpunit/phpunit": "^8.5",
+                "squizlabs/php_codesniffer": "^3.5"
+            },
+            "suggest": {
+                "symfony/polyfill-mbstring": "^1.10"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Seboettg\\CiteProc\\": "src/"
+                },
+                "files": [
+                    "src/functions.php"
+                ]
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "Seboettg\\CiteProc\\Test\\": "tests/src/"
+                }
+            },
+            "scripts": {
+                "post-install-cmd": [
+                    "@compile-test-cases",
+                    "chmod +x vendor/bin/phpunit"
+                ],
+                "post-update-cmd": [
+                    "@compile-test-cases",
+                    "chmod +x vendor/bin/phpunit"
+                ],
+                "test": [
+                    "vendor/bin/phpunit -c phpunit.xml"
+                ],
+                "check": [
+                    "@cs-check",
+                    "@test"
+                ],
+                "cs-check": [
+                    "phpcs"
+                ],
+                "cs-fix": [
+                    "phpcbf"
+                ],
+                "compile-test-cases": [
+                    "cd ./tests/fixtures/basic-tests/; ./processor.py -g"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian Böttger",
+                    "email": "seboettg@gmail.com",
+                    "homepage": "https://sebastianboettger.net",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Full-featured CSL processor (https://citationstyles.org)",
+            "support": {
+                "issues": "https://github.com/seboettg/citeproc-php/issues"
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": true
+            }
+        },
+        {
+            "name": "seboettg/collection",
+            "version": "v3.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/seboettg/Collection.git",
+                "reference": "6f753aef75923965173dcb11696e5dece0533f45"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/seboettg/Collection/zipball/6f753aef75923965173dcb11696e5dece0533f45",
+                "reference": "6f753aef75923965173dcb11696e5dece0533f45",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "require-dev": {
+                "php-coveralls/php-coveralls": "^1",
+                "phpunit/phpunit": "8.5.*"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/ArrayList/Functions.php"
+                ],
+                "psr-4": {
+                    "Seboettg\\Collection\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian Böttger",
+                    "email": "seboettg@gmail.com"
+                }
+            ],
+            "description": "Collection is a set of useful PHP wrapper classes for arrays, similar to Java Collection. Contains ArrayList, Stack, Queue.",
+            "keywords": [
+                "OOP",
+                "array",
+                "arraylist",
+                "basic-data-structures",
+                "collections",
+                "comparable",
+                "comparable-interface",
+                "comparator",
+                "datastructures",
+                "filter",
+                "map",
+                "queue",
+                "sort",
+                "stack"
+            ],
+            "support": {
+                "issues": "https://github.com/seboettg/Collection/issues",
+                "source": "https://github.com/seboettg/Collection/tree/v3.1.0"
+            },
+            "time": "2022-07-09T19:47:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "oeuvres/teinte": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
