@@ -1,57 +1,62 @@
-[
-	{
-		"id": "http://zotero.org/groups/5018778/items/LYP8XWSU",
-		"type": "article-journal",
-		"call-number": "ddr19280324nsal",
-		"container-title": "La Nouvelle Semaine artistique et littéraire",
-		"issue": "7",
-		"note": "publisher-place: Neuchâtel",
-		"page": "105-108",
-		"title": "Un soir à Vienne avec Gérard",
-		"URL": "https://www.unige.ch/rougemont/articles/1924-1930/ddr19280324nsal",
-		"author": [
-			{
-				"family": "Rougemont",
-				"given": "Denis",
-				"dropping-particle": "de"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1928",
-					3,
-					24
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/5018778/items/2PKSYQSJ",
-		"type": "article-journal",
-		"call-number": "ddr19370130flech",
-		"container-title": "La Flèche",
-		"issue": "51",
-		"note": "publisher-place: Paris\n\nPrécédé de la notice suivante : « Nous présentons ci-dessous à tous nos camarades et lecteurs de <i>La Flèche</i> le manifeste des clubs de presse en formation. À l’heure où la grande presse française se constitue chaque jour davantage en trusts, il ne suffit plus de dénoncer ses mensonges et ses trahisons. Il faut passer à l’action. Sur un terrain parfaitement précis et limité, celui de l’information, nous avons pensé que nous devions collaborer avec des camarades venant d’autres organisations. Ce sera certainement par ailleurs l’occasion d’un échange de vues qui ne peut être que fructueux pour tous. Nous faisons un appel pressant auprès de tous nos amis, frontistes ou non frontistes, pour qu’ils comprennent l’intérêt exceptionnel que présente la formation des clubs, pour qu’ils y collaborent activement, pour que dans leur localité, si éloignée, si peu importante soit-elle, le club de presse dont ils seront les instigateurs devienne rapidement un organisme craint et respecté. À l’heure où l’Argent-roi investit complètement la presse française, à l’heure où Havas règne, à l’heure où la diffusion de la pensée par le papier, le film et la radio n’a jamais été si grande, nous sommes obligés de revenir à une forme antique de transmission : l’information orale. C’est la seule possible aujourd’hui. Camarades, si vous voulez <i>savoir</i>, aidez-nous ! (Pour tous renseignements, adressez provisoirement les lettres à <i>La Flèche</i>, 7, rue de la Michodière, en mettant dans le coin la mention : clubs de presse.) »",
-		"page": "2",
-		"title": "Formons des clubs de presse",
-		"URL": "https://www.unige.ch/rougemont/articles/1936-1938/ddr19370130flech",
-		"author": [
-			{
-				"family": "Rougemont",
-				"given": "Denis",
-				"dropping-particle": "de"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1937",
-					1,
-					30
-				]
-			]
-		}
-	}
+	[
 
-]
+		{
+			"id": "n1", 
+			"type": "article-newspaper",
+			"title": "Date range bugs",
+			"issued": {
+				"date-parts": [[1946, 12, 31], [1947, 1, 1]]
+			}
+		},
+		{
+			"id": "n2", 
+			"type": "article-newspaper",
+			"title": "Date range bugs",
+			"issued": {
+				"date-parts": [[1946, 12], [1947, 1]]
+			}
+		},
+		{
+			"id": "n3", 
+			"type": "article-newspaper",
+			"title": "Date range bugs",
+			"issued": {
+				"date-parts": [[1946, 9], [1946, 10]]
+			}
+		},
+		{
+			"id": "n4", 
+			"type": "article-newspaper",
+			"title": "Date range bugs",
+			"issued": {
+				"date-parts": [[1946, 9, 10], [1946, 12, 13]]
+			}
+		},
+		{
+			"id": "http://zotero.org/groups/5018778/items/GAP9QIFM",
+			"type": "book",
+			"call-number": "ddr19590300oe",
+			"event-place": "Genève",
+			"note": "issued: 1959",
+			"number-of-pages": "40",
+			"publisher": "Bulletin du Centre européen de la culture",
+			"publisher-place": "Genève",
+			"title": "Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire",
+			"URL": "https://www.unige.ch/rougemont/livres/ddr1959oe",
+			"author": [
+				{
+					"family": "Rougemont",
+					"given": "Denis",
+					"dropping-particle": "de"
+				}
+			],
+			"issued": {
+				"date-parts": [
+					[
+						"1959",
+						3
+					]
+				]
+			}
+		}
+	]

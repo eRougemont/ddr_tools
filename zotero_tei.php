@@ -11,7 +11,9 @@ use Seboettg\CiteProc\Util\Variables;
 // set global variables here
 ZoteroTei::init([
     'style' => 'nouvelles-perspectives-en-sciences-sociales',
-    'lang' => 'fr-FR'
+    // "style" => 'apa',
+    'lang' => 'fr-FR',
+    // 'lang' => 'en',
 ]);
 
 
@@ -35,7 +37,10 @@ class ZoteroTei
         Log::setLogger(new LoggerCli(LogLevel::DEBUG));
         self::$conf = array_merge(self::$conf, $conf);
         // build dictionary of variables to extract from extra
-        self::$variables = array_flip(array_merge(Variables::NUMBER_VARIABLES, Variables::STANDARD_VARIABLE));
+        self::$variables = array_flip(array_merge(
+            Variables::NUMBER_VARIABLES, 
+            Variables::STANDARD_VARIABLE, 
+        ));
         unset(self::$variables['note']);
         $tagsoup = function($csl, $html) {
             $html = preg_replace(
@@ -106,6 +111,7 @@ class ZoteroTei
             !file_exists($zotero_html_file) 
             || filemtime($zotero_csl_file) > filemtime($zotero_html_file)
         ) {
+            echo "Generate CSL citations in $zotero_html_file\n";
             // styled html from csl data
             $style = StyleSheet::loadStyleSheet(self::$conf['style']);
             $citeProc = new CiteProc($style, self::$conf['lang'], self::$additionalMarkup);
@@ -113,7 +119,7 @@ class ZoteroTei
             file_put_contents($zotero_html_file, $html);
         }
 
-        // glob of TEI file to populate
+        // no glob of TEI file to populate
         if (!count($argv)) return;
         // alert if no tei export of the lib
         $zotero_tei_file = $dst_path . ".xml";
@@ -134,36 +140,50 @@ class ZoteroTei
             unset($item->id);
             $csl_dic[$id] = json_encode($item, JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT|JSON_NUMERIC_CHECK|JSON_UNESCAPED_UNICODE);
         }
+        $dom = new DOMDocument();
+        $dom->substituteEntities = true;
+        $dom->preserveWhiteSpace = true;
+        $dom->formatOutput = false;
         foreach($argv as $glob) {
             foreach (glob($glob) as $tei_file) {
+                $type = basename(dirname($tei_file));
                 $id = strtok(pathinfo($tei_file, PATHINFO_FILENAME), '_');
-                echo "$id — $tei_file \n";
+                echo "[$type] $id — $tei_file \n";
                 $xml = file_get_contents($tei_file);
-                $dom = new DOMDocument();
-                $dom->substituteEntities = true;
-                $dom->preserveWhiteSpace = true;
-                $dom->formatOutput = false;
-                $dom = Xt::loadXml($xml, $dom);
-                $xml = Xt::transformToXml(
-                    __DIR__ . "/zotero_tei.xsl",
-                    $dom,
-                    [
-                        'id' => $id,
-                        'zotero_tei_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_tei_file)),
-                        'zotero_html_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_html_file)),
-                    ],
-                );
-                if (isset($csl_dic[$id])) {
-                    $xml = str_replace(
-                        '<xenoData type="CSL"/>', 
-                        "<xenoData type=\"CSL\"><![CDATA[\n$csl_dic[$id]\n]]></xenoData>", 
-                        $xml);
+                Xt::loadXml($xml, $dom);
+                
+                if ($type == 'ddr_articles') {
+                    $xml = Xt::transformToXml(
+                        __DIR__ . "/zotero_articles.xsl",
+                        $dom,
+                        [
+                            'id' => $id,
+                            'zotero_html_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_html_file)),
+                        ],
+                    );
+                    // file_put_contents($tei_file, $xml);
                 }
                 else {
-                    echo "Pas de CSL pour : $tei_file\n";
+                    $xml = Xt::transformToXml(
+                        __DIR__ . "/zotero_tei.xsl",
+                        $dom,
+                        [
+                            'id' => $id,
+                            'zotero_tei_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_tei_file)),
+                            'zotero_html_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_html_file)),
+                        ],
+                    );
+                    if (isset($csl_dic[$id])) {
+                        $xml = str_replace(
+                            '<xenoData type="CSL"/>', 
+                            "<xenoData type=\"CSL\"><![CDATA[\n$csl_dic[$id]\n]]></xenoData>", 
+                            $xml);
+                    }
+                    else {
+                        echo "Pas de CSL pour : $tei_file\n";
+                    }
+                    file_put_contents($tei_file, $xml);
                 }
-
-                file_put_contents($tei_file, $xml);
             }
         }
 
@@ -188,12 +208,20 @@ class ZoteroTei
                 $note .= $line . "\n";
                 continue;
             }
-            $var = trim(substr($line, 0, $pos));
+            $var = preg_replace( '/\s+/', '-', strtolower(trim(substr($line, 0, $pos))));
+            $value = trim(substr($line, $pos + 1));
+            // dates
+            if (in_array($var, ['issued'])) {
+                $item->{$var} = self::parseDate($value);
+                continue;
+            }
+
             if (!isset(self::$variables[$var])) {
                 $note .= $line . "\n";
                 continue;
             }
-            $item->{$var} = trim(substr($line, $pos + 1));
+            // simple value
+            $item->{$var} = $value;
         }
         $note = trim($note);
         if (!$note) {
@@ -201,6 +229,47 @@ class ZoteroTei
         }
         else {
             $item->note = $note;
+        }
+    }
+
+    static function parseDate($value)
+    {
+        $obj = new stdClass();
+        if (preg_match('/^".*"$/', $value)) {
+            $obj->raw = json_decode($value);
+            return $obj;
+        }
+        else if (preg_match(
+            '/(\d\d\d\d)(?:-(\d?\d))?(?:-(\d?\d))? *\/ *(\d\d\d\d)(?:-(\d?\d))?(?:-(\d?\d))?/', 
+            $value,
+            $matches
+        )) {
+            $obj->{"date-parts"} = [];
+            $date1 = [(int)$matches[1]];
+            if (isset($matches[2]) && $matches[2]) $date1[] = (int)$matches[2]; 
+            if (isset($matches[3]) && $matches[3]) $date1[] = (int)$matches[3]; 
+            $obj->{"date-parts"}[] = $date1;
+            $date2 = [(int)$matches[4]];
+            if (isset($matches[5]) && $matches[5]) $date2[] = (int)$matches[5]; 
+            if (isset($matches[6]) && $matches[6]) $date2[] = (int)$matches[6]; 
+            $obj->{"date-parts"}[] = $date2;
+            return $obj;
+        }
+        else if (preg_match(
+            '/^(\d\d\d\d)(?:-(\d?\d))?(?:-(\d?\d))?$/',
+            $value,
+            $matches
+        )) {
+            $obj->{"date-parts"} = [];
+            $date1 = [(int)$matches[1]];
+            if (isset($matches[2]) && $matches[2]) $date1[] = (int)$matches[2]; 
+            if (isset($matches[3]) && $matches[3]) $date1[] = (int)$matches[3]; 
+            $obj->{"date-parts"}[] = $date1;
+            return $obj;
+        }
+        else {
+            $obj->raw = json_decode($value);
+            return $obj;
         }
     }
 }
