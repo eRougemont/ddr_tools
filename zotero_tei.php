@@ -12,6 +12,7 @@ use Seboettg\CiteProc\Util\Variables;
 ZoteroTei::init([
     'style' => 'nouvelles-perspectives-en-sciences-sociales',
     // "style" => 'apa',
+    // 'style' => 'organization',
     'lang' => 'fr-FR',
     // 'lang' => 'en',
 ]);

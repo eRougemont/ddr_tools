@@ -3,9 +3,9 @@
 		{
 			"id": "n1", 
 			"type": "article-newspaper",
-			"title": "Date range bugs",
+			"title": "1ᵉʳ mai",
 			"issued": {
-				"date-parts": [[1946, 12, 31], [1947, 1, 1]]
+				"date-parts": [[2023, 5, 1]]
 			}
 		},
 		{
@@ -13,7 +13,7 @@
 			"type": "article-newspaper",
 			"title": "Date range bugs",
 			"issued": {
-				"date-parts": [[1946, 12], [1947, 1]]
+				"date-parts": [[1946, 5, 1]]
 			}
 		},
 		{
