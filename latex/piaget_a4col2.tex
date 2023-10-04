@@ -1,0 +1,66 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX model for Piaget books and articles       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Needed before document class
+\RequirePackage{pdftexcmds} % needed for tests expressions
+\RequirePackage{fix-cm} % correct units
+
+% articles has no chapters
+\documentclass[%
+    % twoside,
+    openany, % avoid blank page before chapter
+    % openright, % for 2 page print
+    % 11pt
+]{book}
+\usepackage[%
+    a4paper,
+    inner=17mm,
+    outer=17mm,
+    top=20mm,
+    bottom=20mm,
+    marginparsep=0pt,
+]{geometry}
+\setlength{\columnsep}{10mm}
+\setlength{\arrayrulewidth}{0.2pt}
+\setlength{\columnseprule}{0pt} % width of line betwwen cols
+
+\input{piaget}
+
+% runing titles
+\fancypagestyle{main}{%
+    \fancyhf{}
+    % \setlength{\headheight}{1.5em}
+    \fancyhead{} % reset head
+    \fancyfoot{} % reset foot
+    % \fancyhead[L]{\truncate{0.45\headwidth}{\fontrun\elauthor (\eldate)}}
+    % \fancyhead[R]{\truncate{0.45\headwidth}{ \fontrun\emph{\eltitle}}}
+    \fancyhead[RO, LE]{\sffamily\thepage / \pageref{LastPage}}
+    \fancyhead[LO, RE]{\truncate{0.8\headwidth}{\sffamily\scshape\elsource}}
+    \renewcommand{\headrule}{}
+}
+
+
+
+\begin{document}
+
+\thispagestyle{empty}
+\twocolumn[{ \chapo }]
+\pagestyle{main} % style of runing heads
+
+
+\begingroup
+    \bigskip
+    \sffamily
+    \makeatletter\@starttoc{toc}\makeatother % toc without new page
+    \bigskip
+\endgroup
+
+
+%%%%%%%%%%%%%%%%
+% text content %
+%%%%%%%%%%%%%%%%
+
+%text%
+
+
+\end{document}

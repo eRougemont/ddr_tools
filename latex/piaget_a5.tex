@@ -1,0 +1,163 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX model for Piaget books and articles       %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Needed before document class
+\RequirePackage{pdftexcmds} % needed for tests expressions
+\RequirePackage{fix-cm} % correct units
+
+% book has running title
+% report has chapters 
+% article has no chapters
+\documentclass[%
+  11pt,
+  a5paper,
+  twoside,
+  openany, % avoid blank page before chapter
+]{book}
+\usepackage{graphicx} % needed to have a5paper take effect
+\usepackage[%
+  inner=25mm,
+  outer=25mm,
+  % top=20mm,
+  bottom=15mm,
+  marginparsep=0pt,
+]{geometry}
+% \usepackage[8pt]{moresize}
+
+% inform footmisc package, notes counter by page
+\PassOptionsToPackage{perpage}{footmisc}
+
+%%%%%%%%%%%%%%%%%
+% Teinte macros %
+%%%%%%%%%%%%%%%%%
+\input{vendor/oeuvres/xsl/tei_latex/teinte}
+
+\renewcommand{\parnoindent}{} % let indent all paras
+
+\usepackage{fontspec}
+\directlua{luaotfload.add_fallback
+   ("mathfallback",
+    {
+      "Symbola:mode=harf;"
+    }
+   )}
+\setmainfont{Times New Roman}[
+  Scale = 0.98,
+  Renderer=HarfBuzz,
+  RawFeature={fallback=mathfallback},
+]
+\linespread{0.85} % a kind of lineheight
+\setsansfont{Arial}[
+  Renderer=HarfBuzz
+]
+\setlength{\parskip}{0pt plus0pt}
+
+% https://tex.stackexchange.com/questions/458588/
+\usepackage[basic,italic,symbolgreek]{mathastext}
+\detectsc % force uc if sc not available
+
+\titleformat{name=\chapter} % command
+  [display] % shape
+  {\vspace{1.5em}\centering} % format
+  {} % label
+  {0pt} % separator between n
+  {}
+[{\huge\textbf{#1}}\bigskip] % after code
+% \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
+\titlespacing*{\chapter}{0pt}{-2em}{0pt}[0pt]
+
+\titleformat{name=\section}
+  [display]{}{}{}{}
+  [\vbox{\large\centering\textbf{#1}}]
+\titlespacing{\section}{0pt}{0pt plus 4pt minus 2pt}{\baselineskip}
+
+\titleformat{name=\subsection}
+  [block]
+  {}
+  {} % \thesection
+  {} % separator \arrayrulewidth
+  {}
+[\vbox{\large\textbf{#1}}]
+% \titlespacing{\subsection}{0pt}{0pt plus 4pt minus 2pt}{\baselineskip}
+
+\renewcommand{\tablestart}{\centering\setstretch{0.8}} % table, normal font
+\renewcommand\pb[1]{{\normalfont\small [p. #1]}} % 
+\let\oldfootnote\footnote
+\renewcommand{\footnote}[1]{\oldfootnote{\setstretch{0.85}#1}}
+
+
+% lang of document
+\usepackage[french]{babel}
+\selectlanguage{french}
+% specific Piaget
+\newcommand{\observation}[1]{
+  % framed leftbar will strip notes, margin not visible on some page
+  \medskip
+  {%
+    % \setlength{\parindent}{0em}
+    \smaller
+    % \setlength{\parskip}{1\baselineskip plus 1pt}
+    \setstretch{0.90}
+  #1
+  }
+  \medskip
+}
+
+
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  % \setlength{\headheight}{1.5em}
+  \fancyhead{} % reset head
+  \fancyfoot{} % reset foot
+  \fancyhead[RO]{\truncate{0.90\headwidth}{\emph{\eltitle}}}
+  \fancyhead[LO, RE]{\thepage}
+  \fancyhead[LE]{\truncate{0.90\headwidth}{\elauthorshort (\eldate)}}
+  \renewcommand{\headrule}{}
+}
+
+% keep footnorule, to avoid confusion with observation
+
+\begin{document}
+
+
+\begin{titlepage}
+\thispagestyle{empty}  
+
+\begin{tcolorbox}[
+  standard jigsaw,
+  opacityback=0,
+]
+  \centering\parindent0pt
+  \vskip1em \elsource\par\vskip1em
+
+  Version électronique réalisée pour la\par
+  \vskip1em
+  Fondation Jean Piaget\\ pour recherches psychologiques et épistémologiques\par
+  \vskip1em
+  La pagination originale est indiquée entre crochets [p. 000].\par\vskip2em
+  Ce texte est téléchargeable sur le site de la Fondation
+  \\\scriptsize\underline{\url{http://www.fondationjeanpiaget.ch/fjp/site/textes/index_extraits_chrono5.php}}
+\end{tcolorbox}
+
+\end{titlepage}
+\clearpage
+\vspace*{10mm}
+
+\begin{addmargin}[3\parindent]{0em}
+\begin{flushright}
+  \noindent
+  \LARGE
+  \setstretch{1.3}
+  \textit{\eltitle}\par
+  % \noindent\elauthor (\eldate)\par
+\end{flushright}
+\end{addmargin}
+\vspace*{25mm}
+
+
+\pagestyle{plain} % style of runing heads
+
+%text%
+
+
+\end{document}

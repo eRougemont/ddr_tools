@@ -1,0 +1,69 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX model for Piaget booklet %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Needed before document class
+\RequirePackage{pdftexcmds} % needed for tests expressions
+\RequirePackage{fix-cm} % correct units
+
+\documentclass[twoside]{book} % ,notitlepage
+\usepackage[%
+  % 10pt,
+  papersize={105mm, 297mm},
+  inner=12mm,
+  outer=12mm,
+  top=20mm,
+  bottom=15mm,
+]{geometry}
+
+\input{rougemont}
+
+\fancypagestyle{main}{%
+  \fancyhf{}
+  \fancyhead{} % reset head
+  \fancyfoot{} % reset foot
+  \fancyhead[RE]{\truncate{0.9\headwidth}{\scshape\eltitle}} % book ref
+  \fancyhead[LO]{\truncate{0.9\headwidth}{\scshape\leftmark}}
+  \fancyhead[RO,LE]{\thepage}
+  \renewcommand{\headrule}{}
+}
+
+\begin{document}
+
+\pagestyle{empty}
+
+{%
+    \centering\parindent0pt
+    {\LARGE\scshape\textbf\eltitle\par}\vskip2em
+    {\Large\elauthor\par}\vskip2em
+    {\LARGE(\eldate)\par}
+    
+    \vfill
+    \hline
+    \vfill
+
+    \vskip Adresse éditoriale ?\par\vskip1em
+}
+
+\newpage~\newpage
+\addtocounter{page}{-2}
+
+% \chapo
+
+
+\begingroup
+    \bigskip
+    \sffamily
+    \makeatletter\@starttoc{toc}\makeatother % toc without new page
+    \bigskip
+\endgroup
+
+\pagestyle{main} % style of runing heads
+
+
+% the text included by script
+%text%
+% at least one blank page for 
+\newpage\pagestyle{empty}~\newpage
+
+\end{document}

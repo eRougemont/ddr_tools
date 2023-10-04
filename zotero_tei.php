@@ -162,7 +162,7 @@ class ZoteroTei
                             'zotero_html_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_html_file)),
                         ],
                     );
-                    // file_put_contents($tei_file, $xml);
+                    file_put_contents($tei_file, $xml);
                 }
                 else {
                     $xml = Xt::transformToXml(

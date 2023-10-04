@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/locales.git",
-                "reference": "8bbac89b216f551ca3d4f77860818938d678badd"
+                "reference": "fe37f30df9d11e43f5f727c9b46c067bdc543b55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/8bbac89b216f551ca3d4f77860818938d678badd",
-                "reference": "8bbac89b216f551ca3d4f77860818938d678badd",
+                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/fe37f30df9d11e43f5f727c9b46c067bdc543b55",
+                "reference": "fe37f30df9d11e43f5f727c9b46c067bdc543b55",
                 "shasum": ""
             },
             "default-branch": true,
@@ -41,7 +41,7 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/locales/issues",
-                "source": "https://github.com/citation-style-language/locales/tree/v0.0.6"
+                "source": "https://github.com/citation-style-language/locales/tree/v0.0.11"
             },
             "funding": [
                 {
@@ -49,7 +49,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-07-31T14:30:14+00:00"
+            "time": "2023-09-21T16:37:26+00:00"
         },
         {
             "name": "citation-style-language/styles",
@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/styles.git",
-                "reference": "2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46"
+                "reference": "dbb9e22f10b22c0d90cb9321ce991f1b1e8a7122"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46",
-                "reference": "2a122e3fa0c8bf5a84d1b64d9110c7f89abc6e46",
+                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/dbb9e22f10b22c0d90cb9321ce991f1b1e8a7122",
+                "reference": "dbb9e22f10b22c0d90cb9321ce991f1b1e8a7122",
                 "shasum": ""
             },
             "default-branch": true,
@@ -81,7 +81,7 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/styles/issues",
-                "source": "https://github.com/citation-style-language/styles/tree/v0.0.291"
+                "source": "https://github.com/citation-style-language/styles/tree/v0.0.303"
             },
             "funding": [
                 {
@@ -89,7 +89,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-08-31T10:31:32+00:00"
+            "time": "2023-09-17T18:47:24+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -375,12 +375,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oeuvres/teinte_xsl.git",
-                "reference": "e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4"
+                "reference": "61f63be3fa88af785433aee3cbeec4a67ff1bd26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oeuvres/teinte_xsl/zipball/e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4",
-                "reference": "e39ca6c08d0e75889c3ac1b3b270f6dbf6c44ce4",
+                "url": "https://api.github.com/repos/oeuvres/teinte_xsl/zipball/61f63be3fa88af785433aee3cbeec4a67ff1bd26",
+                "reference": "61f63be3fa88af785433aee3cbeec4a67ff1bd26",
                 "shasum": ""
             },
             "default-branch": true,
@@ -405,7 +405,7 @@
                 "issues": "https://github.com/oeuvres/teinte_xsl/issues",
                 "source": "https://github.com/oeuvres/teinte_xsl/tree/main"
             },
-            "time": "2023-09-06T17:53:33+00:00"
+            "time": "2023-10-03T17:04:07+00:00"
         },
         {
             "name": "psr/log",
@@ -463,7 +463,7 @@
             "dist": {
                 "type": "path",
                 "url": "../citeproc-php",
-                "reference": "5a1d3f855e3ce6638b4d0f5b666fb3f4e3a17a3c"
+                "reference": "89e5a9849fe90650027f54d4699624736053a9c9"
             },
             "require": {
                 "citation-style-language/locales": "dev-master",

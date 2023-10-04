@@ -1,0 +1,87 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LaTeX model for Piaget, commands common to booklet and a4col2 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% notes counter by page
+% inform footmisc package, notes counter by page
+\PassOptionsToPackage{perpage}{footmisc}
+% not for Harding (Nature)
+% \linespread{0.9} % a kind of lineheight
+% \setlength{\parskip}{3pt} % give some air between \par
+
+
+%%%%%%%%%%%%%%%%%
+% Teinte macros %
+%%%%%%%%%%%%%%%%%
+\input{../vendor/oeuvres/xsl/tei_latex/teinte}
+
+\directlua{luaotfload.add_fallback
+   ("mathfallback", {
+      % https://learn.microsoft.com/en-us/typography/opentype/spec/scripttags
+      "Symbola:mode=harf;" % ;script=math
+    })
+}
+\setmainfont[
+    UprightFont    = SourceSans3-Light,
+    ItalicFont     = SourceSans3-LightIt,
+    BoldFont       = SourceSans3-Semibold,
+    BoldItalicFont = SourceSans3-SemiboldIt,
+    Renderer=HarfBuzz,
+    RawFeature={fallback=mathfallback},
+]{Source Sans 3 Light}
+% https://tex.stackexchange.com/questions/458588/looking-for-math-font-to-match-ibm-plex-serif-sans
+\usepackage[basic,italic,symbolgreek]{mathastext}
+
+% sans serif for foot notes
+% \renewcommand{\footnotesize}{\sffamily\fontsize{9.5pt}{11.2pt}\selectfont}
+\let\oldfootnote\footnote
+% \renewcommand{\footnote}[1]{\oldfootnote{\sffamily#1}}
+% bold footnote marks
+\renewcommand{\thefootnote}{\bfseries{\arabic{footnote}}}
+
+\usepackage[french]{babel}
+\selectlanguage{french}
+
+
+
+\renewcommand{\parnoindent}{} % let indent all paras
+\renewcommand{\headrulewidth}{0.1pt}
+
+
+\titleformat{name=\chapter} % command
+    [display] % shape
+    {\vspace{1.5em}\centering} % format
+    {} % label
+    {0pt} % separator between n
+    {}
+[{\bfseries\huge{#1}}\bigskip] % after code
+% \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
+\titlespacing*{\chapter}{0pt}{-2em}{0pt}[0pt]
+
+\titleformat{name=\section}
+    [display]{}{}{}{}
+    [\vbox{\bfseries\large\centering{#1}}]
+\titlespacing{\section}{0pt}{0pt plus 4pt minus 2pt}{\baselineskip}
+
+\titleformat{name=\subsection}
+    [block]
+    {}
+    {} % \thesection
+    {} % separator \arrayrulewidth
+    {}
+[\vbox{\bfseries{#1}}]
+% \titlespacing{\subsection}{0pt}{0pt plus 4pt minus 2pt}{\baselineskip}
+
+\newcommand\chapo{{%
+    \centering\parindent0pt
+    {\LARGE\textsc{\eltitle}\par}\vskip1em
+    {\LARGE\elauthor\par}\vskip1em
+    {\LARGE(\eldate)\par}
+    \sffamily
+    \vskip1em 
+    
+    \ifdefined\elsource
+Réf. originale : \elsource\par\vskip1em
+    \fi
+    \editor\par\vskip1em
+    \licence\par\vskip2em
+}}

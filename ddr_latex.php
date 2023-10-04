@@ -22,16 +22,15 @@ class Rougemont
 {
     /** Object to load Tei for exports */
     static $tei;
-    /** Diectory where LaTeX hould work */
+    /** Diectory where LaTeX should work */
     static $work_dir;
-    static $skeltex;
 
     public static function cli()
     {
         global $argv;
         Log::setLogger(new LoggerCli(LogLevel::DEBUG));
         if (!isset($argv[1])) {
-            die("usage: php docx_tei.php examples/*.docx\n");
+            die("usage: php ddr_latex.php livres/*.xml\n");
         }
         // drop $argv[0], $argv[1…] should be file
         array_shift($argv);
@@ -76,7 +75,30 @@ class Rougemont
         Filesys::mkdir($dir);
         $oldPath = getcwd();
         chdir($dir); // change working directory
+        
+        // booklet
+        $latex_file =  "$dir/{$filename}_105x297.tex";
+        self::$tei->toUri(
+            'latex', 
+            $latex_file, 
+            [
+                'template' =>  __DIR__ . "/latex/rougemont_booklet.tex",
+                'latex.xsl' => __DIR__ . "/latex/rougemont_latex.xsl",
+            ]
+        );
+        exec("latexmk -lualatex -quiet -f " . $latex_file);
+        // to build the booklet, apply a tex script to pdf
+        $tex = file_get_contents(__DIR__ .'/vendor/oeuvres/xsl/tei_latex/booklet_bind.tex');        
+        // set the pdf file to transform (relative path)
+        $tex = str_replace('{thepdf}', "{{$filename}_105x297}", $tex);
+        // write the tex to process
+        $dst_booklet = "$dir/{$filename}_booklet";
+        file_put_contents("$dst_booklet.tex", $tex);
+        // works with -pdf only
+        exec("latexmk -pdf -quiet -f $dst_booklet.tex");
+        
         // A4 2 cols
+        /*
         $latex_file = "$dir/$filename.tex";
         self::$tei->toUri(
             'latex', 
@@ -88,6 +110,7 @@ class Rougemont
             ]
         );
         exec("latexmk -lualatex -quiet -f " . $latex_file);
+        */
         
         /*
         // booklet

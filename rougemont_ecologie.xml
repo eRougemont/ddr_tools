@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="piaget.xsl"?>
+<?xml-stylesheet type="text/css" href="https://oeuvres.github.io/teinte/author-tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fr" xml:id="rougemont_ecologie">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Écologie, une compilation</title>
+        <author>
+          <forename>Denis</forename>
+          <surname>de Rougemont</surname>
+        </author>
+      </titleStmt>
+      <editionStmt>
+        <edition>ENOP</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Centre Jean Piaget, Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">
+            Cette œuvre est mise à disposition selon les termes de la Licence Creative Commons :
+            <lb/>Attribution – Pas d'Utilisation Commerciale – Pas de Modification – Partage dans les mêmes conditions
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date from="1921" to="1946"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <xi:include href="../ddr_articles/ddr-fv.xml" xpointer="ddr19280200fv"/>
+      <xi:include href="../ddr_articles/ddr-1970-1973.xml" xpointer="ddr19710204ill"/>
+      <!--
+      <xi:include href="../ddr_livres/ddr19720400dfso.xml" xpointer="ddr19720400dfso_body"/>
+      -->
+      <xi:include href="../ddr_articles/ddr-1970-1973.xml" xpointer="ddr19720000ml"/>
+      <xi:include href="../ddr_articles/ddr-1970-1973.xml" xpointer="ddr19731100acr"/>
+      <xi:include href="../ddr_articles/ddr-1974-1977.xml" xpointer="ddr19740200docens"/>
+      <xi:include href="../ddr_articles/ddr-1974-1977.xml" xpointer="ddr19750000rps"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19780200pa"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19780000jur"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19790000wk"/>
+      <xi:include href="../ddr_livres/ddr19790423rpe_rapport-peuple-europeen.xml" xpointer="ddr19790423rpe04"/>
+      <xi:include href="../ddr_livres/ddr19790423rpe_rapport-peuple-europeen.xml" xpointer="ddr19790423rpe05"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19800000aes"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19800000lw"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19810304cons"/>
+      <xi:include href="../ddr_articles/ddr-1978-1981.xml" xpointer="ddr19810500cert"/>
+      <xi:include href="../ddr_articles/ddr-1982-1985.xml" xpointer="ddr19830000laun"/>
+      <xi:include href="../ddr_articles/ddr-1982-1985.xml" xpointer="ddr19850100ago"/>
+      <xi:include href="../ddr_articles/ddr-1982-1985.xml" xpointer="ddr19960000te"/>
+    </body>
+  </text>
+</TEI>
