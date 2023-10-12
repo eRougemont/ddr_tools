@@ -19,6 +19,26 @@
                     "seboettg/citeproc-php": "2.7-dev"
                 }
             }
+        },
+        {
+            "type": "path",
+            "url": "../teinte_php",
+            "options": {
+                "symlink": true,
+                "versions": {
+                    "oeuvres/teinte": "dev-main"
+                }
+            }
+        },
+        {
+            "type": "path",
+            "url": "../teinte_xsl",
+            "options": {
+                "symlink": true,
+                "versions": {
+                    "oeuvres/xsl": "dev-main"
+                }
+            }
         }
     ],
     "require": {
