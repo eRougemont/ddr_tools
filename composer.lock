@@ -265,12 +265,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oeuvres/kit.git",
-                "reference": "df0d1331cf1227061e6a827070ce193f367abc55"
+                "reference": "97790c3f0b2429f43a6827e2efea191067da6554"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oeuvres/kit/zipball/df0d1331cf1227061e6a827070ce193f367abc55",
-                "reference": "df0d1331cf1227061e6a827070ce193f367abc55",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/97790c3f0b2429f43a6827e2efea191067da6554",
+                "reference": "97790c3f0b2429f43a6827e2efea191067da6554",
                 "shasum": ""
             },
             "require": {
@@ -316,7 +316,7 @@
                 "issues": "https://github.com/oeuvres/kit/issues",
                 "source": "https://github.com/oeuvres/kit/tree/main"
             },
-            "time": "2023-09-06T17:50:48+00:00"
+            "time": "2023-10-15T12:41:59+00:00"
         },
         {
             "name": "oeuvres/teinte",
@@ -324,7 +324,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_php",
-                "reference": "a2a133c6ef99524d3fe4d75571064a1717abe01b"
+                "reference": "a982fd1a717ef15cfb8ca56b09c3dcc7a0f49ca8"
             },
             "require": {
                 "erusev/parsedown-extra": "dev-master",
@@ -366,7 +366,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_xsl",
-                "reference": "7bb1a141f820948c568fd51039cd45859a18eb3f"
+                "reference": "3bc021eaa6ef0e4d3df5d03f311897ddc1ef8498"
             },
             "type": "library",
             "autoload": {
