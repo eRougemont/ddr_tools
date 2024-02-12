@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "citation-style-language/locales",
-            "version": "dev-master",
+            "version": "v0.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/locales.git",
@@ -20,7 +20,6 @@
                 "reference": "fe37f30df9d11e43f5f727c9b46c067bdc543b55",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -53,19 +52,18 @@
         },
         {
             "name": "citation-style-language/styles",
-            "version": "dev-master",
+            "version": "v0.0.361",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/styles.git",
-                "reference": "92de07c514ac6ae4accfcb86996c59df171f0309"
+                "reference": "49a73724f2ff673b56eba7fa02a4eca216629329"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/92de07c514ac6ae4accfcb86996c59df171f0309",
-                "reference": "92de07c514ac6ae4accfcb86996c59df171f0309",
+                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/49a73724f2ff673b56eba7fa02a4eca216629329",
+                "reference": "49a73724f2ff673b56eba7fa02a4eca216629329",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -81,15 +79,15 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/styles/issues",
-                "source": "https://github.com/citation-style-language/styles/tree/master"
+                "source": "https://github.com/citation-style-language/styles/tree/v0.0.361"
             },
             "funding": [
                 {
-                    "url": "https://github.com/rmzelle",
+                    "url": "https://github.com/adam3smith",
                     "type": "github"
                 }
             ],
-            "time": "2023-10-06T04:11:24+00:00"
+            "time": "2024-01-27T00:53:31+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -265,12 +263,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oeuvres/kit.git",
-                "reference": "97790c3f0b2429f43a6827e2efea191067da6554"
+                "reference": "0b90f2afe7e98645e4b61b764a39c21ac48817bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oeuvres/kit/zipball/97790c3f0b2429f43a6827e2efea191067da6554",
-                "reference": "97790c3f0b2429f43a6827e2efea191067da6554",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/0b90f2afe7e98645e4b61b764a39c21ac48817bb",
+                "reference": "0b90f2afe7e98645e4b61b764a39c21ac48817bb",
                 "shasum": ""
             },
             "require": {
@@ -316,7 +314,7 @@
                 "issues": "https://github.com/oeuvres/kit/issues",
                 "source": "https://github.com/oeuvres/kit/tree/main"
             },
-            "time": "2023-10-15T12:41:59+00:00"
+            "time": "2023-12-17T20:50:30+00:00"
         },
         {
             "name": "oeuvres/teinte",
@@ -324,7 +322,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_php",
-                "reference": "a982fd1a717ef15cfb8ca56b09c3dcc7a0f49ca8"
+                "reference": "9c132558971b4705d6162975ce42e3c74acaca59"
             },
             "require": {
                 "erusev/parsedown-extra": "dev-master",
@@ -366,7 +364,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_xsl",
-                "reference": "3bc021eaa6ef0e4d3df5d03f311897ddc1ef8498"
+                "reference": "e81452f4586819df5ba3af3336757674104d45c8"
             },
             "type": "library",
             "autoload": {
@@ -445,18 +443,18 @@
             "dist": {
                 "type": "path",
                 "url": "../citeproc-php",
-                "reference": "89e5a9849fe90650027f54d4699624736053a9c9"
+                "reference": "488730fc87709346d7e1894a51ad236e9e92950b"
             },
             "require": {
-                "citation-style-language/locales": "dev-master",
-                "citation-style-language/styles": "dev-master",
+                "citation-style-language/locales": "v0.0.*",
+                "citation-style-language/styles": "v0.0.*",
                 "ext-intl": "*",
                 "ext-json": "*",
                 "ext-mbstring": "*",
                 "ext-simplexml": "*",
                 "myclabs/php-enum": "^1.8",
                 "php": ">=7.3",
-                "seboettg/collection": ">=3.1.0,<4.0.0"
+                "seboettg/collection": "^3.1"
             },
             "require-dev": {
                 "php-coveralls/php-coveralls": "^1",
