@@ -52,11 +52,20 @@
           </xsl:otherwise>
         </xsl:choose>
       </note>
+      <xsl:for-each select="tei:note">
+        <xsl:choose>
+          <xsl:when test="position() = 1"/>
+          <xsl:otherwise>
+            <xsl:value-of select="$lf"/>
+            <xsl:apply-templates select="."/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+      <xsl:value-of select="$lf"/>
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:div[@type='article']/tei:head/tei:note[1]"/>
-  
+
   <xsl:template match="node()|@*" mode="html2tei">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*" mode="html2tei"/>

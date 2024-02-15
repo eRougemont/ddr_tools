@@ -26152,34 +26152,6 @@ Une note ajoute : « &lt;a href=&quot;https://www.unige.ch/rougemont/livres/dd
         <dc:description>Publisher Place: Genève</dc:description>
         <bib:pages>1</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg">
-        <z:itemType>newspaperArticle</z:itemType>
-        <dcterms:isPartOf>
-           <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
-        </dcterms:isPartOf>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Rougemont</foaf:surname>
-                        <foaf:givenName>Denis de</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dc:title>Veille d’élection présidentielle</dc:title>
-        <dc:date>1940-11-14</dc:date>
-        <dc:subject>
-           <dcterms:LCC><rdf:value>ddr19401114jg</rdf:value></dcterms:LCC>
-        </dc:subject>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19401114jg</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dc:description>Publisher Place: Genève</dc:description>
-        <bib:pages>1-2</bib:pages>
-    </bib:Article>
     <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19410117jg">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
@@ -36738,7 +36710,7 @@ Propos recueillis par Charles Biber.</dc:description>
         </dc:identifier>
         <z:numPages>217</z:numPages>
     </bib:Book>
-    <bib:Article rdf:about="#item_40111">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1978-1981/ddr19791200qcja">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>Icare</dc:title></bib:Journal>
@@ -36753,15 +36725,21 @@ Propos recueillis par Charles Biber.</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>*URL</dc:subject>
         <dc:title>“La qualité des choses que j’aime”</dc:title>
         <dc:date>1979-12</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19791200qcja</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1978-1981/ddr19791200qcja</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>20-22</bib:pages>
     </bib:Article>
-    <rdf:Description rdf:about="#item_40112">
+    <rdf:Description rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19580800ll">
         <z:itemType>preprint</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -36773,13 +36751,24 @@ Propos recueillis par Charles Biber.</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_41192"/>
+        <dc:subject>*URL</dc:subject>
         <dc:title>Liberté et littérature</dc:title>
         <dc:date>1958-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19580800ll</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19580800ll</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </rdf:Description>
-    <bib:Article rdf:about="#item_40113">
+    <bib:Memo rdf:about="#item_41192">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Où est-ce ?&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1982-1985/ddr19821000acr">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -36801,10 +36790,15 @@ Propos recueillis par Charles Biber.</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19821000acr</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1982-1985/ddr19821000acr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève</dc:description>
         <bib:pages>207</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40114">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1963-1969/ddr19651200revoy">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>Revue des voyages</dc:title></bib:Journal>
@@ -36824,11 +36818,16 @@ Propos recueillis par Charles Biber.</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19651200revoy</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1963-1969/ddr19651200revoy</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève
 Issued: &quot;automne 1965&quot;</dc:description>
         <bib:pages>57-59</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40115">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1951-1956/ddr19530306essor">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>L’Essor</dc:title></bib:Newspaper>
@@ -36848,10 +36847,15 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19530306essor</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1951-1956/ddr19530306essor</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève</dc:description>
         <bib:pages>4-5</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40116">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1978-1981/ddr19800628arcadie">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -36873,9 +36877,14 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19800628arcadie</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1978-1981/ddr19800628arcadie</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <bib:pages>1-6</bib:pages>
     </bib:Article>
-    <bib:BookSection rdf:about="#item_40117">
+    <bib:BookSection rdf:about="https://www.unige.ch/rougemont/articles/1951-1956/ddr19560000saison">
         <z:itemType>bookSection</z:itemType>
         <dcterms:isPartOf>
            <bib:Book><dc:title>Saison</dc:title></bib:Book>
@@ -36898,9 +36907,14 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19560000saison</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1951-1956/ddr19560000saison</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <bib:pages>12-13</bib:pages>
     </bib:BookSection>
-    <bib:Article rdf:about="#item_40118">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1938-1940/ddr19400722tlaus">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>Tribune de Lausanne</dc:title></bib:Newspaper>
@@ -36920,10 +36934,15 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19400722tlaus</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1938-1940/ddr19400722tlaus</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Lausanne</dc:description>
         <bib:pages>5</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40124">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1970-1973/ddr19710517elle">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>Elle</dc:title></bib:Newspaper>
@@ -36954,10 +36973,15 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19710517elle</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1970-1973/ddr19710517elle</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>35, 37 et 39</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40125">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19691004jg">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
@@ -37011,10 +37035,15 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19691004jg</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19691004jg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève</dc:description>
         <bib:pages>2-3</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40126">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19780200jg">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
@@ -37056,12 +37085,17 @@ Issued: &quot;automne 1965&quot;</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19780200jg</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19780200jg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève
 
 Issued: 1978-02-17/1978-02-19/1978-02-21/1978-02-22</dc:description>
         <bib:pages>19, 22, 21, 16</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40127">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19821030jg">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
@@ -37081,12 +37115,17 @@ Issued: 1978-02-17/1978-02-19/1978-02-21/1978-02-22</dc:description>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19821030jg</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19821030jg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Genève
 
 Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:description>
         <bib:pages>I, IV</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40128">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/rbl/ddr19300600rbl">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>Revue de Belles-Lettres</dc:title></bib:Journal>
@@ -37106,10 +37145,15 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19300600rbl</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/rbl/ddr19300600rbl</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Lausanne-Neuchâtel-Genève-Fribourg</dc:description>
         <bib:pages>204-205</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40129">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1946-1948/ddr19480214figlitt">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Newspaper>
@@ -37131,10 +37175,15 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19480214figlitt</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1946-1948/ddr19480214figlitt</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>1 et 3</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="#item_40130">
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1946-1948/ddr19470607figlitt">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Newspaper>
@@ -37156,10 +37205,15 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19470607figlitt</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/1946-1948/ddr19470607figlitt</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>1</bib:pages>
     </bib:Article>
-    <bib:Manuscript rdf:about="#item_40131">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19701128suisscee">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37171,15 +37225,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>La Suisse et la CEE</dc:title>
         <dc:date>1970-11-28</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19701128suisscee</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19701128suisscee</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1970-11-28</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40132">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19360000ishm">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37191,14 +37253,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Compte rendu</dc:subject>
         <dc:title>[Compte rendu] Henri de Man, &lt;i&gt;L’Idée socialiste&lt;/i&gt;</dc:title>
         <dc:date>1936-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19360000ishm</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19360000ishm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40133">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19701100osoc">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37210,15 +37280,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“Ô saisons ! Ô châteaux !”</dc:title>
         <dc:date>1970-11-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19701100osoc</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19701100osoc</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1970-11-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40134">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19831110cec">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37230,15 +37308,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>D’où venons-nous ? Où sommes-nous ? Où allons-nous ? (à propos du CEC)</dc:title>
         <dc:date>1983-11-10</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19831110cec</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19831110cec</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1983-11-10</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40135">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19850606fec">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37250,15 +37336,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Membre d’honneur de la Fondation européenne de la culture</dc:title>
         <dc:date>1985-06-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19850606fec</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19850606fec</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1985-06-06</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40136">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19830506drlr">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37270,15 +37364,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Devise du régionalisme : point de libertés sans responsabilités</dc:title>
         <dc:date>1983-05-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19830506drlr</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19830506drlr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1983-05-06</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40137">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19821018ucufe">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37290,15 +37392,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>De l’unité de culture à l’union fédérale de l’Europe</dc:title>
         <dc:date>1982-10-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19821018ucufe</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19821018ucufe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1982-10-18</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40138">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19820512griso">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37310,15 +37420,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Réponse à M. Grisoni</dc:title>
         <dc:date>1982-05-12</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19820512griso</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19820512griso</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1982-05-12</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40139">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19820211lep">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37330,15 +37448,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Débat sur le LEP, accélérateur de particules du CERN</dc:title>
         <dc:date>1982-02-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19820211lep</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19820211lep</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1982-02-11</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40140">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19820106pac">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37350,15 +37476,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Pacifisme</dc:title>
         <dc:date>1982-01-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19820106pac</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19820106pac</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1982-01-06</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40141">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19810519nf">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37370,15 +37504,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Nicolas de Flue, le Solitaire par qui tous sont unis</dc:title>
         <dc:date>1981-05-19</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19810519nf</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19810519nf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1981-05-19</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40142">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19801111gipri">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37390,15 +37532,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“Imaginer la vérité de la guerre demain, c’est déjà une action pour la paix” (Discours pour l’inauguration du GIPRI)</dc:title>
         <dc:date>1980-11-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19801111gipri</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19801111gipri</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1980-11-11</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40143">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19800918ecoropa">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37410,15 +37560,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Un cap de nouvelle espérance pour le navire désemparé de notre société occidentale</dc:title>
         <dc:date>1980-09-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19800918ecoropa</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19800918ecoropa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1980-09-18</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40144">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19800605isover">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37430,15 +37588,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>[Entretien] Si nous continuons dans le même sens, nous allons vers un désastre général</dc:title>
         <dc:date>1980-06-05</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19800605isover</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19800605isover</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1980-06-05</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40145">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19570221beloff">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37450,15 +37616,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Préface</dc:subject>
         <dc:title>[Préface] &lt;i&gt;Europe and the Europeans&lt;/i&gt;, édité par Max Beloff</dc:title>
         <dc:date>1957-02-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19570221beloff</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19570221beloff</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1957-02-21</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40146">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19791122sperber">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37470,15 +37644,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Manès Sperber ou “l’homme qui rappelle”</dc:title>
         <dc:date>1979-11-22</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19791122sperber</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19791122sperber</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1979-11-22</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40147">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19790924noei">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37490,15 +37672,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Obstacles au nouvel ordre économique international (NOEI) en Europe du Centre</dc:title>
         <dc:date>1979-09-24</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19790924noei</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19790924noei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1979-09-24</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40148">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19790727ecoropa">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37510,15 +37700,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Rapport intérimaire pour Ecoropa</dc:title>
         <dc:date>1979-07-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19790727ecoropa</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19790727ecoropa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1979-07-27</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40149">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19790507ecoropa">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37530,15 +37728,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Conférence de presse Ecoropa</dc:title>
         <dc:date>1979-05-07</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19790507ecoropa</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19790507ecoropa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1979-05-07</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40150">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19790208cpne">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37550,15 +37756,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Continuité des politiques nationales en Europe</dc:title>
         <dc:date>1979-02-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19790208cpne</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19790208cpne</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1979-02-08</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40151">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19781208ocnoei">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37570,15 +37784,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Obstacles et chances du nouvel ordre économique international (NOEI) : l’Europe de l’Ouest</dc:title>
         <dc:date>1978-12-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19781208ocnoei</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19781208ocnoei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1978-12-08</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40152">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19780605bovet">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37590,15 +37812,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Le Grandchamp des Bovet</dc:title>
         <dc:date>1978-06-05</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19780605bovet</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19780605bovet</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1978-06-05</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40153">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19771014tr">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37610,15 +37840,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Les trois révolutions</dc:title>
         <dc:date>1977-10-14</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19771014tr</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19771014tr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1977-10-14</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40154">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19750900sepr">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37630,15 +37868,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>La Suisse et l’Europe : projet de résolution</dc:title>
         <dc:date>1975-09-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19750900sepr</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19750900sepr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1975-09-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40155">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19750828ero">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37650,15 +37896,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>L’érotisme</dc:title>
         <dc:date>1975-08-28</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19750828ero</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19750828ero</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1975-08-28</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40156">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19741211cpfw">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37670,15 +37924,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“La paix entre les hommes dépend aussi du respect de la vie sauvage” (message à Franz Weber)</dc:title>
         <dc:date>1974-12-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19741211cpfw</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19741211cpfw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1974-12-11</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40157">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19740304fwa">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37690,15 +37952,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“La vraie défense du territoire national” (soutien à l’initiative de Franz Weber contre les autoroutes)</dc:title>
         <dc:date>1974-03-04</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19740304fwa</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19740304fwa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1974-03-04</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40158">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19730513ee">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37710,15 +37980,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Une éducation européenne</dc:title>
         <dc:date>1973-05-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19730513ee</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19730513ee</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1973-05-13</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40159">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19730300cn">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37730,15 +38008,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>De la “culture nationale”</dc:title>
         <dc:date>1973-03-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19730300cn</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19730300cn</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1971-04-29</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40160">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19710429dhcz">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37750,15 +38036,23 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Réception du doctorat &lt;i&gt;honoris causa&lt;/i&gt; à Zurich</dc:title>
         <dc:date>1971-04-29</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19710429dhcz</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19710429dhcz</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1971-04-29</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40161">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19701013cpae">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37770,14 +38064,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Discours au Cercle de la presse et des amitiés étrangères</dc:title>
         <dc:date>1970-10-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19701013cpae</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19701013cpae</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1970-10-13</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40162">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19700000at">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37789,14 +38091,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>1931-1937 ou les années tournantes</dc:title>
         <dc:date>1970-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19700000at</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19700000at</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1970-00-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40163">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19690000ser">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37808,14 +38118,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’esprit romand</dc:title>
         <dc:date>1969-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19690000ser</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19690000ser</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1969-00-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40164">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19691100ce">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37827,14 +38145,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Les chances de l’Europe : huit ans après</dc:title>
         <dc:date>1969-11-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19691100ce</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19691100ce</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1969-11-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40165">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19690000uemul">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37846,14 +38172,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’union de l’Europe, modèle d’union dans la liberté</dc:title>
         <dc:date>1969-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19690000uemul</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19690000uemul</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1969-00-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40166">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19680403gr">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37865,14 +38199,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Message pour la Grèce</dc:title>
         <dc:date>1968-04-03</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19680403gr</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19680403gr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1968-04-03</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40167">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19670700welt">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37884,14 +38226,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’intellectuel suisse et la politique</dc:title>
         <dc:date>1967-07-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19670700welt</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19670700welt</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1967-07-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40168">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19661200se">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37903,14 +38253,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Situation de l’Europe en 1966</dc:title>
         <dc:date>1966-12-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19661200se</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19661200se</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1966-12-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40169">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19660100ys">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37922,14 +38280,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>“J’essaie d’imaginer mes lecteurs japonais…”</dc:title>
         <dc:date>1966-01-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19660100ys</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19660100ys</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1966-01-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40170">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19650900epee">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37941,14 +38307,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>État présent des études européennes</dc:title>
         <dc:date>1965-09-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19650900epee</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19650900epee</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1965-09-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40171">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19630218eepf">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37960,14 +38334,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’Europe entière, ou la première force</dc:title>
         <dc:date>1963-02-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19630218eepf</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19630218eepf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1963</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40172">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19620902pan">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37979,14 +38361,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>“Né d’un regard juste…” (à propos de Richard Coudenhove-Kalergi)</dc:title>
         <dc:date>1962-09-02</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19620902pan</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19620902pan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1962-09-02</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40173">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19611100iny">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -37998,14 +38388,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Imagination de New York</dc:title>
         <dc:date>1961-11-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19611100iny</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19611100iny</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1961-11-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40174">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19610800de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38017,14 +38415,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Découvrons l’Europe</dc:title>
         <dc:date>1961-08-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19610800de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19610800de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1961-08-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40175">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19610600aae">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38036,14 +38442,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’automation et l’avenir de l’Europe</dc:title>
         <dc:date>1961-06-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19610600aae</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19610600aae</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1961-06-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40176">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19590000smce">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38055,11 +38469,19 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>La Suisse, microcosme culturel de l’Europe</dc:title>
         <dc:date>1959-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19590000smce</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19590000smce</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1959-00-00</dc:description>
     </bib:Manuscript>
     <bib:Manuscript rdf:about="#item_40177">
@@ -38074,14 +38496,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Liberté et littérature</dc:title>
         <dc:date>1958-08-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19580800ll</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19580800ll</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1958-08-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40178">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19551200dw">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38093,14 +38523,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Le vrai sens de nos vœux</dc:title>
         <dc:date>1955-12-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19551200dw</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19551200dw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1955-12-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40179">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19550917al">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38112,14 +38550,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’avenir de la liberté</dc:title>
         <dc:date>1955-09-17</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19550917al</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19550917al</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1955-09-17</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40180">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38131,14 +38577,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’Europe en crise : décadence ou progrès ?</dc:title>
         <dc:date>1954-08-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19540800ecdp</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1954-08-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40181">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19520500ovs">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38150,14 +38604,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’Œuvre du XXe siècle</dc:title>
         <dc:date>1952-05-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19520500ovs</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19520500ovs</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1952-05-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40182">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19520000vreu">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38169,14 +38631,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>La vie religieuse aux États-Unis (1942-1945)</dc:title>
         <dc:date>1952-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19520000vreu</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19520000vreu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1952-00-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40183">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510328cb">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38188,14 +38658,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Discours au congrès de Bombay</dc:title>
         <dc:date>1951-03-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510328cb</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510328cb</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1951-03-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40184">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501200slde">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38207,14 +38685,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Sixième lettre aux députés européens</dc:title>
         <dc:date>1950-12-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501200slde</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501200slde</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1950-12-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40185">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491208conflaus">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38226,14 +38712,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Présentation du Rapport général de la Conférence européenne de la culture à Lausanne</dc:title>
         <dc:date>1949-12-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491208conflaus</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491208conflaus</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1949-12-08</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40186">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19481200jb">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38245,14 +38739,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>“Cher lecteur britannique, je connais bien votre prudence…”</dc:title>
         <dc:date>1948-12-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19481200jb</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19481200jb</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: Automne 1948</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40187">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19471200if">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38264,14 +38766,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Idées françaises</dc:title>
         <dc:date>1947-12-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19471200if</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19471200if</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1947-12-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40188">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19471021aragon">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38283,14 +38793,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Une lettre de Denis de Rougemont (à propos d’Aragon)</dc:title>
         <dc:date>1947-10-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19471021aragon</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19471021aragon</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1947-10-21</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40189">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19470515gensuisse">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38302,14 +38820,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Il y a aussi des gens en Suisse</dc:title>
         <dc:date>1947-05-15</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19470515gensuisse</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19470515gensuisse</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1947-05-15</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40190">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19420000ms">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38321,13 +38847,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Le miracle suisse</dc:title>
         <dc:date>1942-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19420000ms</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19420000ms</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40191">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19420500pro">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38339,14 +38873,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>La grande “stratégie religieuse” de cette guerre</dc:title>
         <dc:date>1942-05-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19420500pro</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19420500pro</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issued: 1942-04-00/1942-05-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40192">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19410000bae">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38358,13 +38900,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Blind alley of Europe</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19410000bae</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19410000bae</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40193">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19410000ffv">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38376,13 +38926,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Le fédéralisme : un fait et une volonté</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19410000ffv</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19410000ffv</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40194">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19410100poh">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38394,13 +38952,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Passion et origine de l’hitlérisme</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19410100poh</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19410100poh</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40195">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19400000qhei">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38412,13 +38978,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Quelle heure est-il ?</dc:title>
         <dc:date>1940-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19400000qhei</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19400000qhei</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40196">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19390000psc">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38430,13 +39004,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>Pour une “Suisse chrétienne”</dc:title>
         <dc:date>1939-00-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19390000psc</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19390000psc</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40197">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19380500etdp">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38448,13 +39030,21 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:title>L’esprit totalitaire et les devoirs de la personne</dc:title>
         <dc:date>1938-05-00</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19380500etdp</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19380500etdp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40198">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510312de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38466,14 +39056,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Dernière chronique</dc:title>
         <dc:date>1951-03-12</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510312de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510312de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40199">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510219de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38485,14 +39083,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et la paix</dc:title>
         <dc:date>1951-02-19</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510219de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510219de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40200">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510212de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38504,14 +39110,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Nos libertés</dc:title>
         <dc:date>1951-02-12</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510212de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510212de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40201">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510122de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38523,14 +39137,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Contre une “mystique européenne”</dc:title>
         <dc:date>1951-01-22</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510122de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510122de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40202">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510115de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38542,14 +39164,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Peut-on fabriquer un Européen ?</dc:title>
         <dc:date>1951-01-15</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510115de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510115de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40203">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19510108de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38561,14 +39191,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Espérer, c’est agir</dc:title>
         <dc:date>1951-01-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19510108de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19510108de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40204">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501218de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38580,14 +39218,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Équiper l’Europe</dc:title>
         <dc:date>1950-12-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501218de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501218de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40205">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501211de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38599,14 +39245,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Sur l’opinion en général et la presse en particulier</dc:title>
         <dc:date>1950-12-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501211de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501211de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40206">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501204de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38618,14 +39272,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — État de la construction européenne</dc:title>
         <dc:date>1950-12-04</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501204de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501204de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40207">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501127de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38637,14 +39299,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Jeunesse d’Europe</dc:title>
         <dc:date>1950-11-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501127de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501127de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40208">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501121de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38656,14 +39326,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — À Strasbourg</dc:title>
         <dc:date>1950-11-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501121de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501121de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40209">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501113de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38675,14 +39353,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un Conseil européen de vigilance</dc:title>
         <dc:date>1950-11-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501113de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501113de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40210">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501106de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38694,14 +39380,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse (II)</dc:title>
         <dc:date>1950-11-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501106de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501106de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40211">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501030de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38713,14 +39407,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse (I)</dc:title>
         <dc:date>1950-10-30</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501030de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501030de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40212">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501023de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38732,14 +39434,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Neutralité européenne</dc:title>
         <dc:date>1950-10-23</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501023de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501023de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40213">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501016de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38751,14 +39461,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’opinion et l’Europe</dc:title>
         <dc:date>1950-10-16</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501016de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501016de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40214">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501009de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38770,14 +39488,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1950-10-09</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501009de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501009de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40215">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19501002de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38789,14 +39515,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Serment de Strasbourg</dc:title>
         <dc:date>1950-10-02</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19501002de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19501002de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40216">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500925de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38808,14 +39542,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Une autorité politique européenne</dc:title>
         <dc:date>1950-09-25</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500925de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500925de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40217">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500918de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38827,14 +39569,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’armée européenne</dc:title>
         <dc:date>1950-09-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500918de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500918de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40218">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500911de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38846,14 +39596,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’atmosphère de Strasbourg</dc:title>
         <dc:date>1950-09-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500911de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500911de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40219">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500909de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38865,14 +39623,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un été orageux</dc:title>
         <dc:date>1950-09-09</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500909de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500909de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40220">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500626de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38884,14 +39650,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Avant Strasbourg</dc:title>
         <dc:date>1950-06-26</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500626de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500626de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40221">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500619de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38903,14 +39677,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1950-06-19</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500619de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500619de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40222">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500612de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38922,14 +39704,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Valeur de l’Europe</dc:title>
         <dc:date>1950-06-12</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500612de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500612de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40223">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500605de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38941,14 +39731,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le règne des experts</dc:title>
         <dc:date>1950-06-05</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500605de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500605de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40224">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500529de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38960,14 +39758,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Conversation avec un Américain</dc:title>
         <dc:date>1950-05-29</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500529de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500529de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40225">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500522de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38979,14 +39785,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’opinion</dc:title>
         <dc:date>1950-05-22</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500522de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500522de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40226">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500515de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38998,14 +39812,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Lenteurs et progrès</dc:title>
         <dc:date>1950-05-15</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500515de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500515de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40227">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500508de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39017,14 +39839,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et l’Amérique (II)</dc:title>
         <dc:date>1950-05-08</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500508de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500508de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40228">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500501de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39036,14 +39866,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et l’Amérique</dc:title>
         <dc:date>1950-05-01</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500501de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500501de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40229">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500424de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39055,14 +39893,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’union atlantique</dc:title>
         <dc:date>1950-04-24</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500424de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500424de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40230">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500417de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39074,14 +39920,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Branle-bas mondial</dc:title>
         <dc:date>1950-04-17</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500417de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500417de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40231">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500410de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39093,14 +39947,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les volontaires de Daniel Villey</dc:title>
         <dc:date>1950-04-10</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500410de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500410de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40232">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500403de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39112,14 +39974,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les politiciens et l’Europe</dc:title>
         <dc:date>1950-04-03</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500403de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500403de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40233">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500327de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39131,14 +40001,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Deux enquêtes sur l’union</dc:title>
         <dc:date>1950-03-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500327de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500327de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40234">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500320de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39150,14 +40028,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — De l’Europe au monde</dc:title>
         <dc:date>1950-03-20</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500320de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500320de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40235">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500313de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39169,14 +40055,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe n’est pas pour “demain”</dc:title>
         <dc:date>1950-03-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500313de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500313de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40236">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500306de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39188,14 +40082,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Neutralité européenne</dc:title>
         <dc:date>1950-03-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500306de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500306de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40237">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500227de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39207,14 +40109,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Après les élections anglaises</dc:title>
         <dc:date>1950-02-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500227de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500227de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40238">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500220de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39226,14 +40136,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La guerre impossible</dc:title>
         <dc:date>1950-02-20</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500220de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500220de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40239">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500213de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39245,14 +40163,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les deux raisons de fédérer l’Europe</dc:title>
         <dc:date>1950-02-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500213de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500213de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40240">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500206de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39264,14 +40190,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Passer à l’action</dc:title>
         <dc:date>1950-02-06</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500206de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500206de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40241">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500130de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39283,14 +40217,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un tiers-ordre européen</dc:title>
         <dc:date>1950-01-30</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500130de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500130de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40242">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500123de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39302,14 +40244,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Questions et objections des étudiants de Lausanne</dc:title>
         <dc:date>1950-01-23</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500123de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500123de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40243">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500116de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39321,14 +40271,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Une enquête chez les étudiants</dc:title>
         <dc:date>1950-01-16</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500116de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500116de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40244">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500109de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39340,14 +40298,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Par où commencer ? Par l’économie ?</dc:title>
         <dc:date>1950-01-09</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500109de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500109de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40245">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19500102de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39359,14 +40325,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Bon demi-siècle !</dc:title>
         <dc:date>1950-01-02</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19500102de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19500102de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40246">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491226de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39378,14 +40352,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Bilan 1949</dc:title>
         <dc:date>1949-12-26</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491226de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491226de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40247">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491219de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39397,14 +40379,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Optimistes et pessimistes</dc:title>
         <dc:date>1949-12-19</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491219de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491219de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40248">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491205de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39416,14 +40406,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Conférence européenne de la culture</dc:title>
         <dc:date>1949-12-05</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491205de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491205de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40249">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491128de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39435,14 +40433,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les suites de Strasbourg</dc:title>
         <dc:date>1949-11-28</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491128de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491128de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40250">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491121de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39454,14 +40460,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Encore notre neutralité</dc:title>
         <dc:date>1949-11-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491121de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491121de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40251">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491114de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39473,14 +40487,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et Strasbourg (II)</dc:title>
         <dc:date>1949-11-14</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491114de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491114de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40252">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491107de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39492,14 +40514,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Amérique veut nous unir</dc:title>
         <dc:date>1949-11-07</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491107de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491107de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40253">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491031de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39511,14 +40541,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et Strasbourg</dc:title>
         <dc:date>1949-10-31</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491031de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491031de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40254">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491024de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39530,14 +40568,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Militer pour la fédération</dc:title>
         <dc:date>1949-10-24</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491024de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491024de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40255">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491017de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39549,14 +40595,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Que pouvez-vous faire ?</dc:title>
         <dc:date>1949-10-17</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491017de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491017de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40256">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491010de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39568,14 +40622,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les résultats de Strasbourg</dc:title>
         <dc:date>1949-10-10</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491010de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491010de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40257">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19491003de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39587,14 +40649,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “Êtes-vous satisfait de Strasbourg ?”</dc:title>
         <dc:date>1949-10-03</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19491003de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19491003de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40258">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490926de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39606,14 +40676,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La dévaluation et la bombe soviétique</dc:title>
         <dc:date>1949-09-26</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490926de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490926de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40259">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490919de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39625,14 +40703,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un bel été</dc:title>
         <dc:date>1949-09-19</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490919de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490919de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40260">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490704de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39644,14 +40730,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Faisons le point</dc:title>
         <dc:date>1949-07-04</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490704de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490704de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40261">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490627de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39663,14 +40757,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1949-06-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490627de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490627de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40262">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490620de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39682,14 +40784,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et l’Europe (IV)</dc:title>
         <dc:date>1949-06-20</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490620de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490620de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40263">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490613de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39701,14 +40811,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Suisse 1848-Europe 1949 (II)</dc:title>
         <dc:date>1949-06-13</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490613de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490613de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40264">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490530de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39720,14 +40838,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Suisse 1848-Europe 1949</dc:title>
         <dc:date>1949-05-30</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490530de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490530de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40265">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490523de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39739,14 +40865,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse</dc:title>
         <dc:date>1949-05-23</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490523de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490523de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40266">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490509de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39758,14 +40892,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Statut du Conseil de l’Europe</dc:title>
         <dc:date>1949-05-09</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490509de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490509de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40267">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490502de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39777,14 +40919,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’URSS et l’Europe fédérée</dc:title>
         <dc:date>1949-05-02</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490502de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490502de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40268">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490425de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39796,14 +40946,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’union de l’Europe et l’Amérique</dc:title>
         <dc:date>1949-04-25</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490425de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490425de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40269">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490418de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39815,14 +40973,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Pâques européennes</dc:title>
         <dc:date>1949-04-18</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490418de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490418de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40270">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490411de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39834,14 +41000,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Allemagne et l’Europe</dc:title>
         <dc:date>1949-04-11</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490411de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490411de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40271">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490404de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39853,14 +41027,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “Une idée généreuse” ?</dc:title>
         <dc:date>1949-04-04</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490404de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490404de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40272">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490328de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39872,14 +41054,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Conseil de l’Europe</dc:title>
         <dc:date>1949-03-28</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490328de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490328de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40273">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490321de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39891,14 +41081,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le pacte de l’Atlantique et la fédération européenne</dc:title>
         <dc:date>1949-03-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490321de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490321de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40274">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490314de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39910,14 +41108,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Cour suprême européenne</dc:title>
         <dc:date>1949-03-14</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490314de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490314de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40275">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490307de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39929,14 +41135,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “La paix, la paix !”</dc:title>
         <dc:date>1949-03-07</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490307de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490307de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40276">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490227de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39948,14 +41162,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Assemblée européenne</dc:title>
         <dc:date>1949-02-27</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490227de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490227de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40277">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490225de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39967,14 +41189,22 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Conseil international du Mouvement européen</dc:title>
         <dc:date>1949-02-25</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490225de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490225de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40278">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19490221de">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -39986,13 +41216,111 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
+        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe en marche</dc:title>
         <dc:date>1949-02-21</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19490221de</rdf:value></dcterms:LCC>
         </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19490221de</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
     </bib:Manuscript>
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Preuves</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenName>Denis de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L’échéance de septembre</dc:title>
+        <dc:date>1957-10</dc:date>
+        <dc:subject>
+            <dcterms:LCC>
+               <rdf:value>ddr19571000preuv_p0054</rdf:value>
+            </dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher Place: Paris</dc:description>
+        <bib:pages>54-55</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0072">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Preuves</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenName>Denis de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Sur un certain cynisme (Le point de vue de Ferney)</dc:title>
+        <dc:date>1957-10</dc:date>
+        <dc:subject>
+            <dcterms:LCC>
+               <rdf:value>ddr19571000preuv_p0072</rdf:value>
+            </dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0072</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher Place: Paris</dc:description>
+        <bib:pages>72-73</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19410114jg">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenName>Denis de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Veille d’élection présidentielle</dc:title>
+        <dc:date>1941-01-14</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>ddr19410114jg</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19410114jg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher Place: Genève
+
+Le journal précise : « De notre envoyé spécial ».</dc:description>
+        <bib:pages>1</bib:pages>
+    </bib:Article>
     <z:Collection rdf:about="#collection_48">
         <dc:title>ddr_articles</dc:title>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/1924-1930/ddr19240209sl"/>
@@ -40776,7 +42104,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370222jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370301jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370323jg"/>
-        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19410117jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19410218jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19460512jg"/>
@@ -41054,158 +42381,158 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/vp/ddr19690801vp"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/vp/ddr19781201vp"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/1974-1977/ddr19770000hec_p0238"/>
-        <dcterms:hasPart rdf:resource="#item_40116"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/1978-1981/ddr19800628arcadie"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_112">
         <dc:title>ddr_inedits</dc:title>
-        <dcterms:hasPart rdf:resource="#item_40131"/>
-        <dcterms:hasPart rdf:resource="#item_40132"/>
-        <dcterms:hasPart rdf:resource="#item_40133"/>
-        <dcterms:hasPart rdf:resource="#item_40134"/>
-        <dcterms:hasPart rdf:resource="#item_40135"/>
-        <dcterms:hasPart rdf:resource="#item_40136"/>
-        <dcterms:hasPart rdf:resource="#item_40137"/>
-        <dcterms:hasPart rdf:resource="#item_40138"/>
-        <dcterms:hasPart rdf:resource="#item_40139"/>
-        <dcterms:hasPart rdf:resource="#item_40140"/>
-        <dcterms:hasPart rdf:resource="#item_40141"/>
-        <dcterms:hasPart rdf:resource="#item_40142"/>
-        <dcterms:hasPart rdf:resource="#item_40143"/>
-        <dcterms:hasPart rdf:resource="#item_40144"/>
-        <dcterms:hasPart rdf:resource="#item_40145"/>
-        <dcterms:hasPart rdf:resource="#item_40146"/>
-        <dcterms:hasPart rdf:resource="#item_40147"/>
-        <dcterms:hasPart rdf:resource="#item_40148"/>
-        <dcterms:hasPart rdf:resource="#item_40149"/>
-        <dcterms:hasPart rdf:resource="#item_40150"/>
-        <dcterms:hasPart rdf:resource="#item_40151"/>
-        <dcterms:hasPart rdf:resource="#item_40152"/>
-        <dcterms:hasPart rdf:resource="#item_40153"/>
-        <dcterms:hasPart rdf:resource="#item_40154"/>
-        <dcterms:hasPart rdf:resource="#item_40155"/>
-        <dcterms:hasPart rdf:resource="#item_40156"/>
-        <dcterms:hasPart rdf:resource="#item_40157"/>
-        <dcterms:hasPart rdf:resource="#item_40158"/>
-        <dcterms:hasPart rdf:resource="#item_40159"/>
-        <dcterms:hasPart rdf:resource="#item_40160"/>
-        <dcterms:hasPart rdf:resource="#item_40161"/>
-        <dcterms:hasPart rdf:resource="#item_40162"/>
-        <dcterms:hasPart rdf:resource="#item_40163"/>
-        <dcterms:hasPart rdf:resource="#item_40164"/>
-        <dcterms:hasPart rdf:resource="#item_40165"/>
-        <dcterms:hasPart rdf:resource="#item_40166"/>
-        <dcterms:hasPart rdf:resource="#item_40167"/>
-        <dcterms:hasPart rdf:resource="#item_40168"/>
-        <dcterms:hasPart rdf:resource="#item_40169"/>
-        <dcterms:hasPart rdf:resource="#item_40170"/>
-        <dcterms:hasPart rdf:resource="#item_40171"/>
-        <dcterms:hasPart rdf:resource="#item_40172"/>
-        <dcterms:hasPart rdf:resource="#item_40173"/>
-        <dcterms:hasPart rdf:resource="#item_40174"/>
-        <dcterms:hasPart rdf:resource="#item_40175"/>
-        <dcterms:hasPart rdf:resource="#item_40176"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19701128suisscee"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19360000ishm"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19701100osoc"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19831110cec"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19850606fec"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19830506drlr"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19821018ucufe"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19820512griso"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19820211lep"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19820106pac"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19810519nf"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19801111gipri"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19800918ecoropa"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19800605isover"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19570221beloff"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19791122sperber"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19790924noei"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19790727ecoropa"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19790507ecoropa"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19790208cpne"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19781208ocnoei"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19780605bovet"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19771014tr"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19750900sepr"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19750828ero"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19741211cpfw"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19740304fwa"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19730513ee"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19730300cn"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19710429dhcz"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19701013cpae"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19700000at"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19690000ser"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19691100ce"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19690000uemul"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19680403gr"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19670700welt"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19661200se"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19660100ys"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19650900epee"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19630218eepf"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19620902pan"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19611100iny"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19610800de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19610600aae"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19590000smce"/>
         <dcterms:hasPart rdf:resource="#item_40177"/>
-        <dcterms:hasPart rdf:resource="#item_40178"/>
-        <dcterms:hasPart rdf:resource="#item_40179"/>
-        <dcterms:hasPart rdf:resource="#item_40180"/>
-        <dcterms:hasPart rdf:resource="#item_40181"/>
-        <dcterms:hasPart rdf:resource="#item_40182"/>
-        <dcterms:hasPart rdf:resource="#item_40183"/>
-        <dcterms:hasPart rdf:resource="#item_40184"/>
-        <dcterms:hasPart rdf:resource="#item_40185"/>
-        <dcterms:hasPart rdf:resource="#item_40186"/>
-        <dcterms:hasPart rdf:resource="#item_40187"/>
-        <dcterms:hasPart rdf:resource="#item_40188"/>
-        <dcterms:hasPart rdf:resource="#item_40189"/>
-        <dcterms:hasPart rdf:resource="#item_40190"/>
-        <dcterms:hasPart rdf:resource="#item_40191"/>
-        <dcterms:hasPart rdf:resource="#item_40192"/>
-        <dcterms:hasPart rdf:resource="#item_40193"/>
-        <dcterms:hasPart rdf:resource="#item_40194"/>
-        <dcterms:hasPart rdf:resource="#item_40195"/>
-        <dcterms:hasPart rdf:resource="#item_40196"/>
-        <dcterms:hasPart rdf:resource="#item_40197"/>
-        <dcterms:hasPart rdf:resource="#item_40198"/>
-        <dcterms:hasPart rdf:resource="#item_40199"/>
-        <dcterms:hasPart rdf:resource="#item_40200"/>
-        <dcterms:hasPart rdf:resource="#item_40201"/>
-        <dcterms:hasPart rdf:resource="#item_40202"/>
-        <dcterms:hasPart rdf:resource="#item_40203"/>
-        <dcterms:hasPart rdf:resource="#item_40204"/>
-        <dcterms:hasPart rdf:resource="#item_40205"/>
-        <dcterms:hasPart rdf:resource="#item_40206"/>
-        <dcterms:hasPart rdf:resource="#item_40207"/>
-        <dcterms:hasPart rdf:resource="#item_40208"/>
-        <dcterms:hasPart rdf:resource="#item_40209"/>
-        <dcterms:hasPart rdf:resource="#item_40210"/>
-        <dcterms:hasPart rdf:resource="#item_40211"/>
-        <dcterms:hasPart rdf:resource="#item_40212"/>
-        <dcterms:hasPart rdf:resource="#item_40213"/>
-        <dcterms:hasPart rdf:resource="#item_40214"/>
-        <dcterms:hasPart rdf:resource="#item_40215"/>
-        <dcterms:hasPart rdf:resource="#item_40216"/>
-        <dcterms:hasPart rdf:resource="#item_40217"/>
-        <dcterms:hasPart rdf:resource="#item_40218"/>
-        <dcterms:hasPart rdf:resource="#item_40219"/>
-        <dcterms:hasPart rdf:resource="#item_40220"/>
-        <dcterms:hasPart rdf:resource="#item_40221"/>
-        <dcterms:hasPart rdf:resource="#item_40222"/>
-        <dcterms:hasPart rdf:resource="#item_40223"/>
-        <dcterms:hasPart rdf:resource="#item_40224"/>
-        <dcterms:hasPart rdf:resource="#item_40225"/>
-        <dcterms:hasPart rdf:resource="#item_40226"/>
-        <dcterms:hasPart rdf:resource="#item_40227"/>
-        <dcterms:hasPart rdf:resource="#item_40228"/>
-        <dcterms:hasPart rdf:resource="#item_40229"/>
-        <dcterms:hasPart rdf:resource="#item_40230"/>
-        <dcterms:hasPart rdf:resource="#item_40231"/>
-        <dcterms:hasPart rdf:resource="#item_40232"/>
-        <dcterms:hasPart rdf:resource="#item_40233"/>
-        <dcterms:hasPart rdf:resource="#item_40234"/>
-        <dcterms:hasPart rdf:resource="#item_40235"/>
-        <dcterms:hasPart rdf:resource="#item_40236"/>
-        <dcterms:hasPart rdf:resource="#item_40237"/>
-        <dcterms:hasPart rdf:resource="#item_40238"/>
-        <dcterms:hasPart rdf:resource="#item_40239"/>
-        <dcterms:hasPart rdf:resource="#item_40240"/>
-        <dcterms:hasPart rdf:resource="#item_40241"/>
-        <dcterms:hasPart rdf:resource="#item_40242"/>
-        <dcterms:hasPart rdf:resource="#item_40243"/>
-        <dcterms:hasPart rdf:resource="#item_40244"/>
-        <dcterms:hasPart rdf:resource="#item_40245"/>
-        <dcterms:hasPart rdf:resource="#item_40246"/>
-        <dcterms:hasPart rdf:resource="#item_40247"/>
-        <dcterms:hasPart rdf:resource="#item_40248"/>
-        <dcterms:hasPart rdf:resource="#item_40249"/>
-        <dcterms:hasPart rdf:resource="#item_40250"/>
-        <dcterms:hasPart rdf:resource="#item_40251"/>
-        <dcterms:hasPart rdf:resource="#item_40252"/>
-        <dcterms:hasPart rdf:resource="#item_40253"/>
-        <dcterms:hasPart rdf:resource="#item_40254"/>
-        <dcterms:hasPart rdf:resource="#item_40255"/>
-        <dcterms:hasPart rdf:resource="#item_40256"/>
-        <dcterms:hasPart rdf:resource="#item_40257"/>
-        <dcterms:hasPart rdf:resource="#item_40258"/>
-        <dcterms:hasPart rdf:resource="#item_40259"/>
-        <dcterms:hasPart rdf:resource="#item_40260"/>
-        <dcterms:hasPart rdf:resource="#item_40261"/>
-        <dcterms:hasPart rdf:resource="#item_40262"/>
-        <dcterms:hasPart rdf:resource="#item_40263"/>
-        <dcterms:hasPart rdf:resource="#item_40264"/>
-        <dcterms:hasPart rdf:resource="#item_40265"/>
-        <dcterms:hasPart rdf:resource="#item_40266"/>
-        <dcterms:hasPart rdf:resource="#item_40267"/>
-        <dcterms:hasPart rdf:resource="#item_40268"/>
-        <dcterms:hasPart rdf:resource="#item_40269"/>
-        <dcterms:hasPart rdf:resource="#item_40270"/>
-        <dcterms:hasPart rdf:resource="#item_40271"/>
-        <dcterms:hasPart rdf:resource="#item_40272"/>
-        <dcterms:hasPart rdf:resource="#item_40273"/>
-        <dcterms:hasPart rdf:resource="#item_40274"/>
-        <dcterms:hasPart rdf:resource="#item_40275"/>
-        <dcterms:hasPart rdf:resource="#item_40276"/>
-        <dcterms:hasPart rdf:resource="#item_40277"/>
-        <dcterms:hasPart rdf:resource="#item_40278"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19551200dw"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19550917al"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19520500ovs"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19520000vreu"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510328cb"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501200slde"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491208conflaus"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19481200jb"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19471200if"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19471021aragon"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19470515gensuisse"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19420000ms"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19420500pro"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19410000bae"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19410000ffv"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19410100poh"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19400000qhei"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19390000psc"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19380500etdp"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510312de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510219de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510212de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510122de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510115de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19510108de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501218de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501211de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501204de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501127de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501121de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501113de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501106de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501030de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501023de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501016de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501009de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19501002de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500925de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500918de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500911de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500909de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500626de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500619de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500612de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500605de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500529de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500522de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500515de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500508de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500501de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500424de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500417de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500410de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500403de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500327de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500320de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500313de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500306de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500227de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500220de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500213de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500206de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500130de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500123de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500116de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500109de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19500102de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491226de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491219de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491205de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491128de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491121de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491114de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491107de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491031de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491024de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491017de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491010de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19491003de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490926de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490919de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490704de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490627de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490620de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490613de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490530de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490523de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490509de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490502de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490425de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490418de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490411de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490404de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490328de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490321de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490314de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490307de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490227de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490225de"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19490221de"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_63">
         <dc:title>ddr_livres</dc:title>

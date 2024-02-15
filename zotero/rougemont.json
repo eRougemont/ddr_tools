@@ -20993,32 +20993,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5018778/items/4QNBJQUM",
-		"type": "article-newspaper",
-		"call-number": "ddr19401114jg",
-		"container-title": "Journal de Genève",
-		"note": "publisher-place: Genève",
-		"page": "1-2",
-		"title": "Veille d’élection présidentielle",
-		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19401114jg",
-		"author": [
-			{
-				"family": "Rougemont",
-				"given": "Denis",
-				"dropping-particle": "de"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1940",
-					11,
-					14
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/5018778/items/QPBKIZMH",
 		"type": "article-newspaper",
 		"call-number": "ddr19410117jg",
@@ -29777,6 +29751,7 @@
 		"note": "publisher-place: Paris",
 		"page": "20-22",
 		"title": "“La qualité des choses que j’aime”",
+		"URL": "https://www.unige.ch/rougemont/articles/1978-1981/ddr19791200qcja",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29798,6 +29773,7 @@
 		"type": "article",
 		"call-number": "ddr19580800ll",
 		"title": "Liberté et littérature",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19580800ll",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29822,6 +29798,7 @@
 		"note": "publisher-place: Genève",
 		"page": "207",
 		"title": "Hommage à l’Alliance culturelle romande pour ses 20 ans",
+		"URL": "https://www.unige.ch/rougemont/articles/1982-1985/ddr19821000acr",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29846,6 +29823,7 @@
 		"note": "publisher-place: Genève\nissued: \"automne 1965\"",
 		"page": "57-59",
 		"title": "La Suisse, maquette pour une Europe du bonheur",
+		"URL": "https://www.unige.ch/rougemont/articles/1963-1969/ddr19651200revoy",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29870,6 +29848,7 @@
 		"note": "publisher-place: Genève",
 		"page": "4-5",
 		"title": "Suisse, Europe et neutralité",
+		"URL": "https://www.unige.ch/rougemont/articles/1951-1956/ddr19530306essor",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29894,6 +29873,7 @@
 		"container-title": "Arcadie. Association contre la pollution",
 		"page": "1-6",
 		"title": "L’Europe et l’environnement",
+		"URL": "https://www.unige.ch/rougemont/articles/1978-1981/ddr19800628arcadie",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29919,6 +29899,7 @@
 		"page": "12-13",
 		"publisher": "AEFM",
 		"title": "L’Association des festivals de musique a cinq ans",
+		"URL": "https://www.unige.ch/rougemont/articles/1951-1956/ddr19560000saison",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29942,6 +29923,7 @@
 		"note": "publisher-place: Lausanne",
 		"page": "5",
 		"title": "Au peuple suisse !",
+		"URL": "https://www.unige.ch/rougemont/articles/1938-1940/ddr19400722tlaus",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29967,6 +29949,7 @@
 		"note": "publisher-place: Paris",
 		"page": "35, 37 et 39",
 		"title": "[Entretien] Le diable existe, vous pouvez le rencontrer",
+		"URL": "https://www.unige.ch/rougemont/articles/1970-1973/ddr19710517elle",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -29999,6 +29982,7 @@
 		"note": "publisher-place: Genève",
 		"page": "2-3",
 		"title": "Un débat sur l’objection de conscience : entre Dieu et l’État",
+		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19691004jg",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30046,6 +30030,7 @@
 		"note": "publisher-place: Genève\n\nissued: 1978-02-17/1978-02-19/1978-02-21/1978-02-22",
 		"page": "19, 22, 21, 16",
 		"title": "Débat sur la voiture dans la société moderne",
+		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19780200jg",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30084,6 +30069,7 @@
 		"note": "publisher-place: Genève\n\nRéponse à l’enquête « Que lisent les écrivains romands ? »",
 		"page": "I, IV",
 		"title": "Suis-je perdu pour la littérature ?",
+		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19821030jg",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30109,6 +30095,7 @@
 		"note": "publisher-place: Lausanne-Neuchâtel-Genève-Fribourg",
 		"page": "204-205",
 		"title": "<i>Le Grand Testament</i> de Villon, illustré par Marcel North",
+		"URL": "https://www.unige.ch/rougemont/articles/rbl/ddr19300600rbl",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30133,6 +30120,7 @@
 		"note": "publisher-place: Paris",
 		"page": "1 et 3",
 		"title": "Ce sont les Français qui ont commencé (La querelle des « condensés… »)",
+		"URL": "https://www.unige.ch/rougemont/articles/1946-1948/ddr19480214figlitt",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30158,6 +30146,7 @@
 		"note": "publisher-place: Paris",
 		"page": "1",
 		"title": "La jeune littérature des États-Unis devant le roman américain",
+		"URL": "https://www.unige.ch/rougemont/articles/1946-1948/ddr19470607figlitt",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30181,6 +30170,7 @@
 		"call-number": "ddr19701128suisscee",
 		"note": "issued: 1970-11-28",
 		"title": "La Suisse et la CEE",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19701128suisscee",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30203,6 +30193,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19360000ishm",
 		"title": "[Compte rendu] Henri de Man, <i>L’Idée socialiste</i>",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19360000ishm",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30224,6 +30215,7 @@
 		"call-number": "ddr19701100osoc",
 		"note": "issued: 1970-11-00",
 		"title": "“Ô saisons ! Ô châteaux !”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19701100osoc",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30246,6 +30238,7 @@
 		"call-number": "ddr19831110cec",
 		"note": "issued: 1983-11-10",
 		"title": "D’où venons-nous ? Où sommes-nous ? Où allons-nous ? (à propos du CEC)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19831110cec",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30269,6 +30262,7 @@
 		"call-number": "ddr19850606fec",
 		"note": "issued: 1985-06-06",
 		"title": "Membre d’honneur de la Fondation européenne de la culture",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19850606fec",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30292,6 +30286,7 @@
 		"call-number": "ddr19830506drlr",
 		"note": "issued: 1983-05-06",
 		"title": "Devise du régionalisme : point de libertés sans responsabilités",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19830506drlr",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30315,6 +30310,7 @@
 		"call-number": "ddr19821018ucufe",
 		"note": "issued: 1982-10-18",
 		"title": "De l’unité de culture à l’union fédérale de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19821018ucufe",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30338,6 +30334,7 @@
 		"call-number": "ddr19820512griso",
 		"note": "issued: 1982-05-12",
 		"title": "Réponse à M. Grisoni",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19820512griso",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30361,6 +30358,7 @@
 		"call-number": "ddr19820211lep",
 		"note": "issued: 1982-02-11",
 		"title": "Débat sur le LEP, accélérateur de particules du CERN",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19820211lep",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30384,6 +30382,7 @@
 		"call-number": "ddr19820106pac",
 		"note": "issued: 1982-01-06",
 		"title": "Pacifisme",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19820106pac",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30407,6 +30406,7 @@
 		"call-number": "ddr19810519nf",
 		"note": "issued: 1981-05-19",
 		"title": "Nicolas de Flue, le Solitaire par qui tous sont unis",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19810519nf",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30430,6 +30430,7 @@
 		"call-number": "ddr19801111gipri",
 		"note": "issued: 1980-11-11",
 		"title": "“Imaginer la vérité de la guerre demain, c’est déjà une action pour la paix” (Discours pour l’inauguration du GIPRI)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19801111gipri",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30453,6 +30454,7 @@
 		"call-number": "ddr19800918ecoropa",
 		"note": "issued: 1980-09-18",
 		"title": "Un cap de nouvelle espérance pour le navire désemparé de notre société occidentale",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19800918ecoropa",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30476,6 +30478,7 @@
 		"call-number": "ddr19800605isover",
 		"note": "issued: 1980-06-05",
 		"title": "[Entretien] Si nous continuons dans le même sens, nous allons vers un désastre général",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19800605isover",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30499,6 +30502,7 @@
 		"call-number": "ddr19570221beloff",
 		"note": "issued: 1957-02-21",
 		"title": "[Préface] <i>Europe and the Europeans</i>, édité par Max Beloff",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19570221beloff",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30522,6 +30526,7 @@
 		"call-number": "ddr19791122sperber",
 		"note": "issued: 1979-11-22",
 		"title": "Manès Sperber ou “l’homme qui rappelle”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19791122sperber",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30545,6 +30550,7 @@
 		"call-number": "ddr19790924noei",
 		"note": "issued: 1979-09-24",
 		"title": "Obstacles au nouvel ordre économique international (NOEI) en Europe du Centre",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19790924noei",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30568,6 +30574,7 @@
 		"call-number": "ddr19790727ecoropa",
 		"note": "issued: 1979-07-27",
 		"title": "Rapport intérimaire pour Ecoropa",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19790727ecoropa",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30591,6 +30598,7 @@
 		"call-number": "ddr19790507ecoropa",
 		"note": "issued: 1979-05-07",
 		"title": "Conférence de presse Ecoropa",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19790507ecoropa",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30614,6 +30622,7 @@
 		"call-number": "ddr19790208cpne",
 		"note": "issued: 1979-02-08",
 		"title": "Continuité des politiques nationales en Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19790208cpne",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30637,6 +30646,7 @@
 		"call-number": "ddr19781208ocnoei",
 		"note": "issued: 1978-12-08",
 		"title": "Obstacles et chances du nouvel ordre économique international (NOEI) : l’Europe de l’Ouest",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19781208ocnoei",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30660,6 +30670,7 @@
 		"call-number": "ddr19780605bovet",
 		"note": "issued: 1978-06-05",
 		"title": "Le Grandchamp des Bovet",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19780605bovet",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30683,6 +30694,7 @@
 		"call-number": "ddr19771014tr",
 		"note": "issued: 1977-10-14",
 		"title": "Les trois révolutions",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19771014tr",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30706,6 +30718,7 @@
 		"call-number": "ddr19750900sepr",
 		"note": "issued: 1975-09-00",
 		"title": "La Suisse et l’Europe : projet de résolution",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19750900sepr",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30728,6 +30741,7 @@
 		"call-number": "ddr19750828ero",
 		"note": "issued: 1975-08-28",
 		"title": "L’érotisme",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19750828ero",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30751,6 +30765,7 @@
 		"call-number": "ddr19741211cpfw",
 		"note": "issued: 1974-12-11",
 		"title": "“La paix entre les hommes dépend aussi du respect de la vie sauvage” (message à Franz Weber)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19741211cpfw",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30774,6 +30789,7 @@
 		"call-number": "ddr19740304fwa",
 		"note": "issued: 1974-03-04",
 		"title": "“La vraie défense du territoire national” (soutien à l’initiative de Franz Weber contre les autoroutes)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19740304fwa",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30797,6 +30813,7 @@
 		"call-number": "ddr19730513ee",
 		"note": "issued: 1973-05-13",
 		"title": "Une éducation européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19730513ee",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30820,6 +30837,7 @@
 		"call-number": "ddr19730300cn",
 		"note": "issued: 1971-04-29",
 		"title": "De la “culture nationale”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19730300cn",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30842,6 +30860,7 @@
 		"call-number": "ddr19710429dhcz",
 		"note": "issued: 1971-04-29",
 		"title": "Réception du doctorat <i>honoris causa</i> à Zurich",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19710429dhcz",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30865,6 +30884,7 @@
 		"call-number": "ddr19701013cpae",
 		"note": "issued: 1970-10-13",
 		"title": "Discours au Cercle de la presse et des amitiés étrangères",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19701013cpae",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30888,6 +30908,7 @@
 		"call-number": "ddr19700000at",
 		"note": "issued: 1970-00-00",
 		"title": "1931-1937 ou les années tournantes",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19700000at",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30909,6 +30930,7 @@
 		"call-number": "ddr19690000ser",
 		"note": "issued: 1969-00-00",
 		"title": "L’esprit romand",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19690000ser",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30930,6 +30952,7 @@
 		"call-number": "ddr19691100ce",
 		"note": "issued: 1969-11-00",
 		"title": "Les chances de l’Europe : huit ans après",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19691100ce",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30952,6 +30975,7 @@
 		"call-number": "ddr19690000uemul",
 		"note": "issued: 1969-00-00",
 		"title": "L’union de l’Europe, modèle d’union dans la liberté",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19690000uemul",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30973,6 +30997,7 @@
 		"call-number": "ddr19680403gr",
 		"note": "issued: 1968-04-03",
 		"title": "Message pour la Grèce",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19680403gr",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -30996,6 +31021,7 @@
 		"call-number": "ddr19670700welt",
 		"note": "issued: 1967-07-00",
 		"title": "L’intellectuel suisse et la politique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19670700welt",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31018,6 +31044,7 @@
 		"call-number": "ddr19661200se",
 		"note": "issued: 1966-12-00",
 		"title": "Situation de l’Europe en 1966",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19661200se",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31040,6 +31067,7 @@
 		"call-number": "ddr19660100ys",
 		"note": "issued: 1966-01-00",
 		"title": "“J’essaie d’imaginer mes lecteurs japonais…”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19660100ys",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31062,6 +31090,7 @@
 		"call-number": "ddr19650900epee",
 		"note": "issued: 1965-09-00",
 		"title": "État présent des études européennes",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19650900epee",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31084,6 +31113,7 @@
 		"call-number": "ddr19630218eepf",
 		"note": "issued: 1963",
 		"title": "L’Europe entière, ou la première force",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19630218eepf",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31107,6 +31137,7 @@
 		"call-number": "ddr19620902pan",
 		"note": "issued: 1962-09-02",
 		"title": "“Né d’un regard juste…” (à propos de Richard Coudenhove-Kalergi)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19620902pan",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31130,6 +31161,7 @@
 		"call-number": "ddr19611100iny",
 		"note": "issued: 1961-11-00",
 		"title": "Imagination de New York",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19611100iny",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31152,6 +31184,7 @@
 		"call-number": "ddr19610800de",
 		"note": "issued: 1961-08-00",
 		"title": "Découvrons l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19610800de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31174,6 +31207,7 @@
 		"call-number": "ddr19610600aae",
 		"note": "issued: 1961-06-00",
 		"title": "L’automation et l’avenir de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19610600aae",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31196,6 +31230,7 @@
 		"call-number": "ddr19590000smce",
 		"note": "issued: 1959-00-00",
 		"title": "La Suisse, microcosme culturel de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19590000smce",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31217,6 +31252,7 @@
 		"call-number": "ddr19580800ll",
 		"note": "issued: 1958-08-00",
 		"title": "Liberté et littérature",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19580800ll",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31239,6 +31275,7 @@
 		"call-number": "ddr19551200dw",
 		"note": "issued: 1955-12-00",
 		"title": "Le vrai sens de nos vœux",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19551200dw",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31261,6 +31298,7 @@
 		"call-number": "ddr19550917al",
 		"note": "issued: 1955-09-17",
 		"title": "L’avenir de la liberté",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19550917al",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31284,6 +31322,7 @@
 		"call-number": "ddr19540800ecdp",
 		"note": "issued: 1954-08-00",
 		"title": "L’Europe en crise : décadence ou progrès ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31306,6 +31345,7 @@
 		"call-number": "ddr19520500ovs",
 		"note": "issued: 1952-05-00",
 		"title": "L’Œuvre du XXe siècle",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19520500ovs",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31328,6 +31368,7 @@
 		"call-number": "ddr19520000vreu",
 		"note": "issued: 1952-00-00",
 		"title": "La vie religieuse aux États-Unis (1942-1945)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19520000vreu",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31349,6 +31390,7 @@
 		"call-number": "ddr19510328cb",
 		"note": "issued: 1951-03-00",
 		"title": "Discours au congrès de Bombay",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510328cb",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31371,6 +31413,7 @@
 		"call-number": "ddr19501200slde",
 		"note": "issued: 1950-12-00",
 		"title": "Sixième lettre aux députés européens",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501200slde",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31393,6 +31436,7 @@
 		"call-number": "ddr19491208conflaus",
 		"note": "issued: 1949-12-08",
 		"title": "Présentation du Rapport général de la Conférence européenne de la culture à Lausanne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491208conflaus",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31416,6 +31460,7 @@
 		"call-number": "ddr19481200jb",
 		"note": "issued: Automne 1948",
 		"title": "“Cher lecteur britannique, je connais bien votre prudence…”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19481200jb",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31438,6 +31483,7 @@
 		"call-number": "ddr19471200if",
 		"note": "issued: 1947-12-00",
 		"title": "Idées françaises",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19471200if",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31460,6 +31506,7 @@
 		"call-number": "ddr19471021aragon",
 		"note": "issued: 1947-10-21",
 		"title": "Une lettre de Denis de Rougemont (à propos d’Aragon)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19471021aragon",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31483,6 +31530,7 @@
 		"call-number": "ddr19470515gensuisse",
 		"note": "issued: 1947-05-15",
 		"title": "Il y a aussi des gens en Suisse",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19470515gensuisse",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31505,6 +31553,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19420000ms",
 		"title": "Le miracle suisse",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19420000ms",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31526,6 +31575,7 @@
 		"call-number": "ddr19420500pro",
 		"note": "issued: 1942-04-00/1942-05-00",
 		"title": "La grande “stratégie religieuse” de cette guerre",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19420500pro",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31547,6 +31597,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19410000bae",
 		"title": "Blind alley of Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19410000bae",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31567,6 +31618,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19410000ffv",
 		"title": "Le fédéralisme : un fait et une volonté",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19410000ffv",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31587,6 +31639,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19410100poh",
 		"title": "Passion et origine de l’hitlérisme",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19410100poh",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31607,6 +31660,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19400000qhei",
 		"title": "Quelle heure est-il ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19400000qhei",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31627,6 +31681,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19390000psc",
 		"title": "Pour une “Suisse chrétienne”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19390000psc",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31647,6 +31702,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19380500etdp",
 		"title": "L’esprit totalitaire et les devoirs de la personne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19380500etdp",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31668,6 +31724,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510312de",
 		"title": "Demain l’Europe ! — Dernière chronique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510312de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31690,6 +31747,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510219de",
 		"title": "Demain l’Europe ! — L’Europe et la paix",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510219de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31712,6 +31770,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510212de",
 		"title": "Demain l’Europe ! — Nos libertés",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510212de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31734,6 +31793,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510122de",
 		"title": "Demain l’Europe ! — Contre une “mystique européenne”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510122de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31756,6 +31816,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510115de",
 		"title": "Demain l’Europe ! — Peut-on fabriquer un Européen ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510115de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31778,6 +31839,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19510108de",
 		"title": "Demain l’Europe ! — Espérer, c’est agir",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19510108de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31800,6 +31862,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501218de",
 		"title": "Demain l’Europe ! — Équiper l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501218de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31822,6 +31885,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501211de",
 		"title": "Demain l’Europe ! — Sur l’opinion en général et la presse en particulier",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501211de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31844,6 +31908,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501204de",
 		"title": "Demain l’Europe ! — État de la construction européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501204de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31866,6 +31931,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501127de",
 		"title": "Demain l’Europe ! — Jeunesse d’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501127de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31888,6 +31954,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501121de",
 		"title": "Demain l’Europe ! — À Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501121de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31910,6 +31977,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501113de",
 		"title": "Demain l’Europe ! — Un Conseil européen de vigilance",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501113de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31932,6 +32000,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501106de",
 		"title": "Demain l’Europe ! — La neutralité suisse (II)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501106de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31954,6 +32023,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501030de",
 		"title": "Demain l’Europe ! — La neutralité suisse (I)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501030de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31976,6 +32046,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501023de",
 		"title": "Demain l’Europe ! — Neutralité européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501023de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -31998,6 +32069,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501016de",
 		"title": "Demain l’Europe ! — L’opinion et l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501016de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32020,6 +32092,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501009de",
 		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501009de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32042,6 +32115,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19501002de",
 		"title": "Demain l’Europe ! — Le Serment de Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19501002de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32064,6 +32138,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500925de",
 		"title": "Demain l’Europe ! — Une autorité politique européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500925de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32086,6 +32161,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500918de",
 		"title": "Demain l’Europe ! — L’armée européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500918de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32108,6 +32184,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500911de",
 		"title": "Demain l’Europe ! — L’atmosphère de Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500911de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32130,6 +32207,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500909de",
 		"title": "Demain l’Europe ! — Un été orageux",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500909de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32152,6 +32230,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500626de",
 		"title": "Demain l’Europe ! — Avant Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500626de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32174,6 +32253,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500619de",
 		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500619de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32196,6 +32276,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500612de",
 		"title": "Demain l’Europe ! — Valeur de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500612de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32218,6 +32299,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500605de",
 		"title": "Demain l’Europe ! — Le règne des experts",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500605de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32240,6 +32322,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500529de",
 		"title": "Demain l’Europe ! — Conversation avec un Américain",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500529de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32262,6 +32345,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500522de",
 		"title": "Demain l’Europe ! — L’opinion",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500522de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32284,6 +32368,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500515de",
 		"title": "Demain l’Europe ! — Lenteurs et progrès",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500515de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32306,6 +32391,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500508de",
 		"title": "Demain l’Europe ! — L’Europe et l’Amérique (II)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500508de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32328,6 +32414,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500501de",
 		"title": "Demain l’Europe ! — L’Europe et l’Amérique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500501de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32350,6 +32437,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500424de",
 		"title": "Demain l’Europe ! — L’union atlantique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500424de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32372,6 +32460,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500417de",
 		"title": "Demain l’Europe ! — Branle-bas mondial",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500417de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32394,6 +32483,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500410de",
 		"title": "Demain l’Europe ! — Les volontaires de Daniel Villey",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500410de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32416,6 +32506,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500403de",
 		"title": "Demain l’Europe ! — Les politiciens et l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500403de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32438,6 +32529,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500327de",
 		"title": "Demain l’Europe ! — Deux enquêtes sur l’union",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500327de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32460,6 +32552,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500320de",
 		"title": "Demain l’Europe ! — De l’Europe au monde",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500320de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32482,6 +32575,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500313de",
 		"title": "Demain l’Europe ! — L’Europe n’est pas pour “demain”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500313de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32504,6 +32598,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500306de",
 		"title": "Demain l’Europe ! — Neutralité européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500306de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32526,6 +32621,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500227de",
 		"title": "Demain l’Europe ! — Après les élections anglaises",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500227de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32548,6 +32644,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500220de",
 		"title": "Demain l’Europe ! — La guerre impossible",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500220de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32570,6 +32667,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500213de",
 		"title": "Demain l’Europe ! — Les deux raisons de fédérer l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500213de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32592,6 +32690,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500206de",
 		"title": "Demain l’Europe ! — Passer à l’action",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500206de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32614,6 +32713,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500130de",
 		"title": "Demain l’Europe ! — Un tiers-ordre européen",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500130de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32636,6 +32736,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500123de",
 		"title": "Demain l’Europe ! — Questions et objections des étudiants de Lausanne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500123de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32658,6 +32759,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500116de",
 		"title": "Demain l’Europe ! — Une enquête chez les étudiants",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500116de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32680,6 +32782,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500109de",
 		"title": "Demain l’Europe ! — Par où commencer ? Par l’économie ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500109de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32702,6 +32805,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19500102de",
 		"title": "Demain l’Europe ! — Bon demi-siècle !",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19500102de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32724,6 +32828,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491226de",
 		"title": "Demain l’Europe ! — Bilan 1949",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491226de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32746,6 +32851,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491219de",
 		"title": "Demain l’Europe ! — Optimistes et pessimistes",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491219de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32768,6 +32874,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491205de",
 		"title": "Demain l’Europe ! — La Conférence européenne de la culture",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491205de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32790,6 +32897,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491128de",
 		"title": "Demain l’Europe ! — Les suites de Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491128de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32812,6 +32920,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491121de",
 		"title": "Demain l’Europe ! — Encore notre neutralité",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491121de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32834,6 +32943,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491114de",
 		"title": "Demain l’Europe ! — La Suisse et Strasbourg (II)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491114de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32856,6 +32966,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491107de",
 		"title": "Demain l’Europe ! — L’Amérique veut nous unir",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491107de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32878,6 +32989,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491031de",
 		"title": "Demain l’Europe ! — La Suisse et Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491031de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32900,6 +33012,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491024de",
 		"title": "Demain l’Europe ! — Militer pour la fédération",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491024de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32922,6 +33035,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491017de",
 		"title": "Demain l’Europe ! — Que pouvez-vous faire ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491017de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32944,6 +33058,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491010de",
 		"title": "Demain l’Europe ! — Les résultats de Strasbourg",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491010de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32966,6 +33081,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19491003de",
 		"title": "Demain l’Europe ! — “Êtes-vous satisfait de Strasbourg ?”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19491003de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -32988,6 +33104,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490926de",
 		"title": "Demain l’Europe ! — La dévaluation et la bombe soviétique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490926de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33010,6 +33127,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490919de",
 		"title": "Demain l’Europe ! — Un bel été",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490919de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33032,6 +33150,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490704de",
 		"title": "Demain l’Europe ! — Faisons le point",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490704de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33054,6 +33173,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490627de",
 		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490627de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33076,6 +33196,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490620de",
 		"title": "Demain l’Europe ! — La Suisse et l’Europe (IV)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490620de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33098,6 +33219,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490613de",
 		"title": "Demain l’Europe ! — Suisse 1848-Europe 1949 (II)",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490613de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33120,6 +33242,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490530de",
 		"title": "Demain l’Europe ! — Suisse 1848-Europe 1949",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490530de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33142,6 +33265,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490523de",
 		"title": "Demain l’Europe ! — La neutralité suisse",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490523de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33164,6 +33288,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490509de",
 		"title": "Demain l’Europe ! — Le Statut du Conseil de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490509de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33186,6 +33311,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490502de",
 		"title": "Demain l’Europe ! — L’URSS et l’Europe fédérée",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490502de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33208,6 +33334,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490425de",
 		"title": "Demain l’Europe ! — L’union de l’Europe et l’Amérique",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490425de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33230,6 +33357,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490418de",
 		"title": "Demain l’Europe ! — Pâques européennes",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490418de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33252,6 +33380,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490411de",
 		"title": "Demain l’Europe ! — L’Allemagne et l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490411de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33274,6 +33403,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490404de",
 		"title": "Demain l’Europe ! — “Une idée généreuse” ?",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490404de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33296,6 +33426,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490328de",
 		"title": "Demain l’Europe ! — Le Conseil de l’Europe",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490328de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33318,6 +33449,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490321de",
 		"title": "Demain l’Europe ! — Le pacte de l’Atlantique et la fédération européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490321de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33340,6 +33472,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490314de",
 		"title": "Demain l’Europe ! — La Cour suprême européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490314de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33362,6 +33495,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490307de",
 		"title": "Demain l’Europe ! — “La paix, la paix !”",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490307de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33384,6 +33518,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490227de",
 		"title": "Demain l’Europe ! — L’Assemblée européenne",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490227de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33406,6 +33541,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490225de",
 		"title": "Demain l’Europe ! — Le Conseil international du Mouvement européen",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490225de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33428,6 +33564,7 @@
 		"type": "manuscript",
 		"call-number": "ddr19490221de",
 		"title": "Demain l’Europe ! — L’Europe en marche",
+		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19490221de",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33441,6 +33578,82 @@
 					"1949",
 					2,
 					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/II4CMY4R",
+		"type": "article-journal",
+		"call-number": "ddr19571000preuv_p0054",
+		"container-title": "Preuves",
+		"note": "publisher-place: Paris",
+		"page": "54-55",
+		"title": "L’échéance de septembre",
+		"URL": "https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/EQHTCEKI",
+		"type": "article-journal",
+		"call-number": "ddr19571000preuv_p0072",
+		"container-title": "Preuves",
+		"note": "publisher-place: Paris",
+		"page": "72-73",
+		"title": "Sur un certain cynisme (Le point de vue de Ferney)",
+		"URL": "https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0072",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/N574YDE8",
+		"type": "article-newspaper",
+		"call-number": "ddr19410114jg",
+		"container-title": "Journal de Genève",
+		"note": "publisher-place: Genève\n\nLe journal précise : « De notre envoyé spécial ».",
+		"page": "1",
+		"title": "Veille d’élection présidentielle",
+		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19410114jg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1941",
+					1,
+					14
 				]
 			]
 		}

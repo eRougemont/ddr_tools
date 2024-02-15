@@ -17909,26 +17909,6 @@ Les coquilles de cet article ont été corrigées sur la base de l’exemplaire 
 	</note>
 </biblStruct>
 
-<biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/4QNBJQUM">
-	<analytic>
-		<author>
-			<forename>Denis de</forename>
-			<surname>Rougemont</surname>
-		</author>
-		<title level="a">Veille d’élection présidentielle</title>
-		<idno type="callNumber">ddr19401114jg</idno>
-	</analytic>
-	<monogr>
-		<title level="m">Journal de Genève</title>
-		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg"/>
-		<imprint>
-			<date when="1940-11-14">1940-11-14</date>
-			<pubPlace>Genève</pubPlace>
-			<biblScope unit="page">1-2</biblScope>
-		</imprint>
-	</monogr>
-</biblStruct>
-
 <biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/QPBKIZMH">
 	<analytic>
 		<author>
@@ -25386,12 +25366,16 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="j">Icare</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1978-1981/ddr19791200qcja"/>
 		<imprint>
 			<date when="1979-12">1979-12</date>
 			<pubPlace>Paris</pubPlace>
 			<biblScope unit="page">20-22</biblScope>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="preprint" corresp="http://zotero.org/groups/5018778/items/UF8QUSAW">
@@ -25401,11 +25385,17 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Liberté et littérature</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19580800ll"/>
 		<idno type="callNumber">ddr19580800ll</idno>
 		<imprint>
 			<date when="1958-08">1958-08</date>
 		</imprint>
 	</monogr>
+	<note corresp="http://zotero.org/groups/5018778/items/Y2D495Q5"><p>Où est-ce ?</p>
+</note>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/PGWYS6H8">
@@ -25419,6 +25409,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="j">Cahiers de l’Alliance culturelle romande</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1982-1985/ddr19821000acr"/>
 		<imprint>
 			<date when="1982-10">1982-10</date>
 			<pubPlace>Genève</pubPlace>
@@ -25438,6 +25429,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="j">Revue des voyages</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1963-1969/ddr19651200revoy"/>
 		<imprint>
 			<date when="1965">"automne 1965"</date>
 			<pubPlace>Genève</pubPlace>
@@ -25457,6 +25449,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">L’Essor</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1951-1956/ddr19530306essor"/>
 		<imprint>
 			<date when="1953-03-06">1953-03-06</date>
 			<pubPlace>Genève</pubPlace>
@@ -25476,6 +25469,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="j">Arcadie. Association contre la pollution</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1978-1981/ddr19800628arcadie"/>
 		<imprint>
 			<date when="1980-06-28">1980-06-28</date>
 			<biblScope unit="page">1-6</biblScope>
@@ -25494,6 +25488,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Saison</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1951-1956/ddr19560000saison"/>
 		<imprint>
 			<date when="1956">1956</date>
 			<publisher>AEFM</publisher>
@@ -25513,6 +25508,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Tribune de Lausanne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1938-1940/ddr19400722tlaus"/>
 		<imprint>
 			<date when="1940-07-22">1940-07-22</date>
 			<pubPlace>Lausanne</pubPlace>
@@ -25539,6 +25535,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Elle</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1970-1973/ddr19710517elle"/>
 		<imprint>
 			<date when="1971-05-17">1971-05-17</date>
 			<pubPlace>Paris</pubPlace>
@@ -25596,6 +25593,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Journal de Genève</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19691004jg"/>
 		<imprint>
 			<date when="1969-10-04">1969-10-04</date>
 			<pubPlace>Genève</pubPlace>
@@ -25636,6 +25634,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Journal de Genève</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19780200jg"/>
 		<imprint>
 			<date when="1978-02-17">1978-02-17/1978-02-19/1978-02-21/1978-02-22</date>
 			<pubPlace>Genève</pubPlace>
@@ -25655,6 +25654,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Journal de Genève</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19821030jg"/>
 		<imprint>
 			<date when="1982-10-30">1982-10-30</date>
 			<pubPlace>Genève</pubPlace>
@@ -25675,6 +25675,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="j">Revue de Belles-Lettres</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/rbl/ddr19300600rbl"/>
 		<imprint>
 			<date when="1930-06">1930-06</date>
 			<pubPlace>Lausanne-Neuchâtel-Genève-Fribourg</pubPlace>
@@ -25694,6 +25695,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Le Figaro littéraire</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1946-1948/ddr19480214figlitt"/>
 		<imprint>
 			<date when="1948-02-14">1948-02-14</date>
 			<pubPlace>Paris</pubPlace>
@@ -25713,6 +25715,7 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</analytic>
 	<monogr>
 		<title level="m">Le Figaro littéraire</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/1946-1948/ddr19470607figlitt"/>
 		<imprint>
 			<date when="1947-06-07">1947-06-07</date>
 			<pubPlace>Paris</pubPlace>
@@ -25728,12 +25731,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">La Suisse et la CEE</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19701128suisscee"/>
 		<idno type="callNumber">ddr19701128suisscee</idno>
 		<imprint>
 			<date when="1970-11-28">1970-11-28</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25745,12 +25750,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">[Compte rendu] Henri de Man, <hi rend="italic">L’Idée socialiste</hi></title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19360000ishm"/>
 		<idno type="callNumber">ddr19360000ishm</idno>
 		<imprint>
 			<date when="1936">1936-00-00</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Compte rendu</term>
 	</note>
 </biblStruct>
@@ -25762,12 +25769,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“Ô saisons ! Ô châteaux !”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19701100osoc"/>
 		<idno type="callNumber">ddr19701100osoc</idno>
 		<imprint>
 			<date when="1970-11">1970-11-00</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25779,12 +25788,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">D’où venons-nous ? Où sommes-nous ? Où allons-nous ? (à propos du CEC)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19831110cec"/>
 		<idno type="callNumber">ddr19831110cec</idno>
 		<imprint>
 			<date when="1983-11-10">1983-11-10</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25796,12 +25807,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Membre d’honneur de la Fondation européenne de la culture</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19850606fec"/>
 		<idno type="callNumber">ddr19850606fec</idno>
 		<imprint>
 			<date when="1985-06-06">1985-06-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25813,12 +25826,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Devise du régionalisme : point de libertés sans responsabilités</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19830506drlr"/>
 		<idno type="callNumber">ddr19830506drlr</idno>
 		<imprint>
 			<date when="1983-05-06">1983-05-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25830,12 +25845,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">De l’unité de culture à l’union fédérale de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19821018ucufe"/>
 		<idno type="callNumber">ddr19821018ucufe</idno>
 		<imprint>
 			<date when="1982-10-18">1982-10-18</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25847,12 +25864,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Réponse à M. Grisoni</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19820512griso"/>
 		<idno type="callNumber">ddr19820512griso</idno>
 		<imprint>
 			<date when="1982-05-12">1982-05-12</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25864,12 +25883,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Débat sur le LEP, accélérateur de particules du CERN</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19820211lep"/>
 		<idno type="callNumber">ddr19820211lep</idno>
 		<imprint>
 			<date when="1982-02-11">1982-02-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25881,12 +25902,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Pacifisme</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19820106pac"/>
 		<idno type="callNumber">ddr19820106pac</idno>
 		<imprint>
 			<date when="1982-01-06">1982-01-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25898,12 +25921,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Nicolas de Flue, le Solitaire par qui tous sont unis</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19810519nf"/>
 		<idno type="callNumber">ddr19810519nf</idno>
 		<imprint>
 			<date when="1981-05-19">1981-05-19</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25915,12 +25940,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“Imaginer la vérité de la guerre demain, c’est déjà une action pour la paix” (Discours pour l’inauguration du GIPRI)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19801111gipri"/>
 		<idno type="callNumber">ddr19801111gipri</idno>
 		<imprint>
 			<date when="1980-11-11">1980-11-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25932,12 +25959,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Un cap de nouvelle espérance pour le navire désemparé de notre société occidentale</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19800918ecoropa"/>
 		<idno type="callNumber">ddr19800918ecoropa</idno>
 		<imprint>
 			<date when="1980-09-18">1980-09-18</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25949,12 +25978,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">[Entretien] Si nous continuons dans le même sens, nous allons vers un désastre général</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19800605isover"/>
 		<idno type="callNumber">ddr19800605isover</idno>
 		<imprint>
 			<date when="1980-06-05">1980-06-05</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25966,12 +25997,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">[Préface] <hi rend="italic">Europe and the Europeans</hi>, édité par Max Beloff</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19570221beloff"/>
 		<idno type="callNumber">ddr19570221beloff</idno>
 		<imprint>
 			<date when="1957-02-21">1957-02-21</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Préface</term>
 	</note>
 </biblStruct>
@@ -25983,12 +26016,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Manès Sperber ou “l’homme qui rappelle”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19791122sperber"/>
 		<idno type="callNumber">ddr19791122sperber</idno>
 		<imprint>
 			<date when="1979-11-22">1979-11-22</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26000,12 +26035,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Obstacles au nouvel ordre économique international (NOEI) en Europe du Centre</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19790924noei"/>
 		<idno type="callNumber">ddr19790924noei</idno>
 		<imprint>
 			<date when="1979-09-24">1979-09-24</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26017,12 +26054,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Rapport intérimaire pour Ecoropa</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19790727ecoropa"/>
 		<idno type="callNumber">ddr19790727ecoropa</idno>
 		<imprint>
 			<date when="1979-07-27">1979-07-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26034,12 +26073,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Conférence de presse Ecoropa</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19790507ecoropa"/>
 		<idno type="callNumber">ddr19790507ecoropa</idno>
 		<imprint>
 			<date when="1979-05-07">1979-05-07</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26051,12 +26092,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Continuité des politiques nationales en Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19790208cpne"/>
 		<idno type="callNumber">ddr19790208cpne</idno>
 		<imprint>
 			<date when="1979-02-08">1979-02-08</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26068,12 +26111,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Obstacles et chances du nouvel ordre économique international (NOEI) : l’Europe de l’Ouest</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19781208ocnoei"/>
 		<idno type="callNumber">ddr19781208ocnoei</idno>
 		<imprint>
 			<date when="1978-12-08">1978-12-08</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26085,12 +26130,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Le Grandchamp des Bovet</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19780605bovet"/>
 		<idno type="callNumber">ddr19780605bovet</idno>
 		<imprint>
 			<date when="1978-06-05">1978-06-05</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26102,12 +26149,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Les trois révolutions</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19771014tr"/>
 		<idno type="callNumber">ddr19771014tr</idno>
 		<imprint>
 			<date when="1977-10-14">1977-10-14</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26119,12 +26168,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">La Suisse et l’Europe : projet de résolution</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19750900sepr"/>
 		<idno type="callNumber">ddr19750900sepr</idno>
 		<imprint>
 			<date when="1975-09">1975-09-00</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26136,12 +26187,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’érotisme</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19750828ero"/>
 		<idno type="callNumber">ddr19750828ero</idno>
 		<imprint>
 			<date when="1975-08-28">1975-08-28</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26153,12 +26206,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“La paix entre les hommes dépend aussi du respect de la vie sauvage” (message à Franz Weber)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19741211cpfw"/>
 		<idno type="callNumber">ddr19741211cpfw</idno>
 		<imprint>
 			<date when="1974-12-11">1974-12-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26170,12 +26225,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“La vraie défense du territoire national” (soutien à l’initiative de Franz Weber contre les autoroutes)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19740304fwa"/>
 		<idno type="callNumber">ddr19740304fwa</idno>
 		<imprint>
 			<date when="1974-03-04">1974-03-04</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26187,12 +26244,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Une éducation européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19730513ee"/>
 		<idno type="callNumber">ddr19730513ee</idno>
 		<imprint>
 			<date when="1973-05-13">1973-05-13</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26204,12 +26263,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">De la “culture nationale”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19730300cn"/>
 		<idno type="callNumber">ddr19730300cn</idno>
 		<imprint>
 			<date when="1971-04-29">1971-04-29</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26221,12 +26282,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Réception du doctorat <hi rend="italic">honoris causa</hi> à Zurich</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19710429dhcz"/>
 		<idno type="callNumber">ddr19710429dhcz</idno>
 		<imprint>
 			<date when="1971-04-29">1971-04-29</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26238,11 +26301,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Discours au Cercle de la presse et des amitiés étrangères</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19701013cpae"/>
 		<idno type="callNumber">ddr19701013cpae</idno>
 		<imprint>
 			<date when="1970-10-13">1970-10-13</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AIMCW93A">
@@ -26252,11 +26319,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">1931-1937 ou les années tournantes</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19700000at"/>
 		<idno type="callNumber">ddr19700000at</idno>
 		<imprint>
 			<date when="1970">1970-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/VCQ5CLT8">
@@ -26266,11 +26337,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’esprit romand</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19690000ser"/>
 		<idno type="callNumber">ddr19690000ser</idno>
 		<imprint>
 			<date when="1969">1969-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/RLDHJGRI">
@@ -26280,11 +26355,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Les chances de l’Europe : huit ans après</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19691100ce"/>
 		<idno type="callNumber">ddr19691100ce</idno>
 		<imprint>
 			<date when="1969-11">1969-11-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/GKGLHJLL">
@@ -26294,11 +26373,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’union de l’Europe, modèle d’union dans la liberté</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19690000uemul"/>
 		<idno type="callNumber">ddr19690000uemul</idno>
 		<imprint>
 			<date when="1969">1969-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SVYESVNH">
@@ -26308,11 +26391,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Message pour la Grèce</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19680403gr"/>
 		<idno type="callNumber">ddr19680403gr</idno>
 		<imprint>
 			<date when="1968-04-03">1968-04-03</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XGEUMGBA">
@@ -26322,11 +26409,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’intellectuel suisse et la politique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19670700welt"/>
 		<idno type="callNumber">ddr19670700welt</idno>
 		<imprint>
 			<date when="1967-07">1967-07-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/7HUN9VYN">
@@ -26336,11 +26427,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Situation de l’Europe en 1966</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19661200se"/>
 		<idno type="callNumber">ddr19661200se</idno>
 		<imprint>
 			<date when="1966-12">1966-12-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/7BM2ATIT">
@@ -26350,11 +26445,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“J’essaie d’imaginer mes lecteurs japonais…”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19660100ys"/>
 		<idno type="callNumber">ddr19660100ys</idno>
 		<imprint>
 			<date when="1966-01">1966-01-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/3SZWD7V4">
@@ -26364,11 +26463,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">État présent des études européennes</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19650900epee"/>
 		<idno type="callNumber">ddr19650900epee</idno>
 		<imprint>
 			<date when="1965-09">1965-09-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/WI526AIQ">
@@ -26378,11 +26481,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’Europe entière, ou la première force</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19630218eepf"/>
 		<idno type="callNumber">ddr19630218eepf</idno>
 		<imprint>
 			<date when="1963">1963</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/R5B8SZDD">
@@ -26392,11 +26499,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“Né d’un regard juste…” (à propos de Richard Coudenhove-Kalergi)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19620902pan"/>
 		<idno type="callNumber">ddr19620902pan</idno>
 		<imprint>
 			<date when="1962-09-02">1962-09-02</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XCKLAJDC">
@@ -26406,11 +26517,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Imagination de New York</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19611100iny"/>
 		<idno type="callNumber">ddr19611100iny</idno>
 		<imprint>
 			<date when="1961-11">1961-11-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AKVNSK4P">
@@ -26420,11 +26535,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Découvrons l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19610800de"/>
 		<idno type="callNumber">ddr19610800de</idno>
 		<imprint>
 			<date when="1961-08">1961-08-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/2WBUIWE8">
@@ -26434,11 +26553,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’automation et l’avenir de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19610600aae"/>
 		<idno type="callNumber">ddr19610600aae</idno>
 		<imprint>
 			<date when="1961-06">1961-06-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/ZVY3MNQE">
@@ -26448,11 +26571,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">La Suisse, microcosme culturel de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19590000smce"/>
 		<idno type="callNumber">ddr19590000smce</idno>
 		<imprint>
 			<date when="1959">1959-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/NZSCULN5">
@@ -26462,11 +26589,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Liberté et littérature</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19580800ll"/>
 		<idno type="callNumber">ddr19580800ll</idno>
 		<imprint>
 			<date when="1958-08">1958-08-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/4WSKG4I5">
@@ -26476,11 +26607,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Le vrai sens de nos vœux</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19551200dw"/>
 		<idno type="callNumber">ddr19551200dw</idno>
 		<imprint>
 			<date when="1955-12">1955-12-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/3J24JHUM">
@@ -26490,11 +26625,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’avenir de la liberté</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19550917al"/>
 		<idno type="callNumber">ddr19550917al</idno>
 		<imprint>
 			<date when="1955-09-17">1955-09-17</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SADXUYAA">
@@ -26504,11 +26643,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’Europe en crise : décadence ou progrès ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp"/>
 		<idno type="callNumber">ddr19540800ecdp</idno>
 		<imprint>
 			<date when="1954-08">1954-08-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SBPCIA7N">
@@ -26518,11 +26661,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’Œuvre du XXe siècle</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19520500ovs"/>
 		<idno type="callNumber">ddr19520500ovs</idno>
 		<imprint>
 			<date when="1952-05">1952-05-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/PIHCQVCJ">
@@ -26532,11 +26679,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">La vie religieuse aux États-Unis (1942-1945)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19520000vreu"/>
 		<idno type="callNumber">ddr19520000vreu</idno>
 		<imprint>
 			<date when="1952">1952-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MY5UB7EZ">
@@ -26546,11 +26697,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Discours au congrès de Bombay</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510328cb"/>
 		<idno type="callNumber">ddr19510328cb</idno>
 		<imprint>
 			<date when="1951-03">1951-03-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MXCKAXPS">
@@ -26560,11 +26715,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Sixième lettre aux députés européens</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501200slde"/>
 		<idno type="callNumber">ddr19501200slde</idno>
 		<imprint>
 			<date when="1950-12">1950-12-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MIB9GYAX">
@@ -26574,11 +26733,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Présentation du Rapport général de la Conférence européenne de la culture à Lausanne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491208conflaus"/>
 		<idno type="callNumber">ddr19491208conflaus</idno>
 		<imprint>
 			<date when="1949-12-08">1949-12-08</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/P6HUBI9Z">
@@ -26588,11 +26751,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">“Cher lecteur britannique, je connais bien votre prudence…”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19481200jb"/>
 		<idno type="callNumber">ddr19481200jb</idno>
 		<imprint>
 			<date when="1948">Automne 1948</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AXPJMW2L">
@@ -26602,11 +26769,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Idées françaises</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19471200if"/>
 		<idno type="callNumber">ddr19471200if</idno>
 		<imprint>
 			<date when="1947-12">1947-12-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/JZ6FCRBG">
@@ -26616,11 +26787,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Une lettre de Denis de Rougemont (à propos d’Aragon)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19471021aragon"/>
 		<idno type="callNumber">ddr19471021aragon</idno>
 		<imprint>
 			<date when="1947-10-21">1947-10-21</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/IYLNQCKH">
@@ -26630,11 +26805,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Il y a aussi des gens en Suisse</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19470515gensuisse"/>
 		<idno type="callNumber">ddr19470515gensuisse</idno>
 		<imprint>
 			<date when="1947-05-15">1947-05-15</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/ATRBZSVW">
@@ -26644,11 +26823,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Le miracle suisse</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19420000ms"/>
 		<idno type="callNumber">ddr19420000ms</idno>
 		<imprint>
 			<date when="1942">1942-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/56NXXMQD">
@@ -26658,11 +26841,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">La grande “stratégie religieuse” de cette guerre</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19420500pro"/>
 		<idno type="callNumber">ddr19420500pro</idno>
 		<imprint>
 			<date when="1942-04-05">1942-04-00/1942-05-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XPSNM8B2">
@@ -26672,11 +26859,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Blind alley of Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19410000bae"/>
 		<idno type="callNumber">ddr19410000bae</idno>
 		<imprint>
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/KW8PVYHJ">
@@ -26686,11 +26877,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Le fédéralisme : un fait et une volonté</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19410000ffv"/>
 		<idno type="callNumber">ddr19410000ffv</idno>
 		<imprint>
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/UAZRT4W4">
@@ -26700,11 +26895,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Passion et origine de l’hitlérisme</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19410100poh"/>
 		<idno type="callNumber">ddr19410100poh</idno>
 		<imprint>
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/HFA9VCSR">
@@ -26714,11 +26913,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Quelle heure est-il ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19400000qhei"/>
 		<idno type="callNumber">ddr19400000qhei</idno>
 		<imprint>
 			<date when="1940">1940-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/T8UXQ4CB">
@@ -26728,11 +26931,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Pour une “Suisse chrétienne”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19390000psc"/>
 		<idno type="callNumber">ddr19390000psc</idno>
 		<imprint>
 			<date when="1939">1939-00-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/V2Z8G46S">
@@ -26742,11 +26949,15 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">L’esprit totalitaire et les devoirs de la personne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19380500etdp"/>
 		<idno type="callNumber">ddr19380500etdp</idno>
 		<imprint>
 			<date when="1938-05">1938-05-00</date>
 		</imprint>
 	</monogr>
+	<note type="tags">
+		<term type="tag">*URL</term>
+	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/KWGB3AN5">
@@ -26756,12 +26967,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Dernière chronique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510312de"/>
 		<idno type="callNumber">ddr19510312de</idno>
 		<imprint>
 			<date when="1951-03-12">1951-03-12</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26773,12 +26986,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Europe et la paix</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510219de"/>
 		<idno type="callNumber">ddr19510219de</idno>
 		<imprint>
 			<date when="1951-02-19">1951-02-19</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26790,12 +27005,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Nos libertés</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510212de"/>
 		<idno type="callNumber">ddr19510212de</idno>
 		<imprint>
 			<date when="1951-02-12">1951-02-12</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26807,12 +27024,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Contre une “mystique européenne”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510122de"/>
 		<idno type="callNumber">ddr19510122de</idno>
 		<imprint>
 			<date when="1951-01-22">1951-01-22</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26824,12 +27043,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Peut-on fabriquer un Européen ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510115de"/>
 		<idno type="callNumber">ddr19510115de</idno>
 		<imprint>
 			<date when="1951-01-15">1951-01-15</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26841,12 +27062,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Espérer, c’est agir</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19510108de"/>
 		<idno type="callNumber">ddr19510108de</idno>
 		<imprint>
 			<date when="1951-01-08">1951-01-08</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26858,12 +27081,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Équiper l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501218de"/>
 		<idno type="callNumber">ddr19501218de</idno>
 		<imprint>
 			<date when="1950-12-18">1950-12-18</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26875,12 +27100,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Sur l’opinion en général et la presse en particulier</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501211de"/>
 		<idno type="callNumber">ddr19501211de</idno>
 		<imprint>
 			<date when="1950-12-11">1950-12-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26892,12 +27119,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — État de la construction européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501204de"/>
 		<idno type="callNumber">ddr19501204de</idno>
 		<imprint>
 			<date when="1950-12-04">1950-12-04</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26909,12 +27138,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Jeunesse d’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501127de"/>
 		<idno type="callNumber">ddr19501127de</idno>
 		<imprint>
 			<date when="1950-11-27">1950-11-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26926,12 +27157,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — À Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501121de"/>
 		<idno type="callNumber">ddr19501121de</idno>
 		<imprint>
 			<date when="1950-11-21">1950-11-21</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26943,12 +27176,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Un Conseil européen de vigilance</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501113de"/>
 		<idno type="callNumber">ddr19501113de</idno>
 		<imprint>
 			<date when="1950-11-13">1950-11-13</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26960,12 +27195,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La neutralité suisse (II)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501106de"/>
 		<idno type="callNumber">ddr19501106de</idno>
 		<imprint>
 			<date when="1950-11-06">1950-11-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26977,12 +27214,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La neutralité suisse (I)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501030de"/>
 		<idno type="callNumber">ddr19501030de</idno>
 		<imprint>
 			<date when="1950-10-30">1950-10-30</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26994,12 +27233,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Neutralité européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501023de"/>
 		<idno type="callNumber">ddr19501023de</idno>
 		<imprint>
 			<date when="1950-10-23">1950-10-23</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27011,12 +27252,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’opinion et l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501016de"/>
 		<idno type="callNumber">ddr19501016de</idno>
 		<imprint>
 			<date when="1950-10-16">1950-10-16</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27028,12 +27271,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Centre européen de la culture</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501009de"/>
 		<idno type="callNumber">ddr19501009de</idno>
 		<imprint>
 			<date when="1950-10-09">1950-10-09</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27045,12 +27290,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Serment de Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19501002de"/>
 		<idno type="callNumber">ddr19501002de</idno>
 		<imprint>
 			<date when="1950-10-02">1950-10-02</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27062,12 +27309,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Une autorité politique européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500925de"/>
 		<idno type="callNumber">ddr19500925de</idno>
 		<imprint>
 			<date when="1950-09-25">1950-09-25</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27079,12 +27328,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’armée européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500918de"/>
 		<idno type="callNumber">ddr19500918de</idno>
 		<imprint>
 			<date when="1950-09-18">1950-09-18</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27096,12 +27347,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’atmosphère de Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500911de"/>
 		<idno type="callNumber">ddr19500911de</idno>
 		<imprint>
 			<date when="1950-09-11">1950-09-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27113,12 +27366,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Un été orageux</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500909de"/>
 		<idno type="callNumber">ddr19500909de</idno>
 		<imprint>
 			<date when="1950-09-09">1950-09-09</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27130,12 +27385,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Avant Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500626de"/>
 		<idno type="callNumber">ddr19500626de</idno>
 		<imprint>
 			<date when="1950-06-26">1950-06-26</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27147,12 +27404,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Centre européen de la culture</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500619de"/>
 		<idno type="callNumber">ddr19500619de</idno>
 		<imprint>
 			<date when="1950-06-19">1950-06-19</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27164,12 +27423,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Valeur de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500612de"/>
 		<idno type="callNumber">ddr19500612de</idno>
 		<imprint>
 			<date when="1950-06-12">1950-06-12</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27181,12 +27442,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le règne des experts</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500605de"/>
 		<idno type="callNumber">ddr19500605de</idno>
 		<imprint>
 			<date when="1950-06-05">1950-06-05</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27198,12 +27461,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Conversation avec un Américain</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500529de"/>
 		<idno type="callNumber">ddr19500529de</idno>
 		<imprint>
 			<date when="1950-05-29">1950-05-29</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27215,12 +27480,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’opinion</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500522de"/>
 		<idno type="callNumber">ddr19500522de</idno>
 		<imprint>
 			<date when="1950-05-22">1950-05-22</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27232,12 +27499,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Lenteurs et progrès</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500515de"/>
 		<idno type="callNumber">ddr19500515de</idno>
 		<imprint>
 			<date when="1950-05-15">1950-05-15</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27249,12 +27518,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Europe et l’Amérique (II)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500508de"/>
 		<idno type="callNumber">ddr19500508de</idno>
 		<imprint>
 			<date when="1950-05-08">1950-05-08</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27266,12 +27537,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Europe et l’Amérique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500501de"/>
 		<idno type="callNumber">ddr19500501de</idno>
 		<imprint>
 			<date when="1950-05-01">1950-05-01</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27283,12 +27556,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’union atlantique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500424de"/>
 		<idno type="callNumber">ddr19500424de</idno>
 		<imprint>
 			<date when="1950-04-24">1950-04-24</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27300,12 +27575,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Branle-bas mondial</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500417de"/>
 		<idno type="callNumber">ddr19500417de</idno>
 		<imprint>
 			<date when="1950-04-17">1950-04-17</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27317,12 +27594,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Les volontaires de Daniel Villey</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500410de"/>
 		<idno type="callNumber">ddr19500410de</idno>
 		<imprint>
 			<date when="1950-04-10">1950-04-10</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27334,12 +27613,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Les politiciens et l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500403de"/>
 		<idno type="callNumber">ddr19500403de</idno>
 		<imprint>
 			<date when="1950-04-03">1950-04-03</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27351,12 +27632,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Deux enquêtes sur l’union</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500327de"/>
 		<idno type="callNumber">ddr19500327de</idno>
 		<imprint>
 			<date when="1950-03-27">1950-03-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27368,12 +27651,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — De l’Europe au monde</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500320de"/>
 		<idno type="callNumber">ddr19500320de</idno>
 		<imprint>
 			<date when="1950-03-20">1950-03-20</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27385,12 +27670,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Europe n’est pas pour “demain”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500313de"/>
 		<idno type="callNumber">ddr19500313de</idno>
 		<imprint>
 			<date when="1950-03-13">1950-03-13</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27402,12 +27689,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Neutralité européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500306de"/>
 		<idno type="callNumber">ddr19500306de</idno>
 		<imprint>
 			<date when="1950-03-06">1950-03-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27419,12 +27708,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Après les élections anglaises</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500227de"/>
 		<idno type="callNumber">ddr19500227de</idno>
 		<imprint>
 			<date when="1950-02-27">1950-02-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27436,12 +27727,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La guerre impossible</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500220de"/>
 		<idno type="callNumber">ddr19500220de</idno>
 		<imprint>
 			<date when="1950-02-20">1950-02-20</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27453,12 +27746,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Les deux raisons de fédérer l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500213de"/>
 		<idno type="callNumber">ddr19500213de</idno>
 		<imprint>
 			<date when="1950-02-13">1950-02-13</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27470,12 +27765,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Passer à l’action</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500206de"/>
 		<idno type="callNumber">ddr19500206de</idno>
 		<imprint>
 			<date when="1950-02-06">1950-02-06</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27487,12 +27784,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Un tiers-ordre européen</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500130de"/>
 		<idno type="callNumber">ddr19500130de</idno>
 		<imprint>
 			<date when="1950-01-30">1950-01-30</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27504,12 +27803,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Questions et objections des étudiants de Lausanne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500123de"/>
 		<idno type="callNumber">ddr19500123de</idno>
 		<imprint>
 			<date when="1950-01-23">1950-01-23</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27521,12 +27822,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Une enquête chez les étudiants</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500116de"/>
 		<idno type="callNumber">ddr19500116de</idno>
 		<imprint>
 			<date when="1950-01-16">1950-01-16</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27538,12 +27841,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Par où commencer ? Par l’économie ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500109de"/>
 		<idno type="callNumber">ddr19500109de</idno>
 		<imprint>
 			<date when="1950-01-09">1950-01-09</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27555,12 +27860,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Bon demi-siècle !</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19500102de"/>
 		<idno type="callNumber">ddr19500102de</idno>
 		<imprint>
 			<date when="1950-01-02">1950-01-02</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27572,12 +27879,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Bilan 1949</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491226de"/>
 		<idno type="callNumber">ddr19491226de</idno>
 		<imprint>
 			<date when="1949-12-26">1949-12-26</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27589,12 +27898,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Optimistes et pessimistes</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491219de"/>
 		<idno type="callNumber">ddr19491219de</idno>
 		<imprint>
 			<date when="1949-12-19">1949-12-19</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27606,12 +27917,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La Conférence européenne de la culture</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491205de"/>
 		<idno type="callNumber">ddr19491205de</idno>
 		<imprint>
 			<date when="1949-12-05">1949-12-05</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27623,12 +27936,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Les suites de Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491128de"/>
 		<idno type="callNumber">ddr19491128de</idno>
 		<imprint>
 			<date when="1949-11-28">1949-11-28</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27640,12 +27955,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Encore notre neutralité</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491121de"/>
 		<idno type="callNumber">ddr19491121de</idno>
 		<imprint>
 			<date when="1949-11-21">1949-11-21</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27657,12 +27974,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La Suisse et Strasbourg (II)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491114de"/>
 		<idno type="callNumber">ddr19491114de</idno>
 		<imprint>
 			<date when="1949-11-14">1949-11-14</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27674,12 +27993,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Amérique veut nous unir</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491107de"/>
 		<idno type="callNumber">ddr19491107de</idno>
 		<imprint>
 			<date when="1949-11-07">1949-11-07</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27691,12 +28012,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La Suisse et Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491031de"/>
 		<idno type="callNumber">ddr19491031de</idno>
 		<imprint>
 			<date when="1949-10-31">1949-10-31</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27708,12 +28031,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Militer pour la fédération</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491024de"/>
 		<idno type="callNumber">ddr19491024de</idno>
 		<imprint>
 			<date when="1949-10-24">1949-10-24</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27725,12 +28050,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Que pouvez-vous faire ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491017de"/>
 		<idno type="callNumber">ddr19491017de</idno>
 		<imprint>
 			<date when="1949-10-17">1949-10-17</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27742,12 +28069,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Les résultats de Strasbourg</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491010de"/>
 		<idno type="callNumber">ddr19491010de</idno>
 		<imprint>
 			<date when="1949-10-10">1949-10-10</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27759,12 +28088,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — “Êtes-vous satisfait de Strasbourg ?”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19491003de"/>
 		<idno type="callNumber">ddr19491003de</idno>
 		<imprint>
 			<date when="1949-10-03">1949-10-03</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27776,12 +28107,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La dévaluation et la bombe soviétique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490926de"/>
 		<idno type="callNumber">ddr19490926de</idno>
 		<imprint>
 			<date when="1949-09-26">1949-09-26</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27793,12 +28126,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Un bel été</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490919de"/>
 		<idno type="callNumber">ddr19490919de</idno>
 		<imprint>
 			<date when="1949-09-19">1949-09-19</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27810,12 +28145,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Faisons le point</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490704de"/>
 		<idno type="callNumber">ddr19490704de</idno>
 		<imprint>
 			<date when="1949-07-04">1949-07-04</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27827,12 +28164,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Centre européen de la culture</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490627de"/>
 		<idno type="callNumber">ddr19490627de</idno>
 		<imprint>
 			<date when="1949-06-27">1949-06-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27844,12 +28183,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La Suisse et l’Europe (IV)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490620de"/>
 		<idno type="callNumber">ddr19490620de</idno>
 		<imprint>
 			<date when="1949-06-20">1949-06-20</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27861,12 +28202,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Suisse 1848-Europe 1949 (II)</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490613de"/>
 		<idno type="callNumber">ddr19490613de</idno>
 		<imprint>
 			<date when="1949-06-13">1949-06-13</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27878,12 +28221,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Suisse 1848-Europe 1949</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490530de"/>
 		<idno type="callNumber">ddr19490530de</idno>
 		<imprint>
 			<date when="1949-05-30">1949-05-30</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27895,12 +28240,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La neutralité suisse</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490523de"/>
 		<idno type="callNumber">ddr19490523de</idno>
 		<imprint>
 			<date when="1949-05-23">1949-05-23</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27912,12 +28259,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Statut du Conseil de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490509de"/>
 		<idno type="callNumber">ddr19490509de</idno>
 		<imprint>
 			<date when="1949-05-09">1949-05-09</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27929,12 +28278,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’URSS et l’Europe fédérée</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490502de"/>
 		<idno type="callNumber">ddr19490502de</idno>
 		<imprint>
 			<date when="1949-05-02">1949-05-02</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27946,12 +28297,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’union de l’Europe et l’Amérique</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490425de"/>
 		<idno type="callNumber">ddr19490425de</idno>
 		<imprint>
 			<date when="1949-04-25">1949-04-25</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27963,12 +28316,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Pâques européennes</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490418de"/>
 		<idno type="callNumber">ddr19490418de</idno>
 		<imprint>
 			<date when="1949-04-18">1949-04-18</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27980,12 +28335,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Allemagne et l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490411de"/>
 		<idno type="callNumber">ddr19490411de</idno>
 		<imprint>
 			<date when="1949-04-11">1949-04-11</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27997,12 +28354,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — “Une idée généreuse” ?</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490404de"/>
 		<idno type="callNumber">ddr19490404de</idno>
 		<imprint>
 			<date when="1949-04-04">1949-04-04</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28014,12 +28373,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Conseil de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490328de"/>
 		<idno type="callNumber">ddr19490328de</idno>
 		<imprint>
 			<date when="1949-03-28">1949-03-28</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28031,12 +28392,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le pacte de l’Atlantique et la fédération européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490321de"/>
 		<idno type="callNumber">ddr19490321de</idno>
 		<imprint>
 			<date when="1949-03-21">1949-03-21</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28048,12 +28411,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — La Cour suprême européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490314de"/>
 		<idno type="callNumber">ddr19490314de</idno>
 		<imprint>
 			<date when="1949-03-14">1949-03-14</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28065,12 +28430,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — “La paix, la paix !”</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490307de"/>
 		<idno type="callNumber">ddr19490307de</idno>
 		<imprint>
 			<date when="1949-03-07">1949-03-07</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28082,12 +28449,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Assemblée européenne</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490227de"/>
 		<idno type="callNumber">ddr19490227de</idno>
 		<imprint>
 			<date when="1949-02-27">1949-02-27</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28099,12 +28468,14 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — Le Conseil international du Mouvement européen</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490225de"/>
 		<idno type="callNumber">ddr19490225de</idno>
 		<imprint>
 			<date when="1949-02-25">1949-02-25</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28116,13 +28487,76 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<surname>Rougemont</surname>
 		</author>
 		<title level="m">Demain l’Europe ! — L’Europe en marche</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19490221de"/>
 		<idno type="callNumber">ddr19490221de</idno>
 		<imprint>
 			<date when="1949-02-21">1949-02-21</date>
 		</imprint>
 	</monogr>
 	<note type="tags">
+		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
+</biblStruct>
+
+<biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/II4CMY4R">
+	<analytic>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="a">L’échéance de septembre</title>
+		<idno type="callNumber">ddr19571000preuv_p0054</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Preuves</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054"/>
+		<imprint>
+			<date when="1957-10">1957-10</date>
+			<pubPlace>Paris</pubPlace>
+			<biblScope unit="page">54-55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/EQHTCEKI">
+	<analytic>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="a">Sur un certain cynisme (Le point de vue de Ferney)</title>
+		<idno type="callNumber">ddr19571000preuv_p0072</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Preuves</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0072"/>
+		<imprint>
+			<date when="1957-10">1957-10</date>
+			<pubPlace>Paris</pubPlace>
+			<biblScope unit="page">72-73</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/N574YDE8">
+	<analytic>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="a">Veille d’élection présidentielle</title>
+		<idno type="callNumber">ddr19410114jg</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Journal de Genève</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19410114jg"/>
+		<imprint>
+			<date when="1941-01-14">1941-01-14</date>
+			<pubPlace>Genève</pubPlace>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="extra">Le journal précise : « De notre envoyé spécial ».</note>
 </biblStruct>
 </listBibl>

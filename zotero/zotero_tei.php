@@ -169,6 +169,17 @@ class ZoteroTei
                             'zotero_html_file' => 'file:///'. str_replace('\\', '/',realpath($zotero_html_file)),
                         ],
                     );
+                    $xml = preg_replace(
+                        [
+                            '@\s+(<note resp="editor" type="zotero">)@',
+                            '@\n *\n+@'
+                        ],
+                        [
+                            '$1',
+                            "\n",
+                        ],
+                        $xml
+                    );
                     file_put_contents($tei_file, $xml);
                 }
                 else {
