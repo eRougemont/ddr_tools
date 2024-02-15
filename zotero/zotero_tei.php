@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-include_once(__DIR__ . '/vendor/autoload.php');
+include_once(dirname(__DIR__) . '/vendor/autoload.php');
 use Psr\Log\LogLevel;
 use Oeuvres\Kit\{Xt, Log};
 use Oeuvres\Kit\Logger\{LoggerCli};
@@ -10,7 +10,7 @@ use Seboettg\CiteProc\Util\Variables;
 
 // set global variables here
 ZoteroTei::init([
-    'style' => 'nouvelles-perspectives-en-sciences-sociales',
+    'style' => __DIR__ . "/rougemont.csl",
     // "style" => 'apa',
     // 'style' => 'organization',
     'lang' => 'fr-FR',
@@ -46,11 +46,13 @@ class ZoteroTei
         $tagsoup = function($csl, $html) {
             $html = preg_replace(
                 [
-                    '@&lt;(/?)(i|sup|sub)&gt;@',
-                    '@&lt;(span style="font-variant:small-caps;"|/span)&gt;@u'
+                    '@&lt;(/?)(a|i|sup|sub)&gt;@',
+                    '@&lt;(span style="font-variant:small-caps;"|/span)&gt;@u',
+                    '@&lt;(a href="[^"]+")&gt;@',
                 ],
                 [
                     '<$1$2>',
+                    '<$1>',
                     '<$1>',
                 ],
                 $html
@@ -61,9 +63,6 @@ class ZoteroTei
             "bibliography" => [
                 "container-title" => $tagsoup,
                 "collection-title" => $tagsoup,
-                "edition" => $tagsoup,
-                "reviewed-title" => $tagsoup,
-                "title" => $tagsoup,
                 "csl-entry" => function($item, $html) {
                     $key = 'call-number';
                     if (!isset($item->$key)) return $html; 
@@ -71,17 +70,20 @@ class ZoteroTei
                     $html = preg_replace(
                         [
                             '@, & @', // a fix for APA <names variable="editor translator" delimiter=",  &amp; ">
-                            '@style=“([^”]*)”@u' // a fix for quotes in atts
+                            '@(style|href)=“([^”]*)”@u' // a fix for attributes in rich text
                         ], 
                         [
                             ', &#38; ',
-                            'style="$1"',
+                            '$1="$2"',
                         ],
                         $html);
                     // $html = "<small>[$id]</small> " . $html;
                     $html = "<span id=\"$id\"></span>" . $html;
                     return $html;
-                }
+                },
+                "edition" => $tagsoup,
+                "reviewed-title" => $tagsoup,
+                "title" => $tagsoup,
             ],
             "citation" => [
             ]
@@ -106,9 +108,14 @@ class ZoteroTei
         $data = json_decode($json, false, 1024, JSON_THROW_ON_ERROR);
         foreach($data as $item) {
             self::extraVariables($item);
+            // if url, put it around title
+            if (isset($item->URL) && $item->URL) {
+                $item->title = "<a href=\"{$item->URL}\">$item->title</a>";
+                unset($item->URL);
+            }
         }
         $zotero_html_file = $dst_path . ".html";
-        if (
+        if ( true ||
             !file_exists($zotero_html_file) 
             || filemtime($zotero_csl_file) > filemtime($zotero_html_file)
         ) {

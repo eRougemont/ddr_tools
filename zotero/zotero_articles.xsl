@@ -37,28 +37,43 @@
   </xsl:template>
   
 
-  <xsl:template match="tei:div[@type='article']/tei:head/tei:note[1]">
+  <xsl:template match="tei:div[@type='article']/tei:head">
     <xsl:variable name="id" select="ancestor::tei:div[@type='article'][1]/@xml:id"/>
     <xsl:copy>
-      <xsl:copy-of select="@*"/>
-      <xsl:choose>
-        <xsl:when test="not($zotero_html/*/div[span/@id = $id])">
-          <xsl:message>404 id=<xsl:value-of select="$id"/></xsl:message>
-          <xsl:apply-templates/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:apply-templates select="$zotero_html/*/div[span/@id = $id]/node()" mode="html2tei"/>
-        </xsl:otherwise>
-      </xsl:choose>
+      <xsl:apply-templates select="node()[not(self::tei:note)]"/>
+      <note resp="editor" type="zotero">
+        <xsl:choose>
+          <xsl:when test="not($zotero_html/*/div[span/@id = $id])">
+            <xsl:message>404 id=<xsl:value-of select="$id"/></xsl:message>
+            <xsl:apply-templates select="tei:note[1]/node()"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:apply-templates select="$zotero_html/*/div[span/@id = $id]/node()" mode="html2tei"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </note>
     </xsl:copy>
   </xsl:template>
+  
+  <xsl:template match="tei:div[@type='article']/tei:head/tei:note[1]"/>
   
   <xsl:template match="node()|@*" mode="html2tei">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*" mode="html2tei"/>
     </xsl:copy>
   </xsl:template>
-  
+
+  <xsl:template match="a" mode="html2tei">
+    <ref>
+      <xsl:apply-templates select="@href" mode="html2tei"/>
+      <xsl:apply-templates mode="html2tei"/>
+    </ref>
+  </xsl:template>
+  <xsl:template match="@href" mode="html2tei">
+    <xsl:attribute name="target">
+      <xsl:value-of select="."/>
+    </xsl:attribute>
+  </xsl:template>
   <xsl:template match="i" mode="html2tei">
     <hi>
       <xsl:apply-templates mode="html2tei"/>

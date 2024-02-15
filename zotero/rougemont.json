@@ -165,7 +165,7 @@
 		"type": "article-newspaper",
 		"call-number": "ddr19260710sl",
 		"container-title": "La Semaine littéraire",
-		"note": "publisher-place: Genève\n\nn° 1697",
+		"note": "publisher-place: Genève",
 		"page": "335",
 		"title": "[Compte rendu] Henry de Montherlant, <i>Les Bestiaires</i>",
 		"URL": "https://www.unige.ch/rougemont/articles/1924-1930/ddr19260710sl",
@@ -4160,7 +4160,7 @@
 		"container-title": "La Suisse",
 		"note": "publisher-place: Genève",
 		"page": "1-2",
-		"title": "La Suisse et l’Europe : M. Denis de Rougemont réagit",
+		"title": "[Entretien] La Suisse et l’Europe : M. Denis de Rougemont réagit",
 		"URL": "https://www.unige.ch/rougemont/articles/1951-1956/ddr19521114suis",
 		"author": [
 			{
@@ -6900,7 +6900,7 @@
 		"call-number": "ddr19710412expr",
 		"container-title": "L’Express",
 		"note": "publisher-place: Paris\n\nPropos recueillis par Frédéric de Towarnicki et introduits par le chapeau suivant : « Denis de Rougemont, né en Suisse il y a soixante-cinq ans, jouit d’une notoriété internationale. Parce qu’il a publié, avant la guerre, <a href=\"https://www.unige.ch/rougemont/livres/ddr1939ao/6\"><i>L’Amour et l’Occident</i></a>, ouvrage fondamental sur le plus fondamental des sujets : l’amour. Parce qu’il est l’un de ceux qui ont créé, en 1932, avec Emmanuel Mounier (<a href=\"https://www.unige.ch/rougemont/articles/espr\"><i>Esprit</i></a>), le mouvement personnaliste. Parce qu’il est, depuis vingt ans, le pionnier d’une Europe fédérée. Son dernier ouvrage, <a href=\"https://www.unige.ch/rougemont/livres/ddr1970loe\"><i>Lettre ouverte aux Européens</i></a> (Albin Michel), vient de recevoir le prix Robert Schuman. L’amour et l’Europe ont-ils de l’avenir ? Et lequel ? Denis de Rougemont va “plus loin” avec, pour <i>L’Express</i>, Frédéric de Towarnicki. »",
-		"page": "124-15, 131-132, 134, 139, 142 et 147",
+		"page": "124-125, 131-132, 134, 139, 142 et 147",
 		"title": "[Entretien] L’Amour et l’Europe : <i>L’Express</i> va plus loin… avec D. de Rougemont",
 		"URL": "https://www.unige.ch/rougemont/articles/1970-1973/ddr19710412expr",
 		"author": [
@@ -20995,9 +20995,9 @@
 	{
 		"id": "http://zotero.org/groups/5018778/items/4QNBJQUM",
 		"type": "article-newspaper",
-		"call-number": "ddr19410114jg",
+		"call-number": "ddr19401114jg",
 		"container-title": "Journal de Genève",
-		"note": "publisher-place: Genève\n\nLe journal précise : « De notre envoyé spécial ».",
+		"note": "publisher-place: Genève",
 		"page": "1-2",
 		"title": "Veille d’élection présidentielle",
 		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19410114jg",
@@ -21011,8 +21011,8 @@
 		"issued": {
 			"date-parts": [
 				[
-					"1941",
-					1,
+					"1940",
+					11,
 					14
 				]
 			]
@@ -21618,7 +21618,7 @@
 		"type": "article-newspaper",
 		"call-number": "ddr19821009jg",
 		"container-title": "Journal de Genève",
-		"note": "publisher-place: Zurich\n\nRéponse à l’enquête « Que lisent les écrivains romands ? »",
+		"note": "publisher-place: Genève\n\nRéponse à l’enquête « Que lisent les écrivains romands ? »",
 		"page": "V",
 		"title": "[Réponse à une enquête] Mes amis et Nerval",
 		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19821009jg",
@@ -25638,7 +25638,7 @@
 	{
 		"id": "http://zotero.org/groups/5018778/items/CWPT76YT",
 		"type": "article-journal",
-		"call-number": "ddr19571000preuv_p0054",
+		"call-number": "ddr19570900preuv_p0054",
 		"container-title": "Preuves",
 		"note": "publisher-place: Paris",
 		"page": "54-55",
@@ -25655,7 +25655,7 @@
 			"date-parts": [
 				[
 					"1957",
-					10
+					9
 				]
 			]
 		}
@@ -25688,7 +25688,7 @@
 	{
 		"id": "http://zotero.org/groups/5018778/items/KZXDSX72",
 		"type": "article-journal",
-		"call-number": "ddr19571000preuv_p0072",
+		"call-number": "ddr19570900preuv_p0072",
 		"container-title": "Preuves",
 		"note": "publisher-place: Paris",
 		"page": "72-73",
@@ -25705,7 +25705,7 @@
 			"date-parts": [
 				[
 					"1957",
-					10
+					9
 				]
 			]
 		}
@@ -29765,6 +29765,3682 @@
 					"1940",
 					4,
 					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/CMNDUFDK",
+		"type": "article-journal",
+		"call-number": "ddr19791200qcja",
+		"container-title": "Icare",
+		"note": "publisher-place: Paris",
+		"page": "20-22",
+		"title": "“La qualité des choses que j’aime”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/UF8QUSAW",
+		"type": "article",
+		"call-number": "ddr19580800ll",
+		"title": "Liberté et littérature",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PGWYS6H8",
+		"type": "article-journal",
+		"call-number": "ddr19821000acr",
+		"container-title": "Cahiers de l’Alliance culturelle romande",
+		"note": "publisher-place: Genève",
+		"page": "207",
+		"title": "Hommage à l’Alliance culturelle romande pour ses 20 ans",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/FL7VUPTJ",
+		"type": "article-journal",
+		"call-number": "ddr19651200revoy",
+		"container-title": "Revue des voyages",
+		"note": "publisher-place: Genève\nissued: \"automne 1965\"",
+		"page": "57-59",
+		"title": "La Suisse, maquette pour une Europe du bonheur",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/4RPQ789Z",
+		"type": "article-newspaper",
+		"call-number": "ddr19530306essor",
+		"container-title": "L’Essor",
+		"note": "publisher-place: Genève",
+		"page": "4-5",
+		"title": "Suisse, Europe et neutralité",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1953",
+					3,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/CAPM8VSY",
+		"type": "article-journal",
+		"call-number": "ddr19800628arcadie",
+		"container-title": "Arcadie. Association contre la pollution",
+		"page": "1-6",
+		"title": "L’Europe et l’environnement",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					6,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/5XDJPGK8",
+		"type": "chapter",
+		"call-number": "ddr19560000saison",
+		"container-title": "Saison",
+		"page": "12-13",
+		"publisher": "AEFM",
+		"title": "L’Association des festivals de musique a cinq ans",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1956"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/6ULBGZC3",
+		"type": "article-newspaper",
+		"call-number": "ddr19400722tlaus",
+		"container-title": "Tribune de Lausanne",
+		"note": "publisher-place: Lausanne",
+		"page": "5",
+		"title": "Au peuple suisse !",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1940",
+					7,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/8UJYBGND",
+		"type": "article-newspaper",
+		"call-number": "ddr19710517elle",
+		"container-title": "Elle",
+		"note": "publisher-place: Paris",
+		"page": "35, 37 et 39",
+		"title": "[Entretien] Le diable existe, vous pouvez le rencontrer",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Towarnicki",
+				"given": "Frédéric",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971",
+					5,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/A5SMFJ5C",
+		"type": "article-newspaper",
+		"call-number": "ddr19691004jg",
+		"container-title": "Journal de Genève",
+		"note": "publisher-place: Genève",
+		"page": "2-3",
+		"title": "Un débat sur l’objection de conscience : entre Dieu et l’État",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Béguin",
+				"given": "Bernard"
+			},
+			{
+				"family": "Barde",
+				"given": "Michel"
+			},
+			{
+				"family": "Schaller",
+				"given": "Christian"
+			},
+			{
+				"family": "Vaucher",
+				"given": "Colonel"
+			},
+			{
+				"family": "Dénéréaz",
+				"given": "Colonel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969",
+					10,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/7ACYNTEG",
+		"type": "article-newspaper",
+		"call-number": "ddr19780200jg",
+		"container-title": "Journal de Genève",
+		"note": "publisher-place: Genève\n\nissued: 1978-02-17/1978-02-19/1978-02-21/1978-02-22",
+		"page": "19, 22, 21, 16",
+		"title": "Débat sur la voiture dans la société moderne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Peyrot",
+				"given": "François"
+			},
+			{
+				"family": "Kräyenbühl",
+				"given": "Jean"
+			},
+			{
+				"family": "Roffler",
+				"given": "Jacob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/GEC8ZWA5",
+		"type": "article-newspaper",
+		"call-number": "ddr19821030jg",
+		"container-title": "Journal de Genève",
+		"note": "publisher-place: Genève\n\nRéponse à l’enquête « Que lisent les écrivains romands ? »",
+		"page": "I, IV",
+		"title": "Suis-je perdu pour la littérature ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/N9L3JXLK",
+		"type": "article-journal",
+		"call-number": "ddr19300600rbl",
+		"container-title": "Revue de Belles-Lettres",
+		"note": "publisher-place: Lausanne-Neuchâtel-Genève-Fribourg",
+		"page": "204-205",
+		"title": "<i>Le Grand Testament</i> de Villon, illustré par Marcel North",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1930",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/MGKUQE83",
+		"type": "article-newspaper",
+		"call-number": "ddr19480214figlitt",
+		"container-title": "Le Figaro littéraire",
+		"note": "publisher-place: Paris",
+		"page": "1 et 3",
+		"title": "Ce sont les Français qui ont commencé (La querelle des « condensés… »)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1948",
+					2,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DF39EBL7",
+		"type": "article-newspaper",
+		"call-number": "ddr19470607figlitt",
+		"container-title": "Le Figaro littéraire",
+		"note": "publisher-place: Paris",
+		"page": "1",
+		"title": "La jeune littérature des États-Unis devant le roman américain",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1947",
+					6,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/89VF5BFN",
+		"type": "manuscript",
+		"call-number": "ddr19701128suisscee",
+		"note": "issued: 1970-11-28",
+		"title": "La Suisse et la CEE",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970",
+					11,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/E7G63C9M",
+		"type": "manuscript",
+		"call-number": "ddr19360000ishm",
+		"title": "[Compte rendu] Henri de Man, <i>L’Idée socialiste</i>",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1936"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PY23P69R",
+		"type": "manuscript",
+		"call-number": "ddr19701100osoc",
+		"note": "issued: 1970-11-00",
+		"title": "“Ô saisons ! Ô châteaux !”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/8ZWQE2FQ",
+		"type": "manuscript",
+		"call-number": "ddr19831110cec",
+		"note": "issued: 1983-11-10",
+		"title": "D’où venons-nous ? Où sommes-nous ? Où allons-nous ? (à propos du CEC)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983",
+					11,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/LT9ZQAT2",
+		"type": "manuscript",
+		"call-number": "ddr19850606fec",
+		"note": "issued: 1985-06-06",
+		"title": "Membre d’honneur de la Fondation européenne de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985",
+					6,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/8HGQ6WLZ",
+		"type": "manuscript",
+		"call-number": "ddr19830506drlr",
+		"note": "issued: 1983-05-06",
+		"title": "Devise du régionalisme : point de libertés sans responsabilités",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983",
+					5,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ZKNAXWPE",
+		"type": "manuscript",
+		"call-number": "ddr19821018ucufe",
+		"note": "issued: 1982-10-18",
+		"title": "De l’unité de culture à l’union fédérale de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SSSZZEDV",
+		"type": "manuscript",
+		"call-number": "ddr19820512griso",
+		"note": "issued: 1982-05-12",
+		"title": "Réponse à M. Grisoni",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					5,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SNM7WFFQ",
+		"type": "manuscript",
+		"call-number": "ddr19820211lep",
+		"note": "issued: 1982-02-11",
+		"title": "Débat sur le LEP, accélérateur de particules du CERN",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					2,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/8CZPPH8F",
+		"type": "manuscript",
+		"call-number": "ddr19820106pac",
+		"note": "issued: 1982-01-06",
+		"title": "Pacifisme",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					1,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/F3IPKQ2W",
+		"type": "manuscript",
+		"call-number": "ddr19810519nf",
+		"note": "issued: 1981-05-19",
+		"title": "Nicolas de Flue, le Solitaire par qui tous sont unis",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981",
+					5,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DN77CA2J",
+		"type": "manuscript",
+		"call-number": "ddr19801111gipri",
+		"note": "issued: 1980-11-11",
+		"title": "“Imaginer la vérité de la guerre demain, c’est déjà une action pour la paix” (Discours pour l’inauguration du GIPRI)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					11,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TYJACC59",
+		"type": "manuscript",
+		"call-number": "ddr19800918ecoropa",
+		"note": "issued: 1980-09-18",
+		"title": "Un cap de nouvelle espérance pour le navire désemparé de notre société occidentale",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					9,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TGW5VNQ2",
+		"type": "manuscript",
+		"call-number": "ddr19800605isover",
+		"note": "issued: 1980-06-05",
+		"title": "[Entretien] Si nous continuons dans le même sens, nous allons vers un désastre général",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					6,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/BGZKNHJL",
+		"type": "manuscript",
+		"call-number": "ddr19570221beloff",
+		"note": "issued: 1957-02-21",
+		"title": "[Préface] <i>Europe and the Europeans</i>, édité par Max Beloff",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957",
+					2,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/34WNESNR",
+		"type": "manuscript",
+		"call-number": "ddr19791122sperber",
+		"note": "issued: 1979-11-22",
+		"title": "Manès Sperber ou “l’homme qui rappelle”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					11,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/KSE9J9QX",
+		"type": "manuscript",
+		"call-number": "ddr19790924noei",
+		"note": "issued: 1979-09-24",
+		"title": "Obstacles au nouvel ordre économique international (NOEI) en Europe du Centre",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					9,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/I3BRZJ8D",
+		"type": "manuscript",
+		"call-number": "ddr19790727ecoropa",
+		"note": "issued: 1979-07-27",
+		"title": "Rapport intérimaire pour Ecoropa",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/Y5F7RC4Z",
+		"type": "manuscript",
+		"call-number": "ddr19790507ecoropa",
+		"note": "issued: 1979-05-07",
+		"title": "Conférence de presse Ecoropa",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					5,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/F5L7J6LR",
+		"type": "manuscript",
+		"call-number": "ddr19790208cpne",
+		"note": "issued: 1979-02-08",
+		"title": "Continuité des politiques nationales en Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					2,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/IU9TBMD9",
+		"type": "manuscript",
+		"call-number": "ddr19781208ocnoei",
+		"note": "issued: 1978-12-08",
+		"title": "Obstacles et chances du nouvel ordre économique international (NOEI) : l’Europe de l’Ouest",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/HPKL4H2L",
+		"type": "manuscript",
+		"call-number": "ddr19780605bovet",
+		"note": "issued: 1978-06-05",
+		"title": "Le Grandchamp des Bovet",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					6,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/237RM5PF",
+		"type": "manuscript",
+		"call-number": "ddr19771014tr",
+		"note": "issued: 1977-10-14",
+		"title": "Les trois révolutions",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977",
+					10,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/C7NXM57X",
+		"type": "manuscript",
+		"call-number": "ddr19750900sepr",
+		"note": "issued: 1975-09-00",
+		"title": "La Suisse et l’Europe : projet de résolution",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/HT76DJKD",
+		"type": "manuscript",
+		"call-number": "ddr19750828ero",
+		"note": "issued: 1975-08-28",
+		"title": "L’érotisme",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975",
+					8,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/A2D5HQ5G",
+		"type": "manuscript",
+		"call-number": "ddr19741211cpfw",
+		"note": "issued: 1974-12-11",
+		"title": "“La paix entre les hommes dépend aussi du respect de la vie sauvage” (message à Franz Weber)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974",
+					12,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/BKK5446R",
+		"type": "manuscript",
+		"call-number": "ddr19740304fwa",
+		"note": "issued: 1974-03-04",
+		"title": "“La vraie défense du territoire national” (soutien à l’initiative de Franz Weber contre les autoroutes)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974",
+					3,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/92WI566K",
+		"type": "manuscript",
+		"call-number": "ddr19730513ee",
+		"note": "issued: 1973-05-13",
+		"title": "Une éducation européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973",
+					5,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/QI79CHDF",
+		"type": "manuscript",
+		"call-number": "ddr19730300cn",
+		"note": "issued: 1971-04-29",
+		"title": "De la “culture nationale”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/IGUBL2HP",
+		"type": "manuscript",
+		"call-number": "ddr19710429dhcz",
+		"note": "issued: 1971-04-29",
+		"title": "Réception du doctorat <i>honoris causa</i> à Zurich",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971",
+					4,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/VYCW7YCC",
+		"type": "manuscript",
+		"call-number": "ddr19701013cpae",
+		"note": "issued: 1970-10-13",
+		"title": "Discours au Cercle de la presse et des amitiés étrangères",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970",
+					10,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AIMCW93A",
+		"type": "manuscript",
+		"call-number": "ddr19700000at",
+		"note": "issued: 1970-00-00",
+		"title": "1931-1937 ou les années tournantes",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/VCQ5CLT8",
+		"type": "manuscript",
+		"call-number": "ddr19690000ser",
+		"note": "issued: 1969-00-00",
+		"title": "L’esprit romand",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/RLDHJGRI",
+		"type": "manuscript",
+		"call-number": "ddr19691100ce",
+		"note": "issued: 1969-11-00",
+		"title": "Les chances de l’Europe : huit ans après",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/GKGLHJLL",
+		"type": "manuscript",
+		"call-number": "ddr19690000uemul",
+		"note": "issued: 1969-00-00",
+		"title": "L’union de l’Europe, modèle d’union dans la liberté",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SVYESVNH",
+		"type": "manuscript",
+		"call-number": "ddr19680403gr",
+		"note": "issued: 1968-04-03",
+		"title": "Message pour la Grèce",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968",
+					4,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XGEUMGBA",
+		"type": "manuscript",
+		"call-number": "ddr19670700welt",
+		"note": "issued: 1967-07-00",
+		"title": "L’intellectuel suisse et la politique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/7HUN9VYN",
+		"type": "manuscript",
+		"call-number": "ddr19661200se",
+		"note": "issued: 1966-12-00",
+		"title": "Situation de l’Europe en 1966",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/7BM2ATIT",
+		"type": "manuscript",
+		"call-number": "ddr19660100ys",
+		"note": "issued: 1966-01-00",
+		"title": "“J’essaie d’imaginer mes lecteurs japonais…”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/3SZWD7V4",
+		"type": "manuscript",
+		"call-number": "ddr19650900epee",
+		"note": "issued: 1965-09-00",
+		"title": "État présent des études européennes",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/WI526AIQ",
+		"type": "manuscript",
+		"call-number": "ddr19630218eepf",
+		"note": "issued: 1963",
+		"title": "L’Europe entière, ou la première force",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963",
+					2,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/R5B8SZDD",
+		"type": "manuscript",
+		"call-number": "ddr19620902pan",
+		"note": "issued: 1962-09-02",
+		"title": "“Né d’un regard juste…” (à propos de Richard Coudenhove-Kalergi)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962",
+					9,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XCKLAJDC",
+		"type": "manuscript",
+		"call-number": "ddr19611100iny",
+		"note": "issued: 1961-11-00",
+		"title": "Imagination de New York",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AKVNSK4P",
+		"type": "manuscript",
+		"call-number": "ddr19610800de",
+		"note": "issued: 1961-08-00",
+		"title": "Découvrons l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/2WBUIWE8",
+		"type": "manuscript",
+		"call-number": "ddr19610600aae",
+		"note": "issued: 1961-06-00",
+		"title": "L’automation et l’avenir de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ZVY3MNQE",
+		"type": "manuscript",
+		"call-number": "ddr19590000smce",
+		"note": "issued: 1959-00-00",
+		"title": "La Suisse, microcosme culturel de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/NZSCULN5",
+		"type": "manuscript",
+		"call-number": "ddr19580800ll",
+		"note": "issued: 1958-08-00",
+		"title": "Liberté et littérature",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1958",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/4WSKG4I5",
+		"type": "manuscript",
+		"call-number": "ddr19551200dw",
+		"note": "issued: 1955-12-00",
+		"title": "Le vrai sens de nos vœux",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/3J24JHUM",
+		"type": "manuscript",
+		"call-number": "ddr19550917al",
+		"note": "issued: 1955-09-17",
+		"title": "L’avenir de la liberté",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1955",
+					9,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SADXUYAA",
+		"type": "manuscript",
+		"call-number": "ddr19540800ecdp",
+		"note": "issued: 1954-08-00",
+		"title": "L’Europe en crise : décadence ou progrès ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1954",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SBPCIA7N",
+		"type": "manuscript",
+		"call-number": "ddr19520500ovs",
+		"note": "issued: 1952-05-00",
+		"title": "L’Œuvre du XXe siècle",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1952",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PIHCQVCJ",
+		"type": "manuscript",
+		"call-number": "ddr19520000vreu",
+		"note": "issued: 1952-00-00",
+		"title": "La vie religieuse aux États-Unis (1942-1945)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1952"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/MY5UB7EZ",
+		"type": "manuscript",
+		"call-number": "ddr19510328cb",
+		"note": "issued: 1951-03-00",
+		"title": "Discours au congrès de Bombay",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/MXCKAXPS",
+		"type": "manuscript",
+		"call-number": "ddr19501200slde",
+		"note": "issued: 1950-12-00",
+		"title": "Sixième lettre aux députés européens",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/MIB9GYAX",
+		"type": "manuscript",
+		"call-number": "ddr19491208conflaus",
+		"note": "issued: 1949-12-08",
+		"title": "Présentation du Rapport général de la Conférence européenne de la culture à Lausanne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/P6HUBI9Z",
+		"type": "manuscript",
+		"call-number": "ddr19481200jb",
+		"note": "issued: Automne 1948",
+		"title": "“Cher lecteur britannique, je connais bien votre prudence…”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1948",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AXPJMW2L",
+		"type": "manuscript",
+		"call-number": "ddr19471200if",
+		"note": "issued: 1947-12-00",
+		"title": "Idées françaises",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1947",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/JZ6FCRBG",
+		"type": "manuscript",
+		"call-number": "ddr19471021aragon",
+		"note": "issued: 1947-10-21",
+		"title": "Une lettre de Denis de Rougemont (à propos d’Aragon)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1947",
+					10,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/IYLNQCKH",
+		"type": "manuscript",
+		"call-number": "ddr19470515gensuisse",
+		"note": "issued: 1947-05-15",
+		"title": "Il y a aussi des gens en Suisse",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1947",
+					5,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ATRBZSVW",
+		"type": "manuscript",
+		"call-number": "ddr19420000ms",
+		"title": "Le miracle suisse",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/56NXXMQD",
+		"type": "manuscript",
+		"call-number": "ddr19420500pro",
+		"note": "issued: 1942-04-00/1942-05-00",
+		"title": "La grande “stratégie religieuse” de cette guerre",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XPSNM8B2",
+		"type": "manuscript",
+		"call-number": "ddr19410000bae",
+		"title": "Blind alley of Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1941"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/KW8PVYHJ",
+		"type": "manuscript",
+		"call-number": "ddr19410000ffv",
+		"title": "Le fédéralisme : un fait et une volonté",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1941"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/UAZRT4W4",
+		"type": "manuscript",
+		"call-number": "ddr19410100poh",
+		"title": "Passion et origine de l’hitlérisme",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1941"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/HFA9VCSR",
+		"type": "manuscript",
+		"call-number": "ddr19400000qhei",
+		"title": "Quelle heure est-il ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1940"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/T8UXQ4CB",
+		"type": "manuscript",
+		"call-number": "ddr19390000psc",
+		"title": "Pour une “Suisse chrétienne”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1939"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/V2Z8G46S",
+		"type": "manuscript",
+		"call-number": "ddr19380500etdp",
+		"title": "L’esprit totalitaire et les devoirs de la personne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1938",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/KWGB3AN5",
+		"type": "manuscript",
+		"call-number": "ddr19510312de",
+		"title": "Demain l’Europe ! — Dernière chronique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					3,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TRWQP2G4",
+		"type": "manuscript",
+		"call-number": "ddr19510219de",
+		"title": "Demain l’Europe ! — L’Europe et la paix",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					2,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/4U524K2D",
+		"type": "manuscript",
+		"call-number": "ddr19510212de",
+		"title": "Demain l’Europe ! — Nos libertés",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					2,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/7D3N962I",
+		"type": "manuscript",
+		"call-number": "ddr19510122de",
+		"title": "Demain l’Europe ! — Contre une “mystique européenne”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DY3Y7NHH",
+		"type": "manuscript",
+		"call-number": "ddr19510115de",
+		"title": "Demain l’Europe ! — Peut-on fabriquer un Européen ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					1,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XUQ2EFHJ",
+		"type": "manuscript",
+		"call-number": "ddr19510108de",
+		"title": "Demain l’Europe ! — Espérer, c’est agir",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951",
+					1,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XGYKU74M",
+		"type": "manuscript",
+		"call-number": "ddr19501218de",
+		"title": "Demain l’Europe ! — Équiper l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/WDAZT3PL",
+		"type": "manuscript",
+		"call-number": "ddr19501211de",
+		"title": "Demain l’Europe ! — Sur l’opinion en général et la presse en particulier",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SUK2ZVWL",
+		"type": "manuscript",
+		"call-number": "ddr19501204de",
+		"title": "Demain l’Europe ! — État de la construction européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					12,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/875XNHCI",
+		"type": "manuscript",
+		"call-number": "ddr19501127de",
+		"title": "Demain l’Europe ! — Jeunesse d’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					11,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/SUVN93E6",
+		"type": "manuscript",
+		"call-number": "ddr19501121de",
+		"title": "Demain l’Europe ! — À Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					11,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PJ4JQKDZ",
+		"type": "manuscript",
+		"call-number": "ddr19501113de",
+		"title": "Demain l’Europe ! — Un Conseil européen de vigilance",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					11,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DZSBJBYL",
+		"type": "manuscript",
+		"call-number": "ddr19501106de",
+		"title": "Demain l’Europe ! — La neutralité suisse (II)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ACCPK997",
+		"type": "manuscript",
+		"call-number": "ddr19501030de",
+		"title": "Demain l’Europe ! — La neutralité suisse (I)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/3KR88J8X",
+		"type": "manuscript",
+		"call-number": "ddr19501023de",
+		"title": "Demain l’Europe ! — Neutralité européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/E2JKGHUM",
+		"type": "manuscript",
+		"call-number": "ddr19501016de",
+		"title": "Demain l’Europe ! — L’opinion et l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					10,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/KLBCYSD4",
+		"type": "manuscript",
+		"call-number": "ddr19501009de",
+		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					10,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/CGVVBSLG",
+		"type": "manuscript",
+		"call-number": "ddr19501002de",
+		"title": "Demain l’Europe ! — Le Serment de Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/FT4K95FE",
+		"type": "manuscript",
+		"call-number": "ddr19500925de",
+		"title": "Demain l’Europe ! — Une autorité politique européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					9,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/YZ92F6KP",
+		"type": "manuscript",
+		"call-number": "ddr19500918de",
+		"title": "Demain l’Europe ! — L’armée européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					9,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/J2ZB2ADE",
+		"type": "manuscript",
+		"call-number": "ddr19500911de",
+		"title": "Demain l’Europe ! — L’atmosphère de Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					9,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/Y5WTYQK3",
+		"type": "manuscript",
+		"call-number": "ddr19500909de",
+		"title": "Demain l’Europe ! — Un été orageux",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					9,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/GCA46RYY",
+		"type": "manuscript",
+		"call-number": "ddr19500626de",
+		"title": "Demain l’Europe ! — Avant Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/I8SHCUG8",
+		"type": "manuscript",
+		"call-number": "ddr19500619de",
+		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/EKLGRCCE",
+		"type": "manuscript",
+		"call-number": "ddr19500612de",
+		"title": "Demain l’Europe ! — Valeur de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TVXB8WV6",
+		"type": "manuscript",
+		"call-number": "ddr19500605de",
+		"title": "Demain l’Europe ! — Le règne des experts",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					6,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AV9KHZCN",
+		"type": "manuscript",
+		"call-number": "ddr19500529de",
+		"title": "Demain l’Europe ! — Conversation avec un Américain",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					5,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/RAFC7AXR",
+		"type": "manuscript",
+		"call-number": "ddr19500522de",
+		"title": "Demain l’Europe ! — L’opinion",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/UZXZWDCI",
+		"type": "manuscript",
+		"call-number": "ddr19500515de",
+		"title": "Demain l’Europe ! — Lenteurs et progrès",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					5,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/99IZSYMT",
+		"type": "manuscript",
+		"call-number": "ddr19500508de",
+		"title": "Demain l’Europe ! — L’Europe et l’Amérique (II)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					5,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DUF3M957",
+		"type": "manuscript",
+		"call-number": "ddr19500501de",
+		"title": "Demain l’Europe ! — L’Europe et l’Amérique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ZCNQEV5R",
+		"type": "manuscript",
+		"call-number": "ddr19500424de",
+		"title": "Demain l’Europe ! — L’union atlantique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					4,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/6YAZ4EZB",
+		"type": "manuscript",
+		"call-number": "ddr19500417de",
+		"title": "Demain l’Europe ! — Branle-bas mondial",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					4,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/CS5TY34E",
+		"type": "manuscript",
+		"call-number": "ddr19500410de",
+		"title": "Demain l’Europe ! — Les volontaires de Daniel Villey",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/KWPQ9YX7",
+		"type": "manuscript",
+		"call-number": "ddr19500403de",
+		"title": "Demain l’Europe ! — Les politiciens et l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					4,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/YVMS3FVV",
+		"type": "manuscript",
+		"call-number": "ddr19500327de",
+		"title": "Demain l’Europe ! — Deux enquêtes sur l’union",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					3,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/S57VUQXH",
+		"type": "manuscript",
+		"call-number": "ddr19500320de",
+		"title": "Demain l’Europe ! — De l’Europe au monde",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					3,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TK7JAET5",
+		"type": "manuscript",
+		"call-number": "ddr19500313de",
+		"title": "Demain l’Europe ! — L’Europe n’est pas pour “demain”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					3,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/8326ICBQ",
+		"type": "manuscript",
+		"call-number": "ddr19500306de",
+		"title": "Demain l’Europe ! — Neutralité européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					3,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PU37JU4U",
+		"type": "manuscript",
+		"call-number": "ddr19500227de",
+		"title": "Demain l’Europe ! — Après les élections anglaises",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					2,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/UP48RM4W",
+		"type": "manuscript",
+		"call-number": "ddr19500220de",
+		"title": "Demain l’Europe ! — La guerre impossible",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					2,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/826A22GG",
+		"type": "manuscript",
+		"call-number": "ddr19500213de",
+		"title": "Demain l’Europe ! — Les deux raisons de fédérer l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					2,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/LDHQZ5M2",
+		"type": "manuscript",
+		"call-number": "ddr19500206de",
+		"title": "Demain l’Europe ! — Passer à l’action",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					2,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/6DCLWL2I",
+		"type": "manuscript",
+		"call-number": "ddr19500130de",
+		"title": "Demain l’Europe ! — Un tiers-ordre européen",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					1,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/9UA5Z9AK",
+		"type": "manuscript",
+		"call-number": "ddr19500123de",
+		"title": "Demain l’Europe ! — Questions et objections des étudiants de Lausanne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PNEUJQTX",
+		"type": "manuscript",
+		"call-number": "ddr19500116de",
+		"title": "Demain l’Europe ! — Une enquête chez les étudiants",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					1,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DUCSIKRV",
+		"type": "manuscript",
+		"call-number": "ddr19500109de",
+		"title": "Demain l’Europe ! — Par où commencer ? Par l’économie ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					1,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/RAFPX2UH",
+		"type": "manuscript",
+		"call-number": "ddr19500102de",
+		"title": "Demain l’Europe ! — Bon demi-siècle !",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/YPSNLSCD",
+		"type": "manuscript",
+		"call-number": "ddr19491226de",
+		"title": "Demain l’Europe ! — Bilan 1949",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/BIQ64HHX",
+		"type": "manuscript",
+		"call-number": "ddr19491219de",
+		"title": "Demain l’Europe ! — Optimistes et pessimistes",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/C9ZRJ7IY",
+		"type": "manuscript",
+		"call-number": "ddr19491205de",
+		"title": "Demain l’Europe ! — La Conférence européenne de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					12,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/RJHWPJUB",
+		"type": "manuscript",
+		"call-number": "ddr19491128de",
+		"title": "Demain l’Europe ! — Les suites de Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					11,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/E92MI4AV",
+		"type": "manuscript",
+		"call-number": "ddr19491121de",
+		"title": "Demain l’Europe ! — Encore notre neutralité",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					11,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/PIQ2JIQR",
+		"type": "manuscript",
+		"call-number": "ddr19491114de",
+		"title": "Demain l’Europe ! — La Suisse et Strasbourg (II)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					11,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/EU4YF4DM",
+		"type": "manuscript",
+		"call-number": "ddr19491107de",
+		"title": "Demain l’Europe ! — L’Amérique veut nous unir",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/5QDXZZ7M",
+		"type": "manuscript",
+		"call-number": "ddr19491031de",
+		"title": "Demain l’Europe ! — La Suisse et Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/GYUT92DB",
+		"type": "manuscript",
+		"call-number": "ddr19491024de",
+		"title": "Demain l’Europe ! — Militer pour la fédération",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AA5NVKQE",
+		"type": "manuscript",
+		"call-number": "ddr19491017de",
+		"title": "Demain l’Europe ! — Que pouvez-vous faire ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/96TMCRM6",
+		"type": "manuscript",
+		"call-number": "ddr19491010de",
+		"title": "Demain l’Europe ! — Les résultats de Strasbourg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DPEYXYPL",
+		"type": "manuscript",
+		"call-number": "ddr19491003de",
+		"title": "Demain l’Europe ! — “Êtes-vous satisfait de Strasbourg ?”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/LMS34UU7",
+		"type": "manuscript",
+		"call-number": "ddr19490926de",
+		"title": "Demain l’Europe ! — La dévaluation et la bombe soviétique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					9,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/XHLVTHQL",
+		"type": "manuscript",
+		"call-number": "ddr19490919de",
+		"title": "Demain l’Europe ! — Un bel été",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					9,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/EW57U6XY",
+		"type": "manuscript",
+		"call-number": "ddr19490704de",
+		"title": "Demain l’Europe ! — Faisons le point",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					7,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/TZIVTJTJ",
+		"type": "manuscript",
+		"call-number": "ddr19490627de",
+		"title": "Demain l’Europe ! — Le Centre européen de la culture",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					6,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/VNGIXYM5",
+		"type": "manuscript",
+		"call-number": "ddr19490620de",
+		"title": "Demain l’Europe ! — La Suisse et l’Europe (IV)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					6,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/EKZ9HP8U",
+		"type": "manuscript",
+		"call-number": "ddr19490613de",
+		"title": "Demain l’Europe ! — Suisse 1848-Europe 1949 (II)",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					6,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/ZNNB9BN8",
+		"type": "manuscript",
+		"call-number": "ddr19490530de",
+		"title": "Demain l’Europe ! — Suisse 1848-Europe 1949",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					5,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/DM9X76DH",
+		"type": "manuscript",
+		"call-number": "ddr19490523de",
+		"title": "Demain l’Europe ! — La neutralité suisse",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					5,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/UQSRLL9M",
+		"type": "manuscript",
+		"call-number": "ddr19490509de",
+		"title": "Demain l’Europe ! — Le Statut du Conseil de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					5,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/M6VT456I",
+		"type": "manuscript",
+		"call-number": "ddr19490502de",
+		"title": "Demain l’Europe ! — L’URSS et l’Europe fédérée",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					5,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/Z7FYUW75",
+		"type": "manuscript",
+		"call-number": "ddr19490425de",
+		"title": "Demain l’Europe ! — L’union de l’Europe et l’Amérique",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					4,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/WCWFTZKW",
+		"type": "manuscript",
+		"call-number": "ddr19490418de",
+		"title": "Demain l’Europe ! — Pâques européennes",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					4,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/RKIYECZS",
+		"type": "manuscript",
+		"call-number": "ddr19490411de",
+		"title": "Demain l’Europe ! — L’Allemagne et l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					4,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/BHTMWQUX",
+		"type": "manuscript",
+		"call-number": "ddr19490404de",
+		"title": "Demain l’Europe ! — “Une idée généreuse” ?",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					4,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/3GAIHNQG",
+		"type": "manuscript",
+		"call-number": "ddr19490328de",
+		"title": "Demain l’Europe ! — Le Conseil de l’Europe",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					3,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/P8EWCZIF",
+		"type": "manuscript",
+		"call-number": "ddr19490321de",
+		"title": "Demain l’Europe ! — Le pacte de l’Atlantique et la fédération européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					3,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/AACVA96L",
+		"type": "manuscript",
+		"call-number": "ddr19490314de",
+		"title": "Demain l’Europe ! — La Cour suprême européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					3,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/9IMK2BS2",
+		"type": "manuscript",
+		"call-number": "ddr19490307de",
+		"title": "Demain l’Europe ! — “La paix, la paix !”",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					3,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/3ZGZ2T33",
+		"type": "manuscript",
+		"call-number": "ddr19490227de",
+		"title": "Demain l’Europe ! — L’Assemblée européenne",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					2,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/K8KVMKL4",
+		"type": "manuscript",
+		"call-number": "ddr19490225de",
+		"title": "Demain l’Europe ! — Le Conseil international du Mouvement européen",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					2,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/MFGQJSDX",
+		"type": "manuscript",
+		"call-number": "ddr19490221de",
+		"title": "Demain l’Europe ! — L’Europe en marche",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1949",
+					2,
+					21
 				]
 			]
 		}
