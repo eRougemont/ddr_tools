@@ -8,18 +8,19 @@
     "packages": [
         {
             "name": "citation-style-language/locales",
-            "version": "v0.0.11",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/locales.git",
-                "reference": "fe37f30df9d11e43f5f727c9b46c067bdc543b55"
+                "reference": "cf4b49404fc15cf9a37372e4707ce710b0935ccc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/fe37f30df9d11e43f5f727c9b46c067bdc543b55",
-                "reference": "fe37f30df9d11e43f5f727c9b46c067bdc543b55",
+                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/cf4b49404fc15cf9a37372e4707ce710b0935ccc",
+                "reference": "cf4b49404fc15cf9a37372e4707ce710b0935ccc",
                 "shasum": ""
             },
+            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -40,28 +41,28 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/locales/issues",
-                "source": "https://github.com/citation-style-language/locales/tree/v0.0.11"
+                "source": "https://github.com/citation-style-language/locales/tree/v0.0.19"
             },
             "funding": [
                 {
-                    "url": "https://github.com/rmzelle",
+                    "url": "https://github.com/adam3smith",
                     "type": "github"
                 }
             ],
-            "time": "2023-09-21T16:37:26+00:00"
+            "time": "2024-03-24T00:02:07+00:00"
         },
         {
             "name": "citation-style-language/styles",
-            "version": "v0.0.361",
+            "version": "v1.0.2.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/styles.git",
-                "reference": "49a73724f2ff673b56eba7fa02a4eca216629329"
+                "reference": "ce9cddfa92633626950290d674dcccf9af612f05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/49a73724f2ff673b56eba7fa02a4eca216629329",
-                "reference": "49a73724f2ff673b56eba7fa02a4eca216629329",
+                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/ce9cddfa92633626950290d674dcccf9af612f05",
+                "reference": "ce9cddfa92633626950290d674dcccf9af612f05",
                 "shasum": ""
             },
             "type": "library",
@@ -79,7 +80,7 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/styles/issues",
-                "source": "https://github.com/citation-style-language/styles/tree/v0.0.361"
+                "source": "https://github.com/citation-style-language/styles/tree/v1.0.2"
             },
             "funding": [
                 {
@@ -87,7 +88,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-01-27T00:53:31+00:00"
+            "time": "2024-04-03T23:38:16+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -263,12 +264,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oeuvres/kit.git",
-                "reference": "0b90f2afe7e98645e4b61b764a39c21ac48817bb"
+                "reference": "5ceeff4a8f3b05c80521c60d7720e9a8d93986b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oeuvres/kit/zipball/0b90f2afe7e98645e4b61b764a39c21ac48817bb",
-                "reference": "0b90f2afe7e98645e4b61b764a39c21ac48817bb",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/5ceeff4a8f3b05c80521c60d7720e9a8d93986b3",
+                "reference": "5ceeff4a8f3b05c80521c60d7720e9a8d93986b3",
                 "shasum": ""
             },
             "require": {
@@ -279,7 +280,7 @@
                 "psr/log": "1.1.4"
             },
             "require-dev": {
-                "phpunit/phpunit": "9"
+                "phpunit/phpunit": ">=9"
             },
             "default-branch": true,
             "type": "library",
@@ -314,7 +315,7 @@
                 "issues": "https://github.com/oeuvres/kit/issues",
                 "source": "https://github.com/oeuvres/kit/tree/main"
             },
-            "time": "2023-12-17T20:50:30+00:00"
+            "time": "2024-03-31T11:01:23+00:00"
         },
         {
             "name": "oeuvres/teinte",
@@ -322,17 +323,18 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_php",
-                "reference": "9c132558971b4705d6162975ce42e3c74acaca59"
+                "reference": "ad2244283f88b0b04e38fe8255a026bf617f6c61"
             },
             "require": {
                 "erusev/parsedown-extra": "dev-master",
                 "ext-tidy": "*",
+                "ext-xsl": "*",
                 "oeuvres/kit": "dev-main",
                 "oeuvres/xsl": "dev-main",
                 "php": ">=7.2"
             },
             "require-dev": {
-                "phpunit/phpunit": "9"
+                "phpunit/phpunit": ">=9"
             },
             "bin": [
                 "bin/teinte"
@@ -343,6 +345,12 @@
                     "Oeuvres\\Teinte\\": "src"
                 }
             },
+            "archive": {
+                "exclude": [
+                    "/examples",
+                    "/tests"
+                ]
+            },
             "license": [
                 "BSD-3-Clause"
             ],
@@ -352,7 +360,7 @@
                     "email": "frederic.glorieux@fictif.org"
                 }
             ],
-            "description": "Transform texts from and to : TEI, DOCX, HTML, EPUB, MD…",
+            "description": "Transform texts from and to : TEI, DOCX, HTML, EPUB, MD.",
             "transport-options": {
                 "symlink": true,
                 "relative": true
@@ -364,7 +372,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_xsl",
-                "reference": "e81452f4586819df5ba3af3336757674104d45c8"
+                "reference": "d8d36c9856a33d41334e7235ee6e873102f76bfc"
             },
             "type": "library",
             "autoload": {
@@ -443,11 +451,11 @@
             "dist": {
                 "type": "path",
                 "url": "../citeproc-php",
-                "reference": "488730fc87709346d7e1894a51ad236e9e92950b"
+                "reference": "0fb08dbc36a728cfdd11a4e806e8ff15d0625dc4"
             },
             "require": {
-                "citation-style-language/locales": "v0.0.*",
-                "citation-style-language/styles": "v0.0.*",
+                "citation-style-language/locales": "^1",
+                "citation-style-language/styles": "^1",
                 "ext-intl": "*",
                 "ext-json": "*",
                 "ext-mbstring": "*",
@@ -599,5 +607,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.6.0"
 }

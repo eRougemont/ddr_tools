@@ -13,13 +13,13 @@ class Rougemont extends Cliglob
 {
     /** Object to load Tei for exports */
     static $docx;
-    const SRC_FORMAT = "docx";
-    const SRC_EXT = ".docx";
-    const DST_FORMAT = "tei";
-    const DST_EXT = ".xml";
 
     public static function cli()
     {
+        self::put('src_format', "docx");
+        self::put('src_ext', ".docx");
+        self::put('dst_format', "tei");
+        self::put('dst_ext', ".xml");
         self::$docx = new Docx();
         Log::setLogger(new LoggerCli(LogLevel::DEBUG));
         // local xml template ?
