@@ -20993,6 +20993,32 @@
 		}
 	},
 	{
+		"id": "http://zotero.org/groups/5018778/items/4QNBJQUM",
+		"type": "article-newspaper",
+		"call-number": "ddr19401114jg",
+		"container-title": "Journal de Genève",
+		"note": "publisher-place: Genève",
+		"page": "1-2",
+		"title": "Veille d’élection présidentielle",
+		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19401114jg",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1940",
+					11,
+					14
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/groups/5018778/items/QPBKIZMH",
 		"type": "article-newspaper",
 		"call-number": "ddr19410117jg",
@@ -29769,28 +29795,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5018778/items/UF8QUSAW",
-		"type": "article",
-		"call-number": "ddr19580800ll",
-		"title": "Liberté et littérature",
-		"URL": "https://www.unige.ch/rougemont/articles/*/ddr19580800ll",
-		"author": [
-			{
-				"family": "Rougemont",
-				"given": "Denis",
-				"dropping-particle": "de"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1958",
-					8
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/5018778/items/PGWYS6H8",
 		"type": "article-journal",
 		"call-number": "ddr19821000acr",
@@ -33583,31 +33587,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5018778/items/II4CMY4R",
-		"type": "article-journal",
-		"call-number": "ddr19571000preuv_p0054",
-		"container-title": "Preuves",
-		"note": "publisher-place: Paris",
-		"page": "54-55",
-		"title": "L’échéance de septembre",
-		"URL": "https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054",
-		"author": [
-			{
-				"family": "Rougemont",
-				"given": "Denis",
-				"dropping-particle": "de"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1957",
-					10
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/5018778/items/EQHTCEKI",
 		"type": "article-journal",
 		"call-number": "ddr19571000preuv_p0072",
@@ -33633,14 +33612,13 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5018778/items/N574YDE8",
+		"id": "http://zotero.org/groups/5018778/items/A89AL8DM",
 		"type": "article-newspaper",
-		"call-number": "ddr19410114jg",
-		"container-title": "Journal de Genève",
-		"note": "publisher-place: Genève\n\nLe journal précise : « De notre envoyé spécial ».",
-		"page": "1",
-		"title": "Veille d’élection présidentielle",
-		"URL": "https://www.unige.ch/rougemont/articles/jg/ddr19410114jg",
+		"call-number": "ddr19530200sem",
+		"container-title": "Le Semeur",
+		"note": "publisher-place: Paris",
+		"page": "274-275",
+		"title": "[Réponse à une enquête] Sur le pluralisme politique dans l’Église",
 		"author": [
 			{
 				"family": "Rougemont",
@@ -33651,9 +33629,32 @@
 		"issued": {
 			"date-parts": [
 				[
-					"1941",
-					1,
-					14
+					"1953",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5018778/items/IVVGDR8H",
+		"type": "article-journal",
+		"call-number": "ddr19680400eau",
+		"container-title": "Fénix",
+		"note": "publisher-place: Montpellier",
+		"page": "1-2",
+		"title": "L’eau",
+		"author": [
+			{
+				"family": "Rougemont",
+				"given": "Denis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968",
+					4
 				]
 			]
 		}

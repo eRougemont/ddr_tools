@@ -4254,7 +4254,7 @@
 		<title level="j">Caractère et culture de l’Europe</title>
 		<ptr target="https://www.unige.ch/rougemont/articles/1957-1962/ddr19601000cce"/>
 		<imprint>
-			<date when="1960-10">1960-10</date>
+			<date when="1960-10">octobre 1960</date>
 			<pubPlace>Amsterdam</pubPlace>
 			<biblScope unit="page">5-6</biblScope>
 		</imprint>
@@ -17909,6 +17909,26 @@ Les coquilles de cet article ont été corrigées sur la base de l’exemplaire 
 	</note>
 </biblStruct>
 
+<biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/4QNBJQUM">
+	<analytic>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="a">Veille d’élection présidentielle</title>
+		<idno type="callNumber">ddr19401114jg</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Journal de Genève</title>
+		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg"/>
+		<imprint>
+			<date when="1940-11-14">1940-11-14</date>
+			<pubPlace>Genève</pubPlace>
+			<biblScope unit="page">1-2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
 <biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/QPBKIZMH">
 	<analytic>
 		<author>
@@ -25373,29 +25393,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<biblScope unit="page">20-22</biblScope>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
-</biblStruct>
-
-<biblStruct type="preprint" corresp="http://zotero.org/groups/5018778/items/UF8QUSAW">
-	<monogr>
-		<author>
-			<forename>Denis de</forename>
-			<surname>Rougemont</surname>
-		</author>
-		<title level="m">Liberté et littérature</title>
-		<ptr target="https://www.unige.ch/rougemont/articles/*/ddr19580800ll"/>
-		<idno type="callNumber">ddr19580800ll</idno>
-		<imprint>
-			<date when="1958-08">1958-08</date>
-		</imprint>
-	</monogr>
-	<note corresp="http://zotero.org/groups/5018778/items/Y2D495Q5"><p>Où est-ce ?</p>
-</note>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/PGWYS6H8">
@@ -25738,7 +25735,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25757,7 +25753,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Compte rendu</term>
 	</note>
 </biblStruct>
@@ -25776,7 +25771,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25795,7 +25789,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25814,7 +25807,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25833,7 +25825,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25852,7 +25843,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25871,7 +25861,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25890,7 +25879,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25909,7 +25897,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25928,7 +25915,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25947,7 +25933,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25966,7 +25951,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -25985,7 +25969,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26004,7 +25987,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Préface</term>
 	</note>
 </biblStruct>
@@ -26023,7 +26005,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26042,7 +26023,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26061,7 +26041,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26080,7 +26059,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26099,7 +26077,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26118,7 +26095,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26137,7 +26113,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26156,7 +26131,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26175,7 +26149,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26194,7 +26167,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26213,7 +26185,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26232,7 +26203,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26251,7 +26221,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26270,7 +26239,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26289,7 +26257,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26307,9 +26274,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1970-10-13">1970-10-13</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AIMCW93A">
@@ -26325,9 +26289,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1970">1970-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/VCQ5CLT8">
@@ -26343,9 +26304,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1969">1969-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/RLDHJGRI">
@@ -26361,9 +26319,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1969-11">1969-11-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/GKGLHJLL">
@@ -26379,9 +26334,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1969">1969-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SVYESVNH">
@@ -26397,9 +26349,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1968-04-03">1968-04-03</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XGEUMGBA">
@@ -26415,9 +26364,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1967-07">1967-07-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/7HUN9VYN">
@@ -26433,9 +26379,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1966-12">1966-12-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/7BM2ATIT">
@@ -26451,9 +26394,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1966-01">1966-01-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/3SZWD7V4">
@@ -26469,9 +26409,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1965-09">1965-09-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/WI526AIQ">
@@ -26487,9 +26424,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1963">1963</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/R5B8SZDD">
@@ -26505,9 +26439,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1962-09-02">1962-09-02</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XCKLAJDC">
@@ -26523,9 +26454,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1961-11">1961-11-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AKVNSK4P">
@@ -26541,9 +26469,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1961-08">1961-08-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/2WBUIWE8">
@@ -26559,9 +26484,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1961-06">1961-06-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/ZVY3MNQE">
@@ -26577,9 +26499,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1959">1959-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/NZSCULN5">
@@ -26595,9 +26514,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1958-08">1958-08-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/4WSKG4I5">
@@ -26613,9 +26529,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1955-12">1955-12-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/3J24JHUM">
@@ -26631,9 +26544,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1955-09-17">1955-09-17</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SADXUYAA">
@@ -26649,9 +26559,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1954-08">1954-08-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/SBPCIA7N">
@@ -26667,9 +26574,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1952-05">1952-05-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/PIHCQVCJ">
@@ -26685,9 +26589,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1952">1952-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MY5UB7EZ">
@@ -26703,9 +26604,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1951-03">1951-03-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MXCKAXPS">
@@ -26721,9 +26619,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1950-12">1950-12-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/MIB9GYAX">
@@ -26739,9 +26634,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1949-12-08">1949-12-08</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/P6HUBI9Z">
@@ -26757,9 +26649,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1948">Automne 1948</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/AXPJMW2L">
@@ -26775,9 +26664,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1947-12">1947-12-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/JZ6FCRBG">
@@ -26793,9 +26679,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1947-10-21">1947-10-21</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/IYLNQCKH">
@@ -26811,9 +26694,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1947-05-15">1947-05-15</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/ATRBZSVW">
@@ -26829,9 +26709,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1942">1942-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/56NXXMQD">
@@ -26847,9 +26724,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1942-04-05">1942-04-00/1942-05-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/XPSNM8B2">
@@ -26865,9 +26739,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/KW8PVYHJ">
@@ -26883,9 +26754,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/UAZRT4W4">
@@ -26901,9 +26769,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1941">1941-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/HFA9VCSR">
@@ -26919,9 +26784,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1940">1940-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/T8UXQ4CB">
@@ -26937,9 +26799,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1939">1939-00-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/V2Z8G46S">
@@ -26955,9 +26814,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 			<date when="1938-05">1938-05-00</date>
 		</imprint>
 	</monogr>
-	<note type="tags">
-		<term type="tag">*URL</term>
-	</note>
 </biblStruct>
 
 <biblStruct type="manuscript" corresp="http://zotero.org/groups/5018778/items/KWGB3AN5">
@@ -26974,7 +26830,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -26993,7 +26848,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27012,7 +26866,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27031,7 +26884,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27050,7 +26902,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27069,7 +26920,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27088,7 +26938,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27107,7 +26956,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27126,7 +26974,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27145,7 +26992,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27164,7 +27010,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27183,7 +27028,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27202,7 +27046,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27221,7 +27064,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27240,7 +27082,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27259,7 +27100,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27278,7 +27118,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27297,7 +27136,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27316,7 +27154,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27335,7 +27172,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27354,7 +27190,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27373,7 +27208,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27392,7 +27226,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27411,7 +27244,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27430,7 +27262,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27449,7 +27280,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27468,7 +27298,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27487,7 +27316,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27506,7 +27334,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27525,7 +27352,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27544,7 +27370,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27563,7 +27388,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27582,7 +27406,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27601,7 +27424,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27620,7 +27442,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27639,7 +27460,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27658,7 +27478,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27677,7 +27496,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27696,7 +27514,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27715,7 +27532,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27734,7 +27550,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27753,7 +27568,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27772,7 +27586,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27791,7 +27604,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27810,7 +27622,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27829,7 +27640,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27848,7 +27658,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27867,7 +27676,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27886,7 +27694,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27905,7 +27712,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27924,7 +27730,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27943,7 +27748,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27962,7 +27766,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -27981,7 +27784,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28000,7 +27802,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28019,7 +27820,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28038,7 +27838,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28057,7 +27856,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28076,7 +27874,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28095,7 +27892,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28114,7 +27910,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28133,7 +27928,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28152,7 +27946,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28171,7 +27964,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28190,7 +27982,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28209,7 +28000,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28228,7 +28018,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28247,7 +28036,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28266,7 +28054,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28285,7 +28072,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28304,7 +28090,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28323,7 +28108,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28342,7 +28126,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28361,7 +28144,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28380,7 +28162,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28399,7 +28180,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28418,7 +28198,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28437,7 +28216,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28456,7 +28234,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28475,7 +28252,6 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
 </biblStruct>
@@ -28494,29 +28270,8 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 		</imprint>
 	</monogr>
 	<note type="tags">
-		<term type="tag">*URL</term>
 		<term type="tag">Entretien</term>
 	</note>
-</biblStruct>
-
-<biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/II4CMY4R">
-	<analytic>
-		<author>
-			<forename>Denis de</forename>
-			<surname>Rougemont</surname>
-		</author>
-		<title level="a">L’échéance de septembre</title>
-		<idno type="callNumber">ddr19571000preuv_p0054</idno>
-	</analytic>
-	<monogr>
-		<title level="j">Preuves</title>
-		<ptr target="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054"/>
-		<imprint>
-			<date when="1957-10">1957-10</date>
-			<pubPlace>Paris</pubPlace>
-			<biblScope unit="page">54-55</biblScope>
-		</imprint>
-	</monogr>
 </biblStruct>
 
 <biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/EQHTCEKI">
@@ -28539,24 +28294,41 @@ Le texte est introduit par le chapeau suivant : Le directeur du Centre europée
 	</monogr>
 </biblStruct>
 
-<biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/N574YDE8">
+<biblStruct type="newspaperArticle" corresp="http://zotero.org/groups/5018778/items/A89AL8DM">
 	<analytic>
 		<author>
 			<forename>Denis de</forename>
 			<surname>Rougemont</surname>
 		</author>
-		<title level="a">Veille d’élection présidentielle</title>
-		<idno type="callNumber">ddr19410114jg</idno>
+		<title level="a">[Réponse à une enquête] Sur le pluralisme politique dans l’Église</title>
+		<idno type="callNumber">ddr19530200sem</idno>
 	</analytic>
 	<monogr>
-		<title level="m">Journal de Genève</title>
-		<ptr target="https://www.unige.ch/rougemont/articles/jg/ddr19410114jg"/>
+		<title level="m">Le Semeur</title>
 		<imprint>
-			<date when="1941-01-14">1941-01-14</date>
-			<pubPlace>Genève</pubPlace>
-			<biblScope unit="page">1</biblScope>
+			<date when="1953-02">1953-02</date>
+			<pubPlace>Paris</pubPlace>
+			<biblScope unit="page">274-275</biblScope>
 		</imprint>
 	</monogr>
-	<note type="extra">Le journal précise : « De notre envoyé spécial ».</note>
+</biblStruct>
+
+<biblStruct type="journalArticle" corresp="http://zotero.org/groups/5018778/items/IVVGDR8H">
+	<analytic>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="a">L’eau</title>
+		<idno type="callNumber">ddr19680400eau</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fénix</title>
+		<imprint>
+			<date when="1968-04">1968-04-00</date>
+			<pubPlace>Montpellier</pubPlace>
+			<biblScope unit="page">1-2</biblScope>
+		</imprint>
+	</monogr>
 </biblStruct>
 </listBibl>

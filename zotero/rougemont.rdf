@@ -6257,7 +6257,7 @@ Texte très proche, mais non sans variantes, de &lt;a href=&quot;https://www.uni
             </rdf:Seq>
         </bib:authors>
         <dc:title>Une fusée à trois étages : bref historique de la Fondation</dc:title>
-        <dc:date>1960-10</dc:date>
+        <dc:date>octobre 1960</dc:date>
         <dc:subject>
            <dcterms:LCC><rdf:value>ddr19601000cce</rdf:value></dcterms:LCC>
         </dc:subject>
@@ -26152,6 +26152,34 @@ Une note ajoute : « &lt;a href=&quot;https://www.unige.ch/rougemont/livres/dd
         <dc:description>Publisher Place: Genève</dc:description>
         <bib:pages>1</bib:pages>
     </bib:Article>
+    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenName>Denis de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Veille d’élection présidentielle</dc:title>
+        <dc:date>1940-11-14</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>ddr19401114jg</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19401114jg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher Place: Genève</dc:description>
+        <bib:pages>1-2</bib:pages>
+    </bib:Article>
     <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19410117jg">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
@@ -36725,7 +36753,6 @@ Propos recueillis par Charles Biber.</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>*URL</dc:subject>
         <dc:title>“La qualité des choses que j’aime”</dc:title>
         <dc:date>1979-12</dc:date>
         <dc:subject>
@@ -36739,35 +36766,6 @@ Propos recueillis par Charles Biber.</dc:description>
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>20-22</bib:pages>
     </bib:Article>
-    <rdf:Description rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19580800ll">
-        <z:itemType>preprint</z:itemType>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Rougemont</foaf:surname>
-                        <foaf:givenName>Denis de</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_41192"/>
-        <dc:subject>*URL</dc:subject>
-        <dc:title>Liberté et littérature</dc:title>
-        <dc:date>1958-08</dc:date>
-        <dc:subject>
-           <dcterms:LCC><rdf:value>ddr19580800ll</rdf:value></dcterms:LCC>
-        </dc:subject>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.unige.ch/rougemont/articles/*/ddr19580800ll</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-    </rdf:Description>
-    <bib:Memo rdf:about="#item_41192">
-        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Où est-ce ?&lt;/p&gt;
-&lt;/div&gt;</rdf:value>
-    </bib:Memo>
     <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/1982-1985/ddr19821000acr">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -37225,9 +37223,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>La Suisse et la CEE</dc:title>
         <dc:date>1970-11-28</dc:date>
@@ -37253,9 +37248,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Compte rendu</dc:subject>
         <dc:title>[Compte rendu] Henri de Man, &lt;i&gt;L’Idée socialiste&lt;/i&gt;</dc:title>
         <dc:date>1936-00-00</dc:date>
@@ -37280,9 +37272,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“Ô saisons ! Ô châteaux !”</dc:title>
         <dc:date>1970-11-00</dc:date>
@@ -37308,9 +37297,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>D’où venons-nous ? Où sommes-nous ? Où allons-nous ? (à propos du CEC)</dc:title>
         <dc:date>1983-11-10</dc:date>
@@ -37336,9 +37322,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Membre d’honneur de la Fondation européenne de la culture</dc:title>
         <dc:date>1985-06-06</dc:date>
@@ -37364,9 +37347,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Devise du régionalisme : point de libertés sans responsabilités</dc:title>
         <dc:date>1983-05-06</dc:date>
@@ -37392,9 +37372,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>De l’unité de culture à l’union fédérale de l’Europe</dc:title>
         <dc:date>1982-10-18</dc:date>
@@ -37420,9 +37397,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Réponse à M. Grisoni</dc:title>
         <dc:date>1982-05-12</dc:date>
@@ -37448,9 +37422,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Débat sur le LEP, accélérateur de particules du CERN</dc:title>
         <dc:date>1982-02-11</dc:date>
@@ -37476,9 +37447,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Pacifisme</dc:title>
         <dc:date>1982-01-06</dc:date>
@@ -37504,9 +37472,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Nicolas de Flue, le Solitaire par qui tous sont unis</dc:title>
         <dc:date>1981-05-19</dc:date>
@@ -37532,9 +37497,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“Imaginer la vérité de la guerre demain, c’est déjà une action pour la paix” (Discours pour l’inauguration du GIPRI)</dc:title>
         <dc:date>1980-11-11</dc:date>
@@ -37560,9 +37522,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Un cap de nouvelle espérance pour le navire désemparé de notre société occidentale</dc:title>
         <dc:date>1980-09-18</dc:date>
@@ -37588,9 +37547,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>[Entretien] Si nous continuons dans le même sens, nous allons vers un désastre général</dc:title>
         <dc:date>1980-06-05</dc:date>
@@ -37616,9 +37572,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Préface</dc:subject>
         <dc:title>[Préface] &lt;i&gt;Europe and the Europeans&lt;/i&gt;, édité par Max Beloff</dc:title>
         <dc:date>1957-02-21</dc:date>
@@ -37644,9 +37597,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Manès Sperber ou “l’homme qui rappelle”</dc:title>
         <dc:date>1979-11-22</dc:date>
@@ -37672,9 +37622,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Obstacles au nouvel ordre économique international (NOEI) en Europe du Centre</dc:title>
         <dc:date>1979-09-24</dc:date>
@@ -37700,9 +37647,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Rapport intérimaire pour Ecoropa</dc:title>
         <dc:date>1979-07-27</dc:date>
@@ -37728,9 +37672,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Conférence de presse Ecoropa</dc:title>
         <dc:date>1979-05-07</dc:date>
@@ -37756,9 +37697,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Continuité des politiques nationales en Europe</dc:title>
         <dc:date>1979-02-08</dc:date>
@@ -37784,9 +37722,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Obstacles et chances du nouvel ordre économique international (NOEI) : l’Europe de l’Ouest</dc:title>
         <dc:date>1978-12-08</dc:date>
@@ -37812,9 +37747,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Le Grandchamp des Bovet</dc:title>
         <dc:date>1978-06-05</dc:date>
@@ -37840,9 +37772,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Les trois révolutions</dc:title>
         <dc:date>1977-10-14</dc:date>
@@ -37868,9 +37797,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>La Suisse et l’Europe : projet de résolution</dc:title>
         <dc:date>1975-09-00</dc:date>
@@ -37896,9 +37822,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>L’érotisme</dc:title>
         <dc:date>1975-08-28</dc:date>
@@ -37924,9 +37847,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“La paix entre les hommes dépend aussi du respect de la vie sauvage” (message à Franz Weber)</dc:title>
         <dc:date>1974-12-11</dc:date>
@@ -37952,9 +37872,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>“La vraie défense du territoire national” (soutien à l’initiative de Franz Weber contre les autoroutes)</dc:title>
         <dc:date>1974-03-04</dc:date>
@@ -37980,9 +37897,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Une éducation européenne</dc:title>
         <dc:date>1973-05-13</dc:date>
@@ -38008,9 +37922,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>De la “culture nationale”</dc:title>
         <dc:date>1973-03-00</dc:date>
@@ -38036,9 +37947,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Réception du doctorat &lt;i&gt;honoris causa&lt;/i&gt; à Zurich</dc:title>
         <dc:date>1971-04-29</dc:date>
@@ -38064,9 +37972,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Discours au Cercle de la presse et des amitiés étrangères</dc:title>
         <dc:date>1970-10-13</dc:date>
         <dc:subject>
@@ -38091,9 +37996,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>1931-1937 ou les années tournantes</dc:title>
         <dc:date>1970-00-00</dc:date>
         <dc:subject>
@@ -38118,9 +38020,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’esprit romand</dc:title>
         <dc:date>1969-00-00</dc:date>
         <dc:subject>
@@ -38145,9 +38044,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Les chances de l’Europe : huit ans après</dc:title>
         <dc:date>1969-11-00</dc:date>
         <dc:subject>
@@ -38172,9 +38068,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’union de l’Europe, modèle d’union dans la liberté</dc:title>
         <dc:date>1969-00-00</dc:date>
         <dc:subject>
@@ -38199,9 +38092,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Message pour la Grèce</dc:title>
         <dc:date>1968-04-03</dc:date>
         <dc:subject>
@@ -38226,9 +38116,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’intellectuel suisse et la politique</dc:title>
         <dc:date>1967-07-00</dc:date>
         <dc:subject>
@@ -38253,9 +38140,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Situation de l’Europe en 1966</dc:title>
         <dc:date>1966-12-00</dc:date>
         <dc:subject>
@@ -38280,9 +38164,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>“J’essaie d’imaginer mes lecteurs japonais…”</dc:title>
         <dc:date>1966-01-00</dc:date>
         <dc:subject>
@@ -38307,9 +38188,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>État présent des études européennes</dc:title>
         <dc:date>1965-09-00</dc:date>
         <dc:subject>
@@ -38334,9 +38212,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’Europe entière, ou la première force</dc:title>
         <dc:date>1963-02-18</dc:date>
         <dc:subject>
@@ -38361,9 +38236,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>“Né d’un regard juste…” (à propos de Richard Coudenhove-Kalergi)</dc:title>
         <dc:date>1962-09-02</dc:date>
         <dc:subject>
@@ -38388,9 +38260,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Imagination de New York</dc:title>
         <dc:date>1961-11-00</dc:date>
         <dc:subject>
@@ -38415,9 +38284,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Découvrons l’Europe</dc:title>
         <dc:date>1961-08-00</dc:date>
         <dc:subject>
@@ -38442,9 +38308,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’automation et l’avenir de l’Europe</dc:title>
         <dc:date>1961-06-00</dc:date>
         <dc:subject>
@@ -38469,9 +38332,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>La Suisse, microcosme culturel de l’Europe</dc:title>
         <dc:date>1959-00-00</dc:date>
         <dc:subject>
@@ -38484,7 +38344,7 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         </dc:identifier>
         <dc:description>Issued: 1959-00-00</dc:description>
     </bib:Manuscript>
-    <bib:Manuscript rdf:about="#item_40177">
+    <bib:Manuscript rdf:about="https://www.unige.ch/rougemont/articles/*/ddr19580800ll">
         <z:itemType>manuscript</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -38496,9 +38356,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Liberté et littérature</dc:title>
         <dc:date>1958-08-00</dc:date>
         <dc:subject>
@@ -38523,9 +38380,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Le vrai sens de nos vœux</dc:title>
         <dc:date>1955-12-00</dc:date>
         <dc:subject>
@@ -38550,9 +38404,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’avenir de la liberté</dc:title>
         <dc:date>1955-09-17</dc:date>
         <dc:subject>
@@ -38577,9 +38428,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’Europe en crise : décadence ou progrès ?</dc:title>
         <dc:date>1954-08-00</dc:date>
         <dc:subject>
@@ -38604,9 +38452,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’Œuvre du XXe siècle</dc:title>
         <dc:date>1952-05-00</dc:date>
         <dc:subject>
@@ -38631,9 +38476,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>La vie religieuse aux États-Unis (1942-1945)</dc:title>
         <dc:date>1952-00-00</dc:date>
         <dc:subject>
@@ -38658,9 +38500,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Discours au congrès de Bombay</dc:title>
         <dc:date>1951-03-00</dc:date>
         <dc:subject>
@@ -38685,9 +38524,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Sixième lettre aux députés européens</dc:title>
         <dc:date>1950-12-00</dc:date>
         <dc:subject>
@@ -38712,9 +38548,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Présentation du Rapport général de la Conférence européenne de la culture à Lausanne</dc:title>
         <dc:date>1949-12-08</dc:date>
         <dc:subject>
@@ -38739,9 +38572,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>“Cher lecteur britannique, je connais bien votre prudence…”</dc:title>
         <dc:date>1948-12-00</dc:date>
         <dc:subject>
@@ -38766,9 +38596,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Idées françaises</dc:title>
         <dc:date>1947-12-00</dc:date>
         <dc:subject>
@@ -38793,9 +38620,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Une lettre de Denis de Rougemont (à propos d’Aragon)</dc:title>
         <dc:date>1947-10-21</dc:date>
         <dc:subject>
@@ -38820,9 +38644,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Il y a aussi des gens en Suisse</dc:title>
         <dc:date>1947-05-15</dc:date>
         <dc:subject>
@@ -38847,9 +38668,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Le miracle suisse</dc:title>
         <dc:date>1942-00-00</dc:date>
         <dc:subject>
@@ -38873,9 +38691,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>La grande “stratégie religieuse” de cette guerre</dc:title>
         <dc:date>1942-05-00</dc:date>
         <dc:subject>
@@ -38900,9 +38715,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Blind alley of Europe</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
@@ -38926,9 +38738,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Le fédéralisme : un fait et une volonté</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
@@ -38952,9 +38761,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Passion et origine de l’hitlérisme</dc:title>
         <dc:date>1941-00-00</dc:date>
         <dc:subject>
@@ -38978,9 +38784,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Quelle heure est-il ?</dc:title>
         <dc:date>1940-00-00</dc:date>
         <dc:subject>
@@ -39004,9 +38807,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>Pour une “Suisse chrétienne”</dc:title>
         <dc:date>1939-00-00</dc:date>
         <dc:subject>
@@ -39030,9 +38830,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:title>L’esprit totalitaire et les devoirs de la personne</dc:title>
         <dc:date>1938-05-00</dc:date>
         <dc:subject>
@@ -39056,9 +38853,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Dernière chronique</dc:title>
         <dc:date>1951-03-12</dc:date>
@@ -39083,9 +38877,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et la paix</dc:title>
         <dc:date>1951-02-19</dc:date>
@@ -39110,9 +38901,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Nos libertés</dc:title>
         <dc:date>1951-02-12</dc:date>
@@ -39137,9 +38925,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Contre une “mystique européenne”</dc:title>
         <dc:date>1951-01-22</dc:date>
@@ -39164,9 +38949,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Peut-on fabriquer un Européen ?</dc:title>
         <dc:date>1951-01-15</dc:date>
@@ -39191,9 +38973,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Espérer, c’est agir</dc:title>
         <dc:date>1951-01-08</dc:date>
@@ -39218,9 +38997,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Équiper l’Europe</dc:title>
         <dc:date>1950-12-18</dc:date>
@@ -39245,9 +39021,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Sur l’opinion en général et la presse en particulier</dc:title>
         <dc:date>1950-12-11</dc:date>
@@ -39272,9 +39045,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — État de la construction européenne</dc:title>
         <dc:date>1950-12-04</dc:date>
@@ -39299,9 +39069,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Jeunesse d’Europe</dc:title>
         <dc:date>1950-11-27</dc:date>
@@ -39326,9 +39093,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — À Strasbourg</dc:title>
         <dc:date>1950-11-21</dc:date>
@@ -39353,9 +39117,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un Conseil européen de vigilance</dc:title>
         <dc:date>1950-11-13</dc:date>
@@ -39380,9 +39141,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse (II)</dc:title>
         <dc:date>1950-11-06</dc:date>
@@ -39407,9 +39165,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse (I)</dc:title>
         <dc:date>1950-10-30</dc:date>
@@ -39434,9 +39189,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Neutralité européenne</dc:title>
         <dc:date>1950-10-23</dc:date>
@@ -39461,9 +39213,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’opinion et l’Europe</dc:title>
         <dc:date>1950-10-16</dc:date>
@@ -39488,9 +39237,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1950-10-09</dc:date>
@@ -39515,9 +39261,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Serment de Strasbourg</dc:title>
         <dc:date>1950-10-02</dc:date>
@@ -39542,9 +39285,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Une autorité politique européenne</dc:title>
         <dc:date>1950-09-25</dc:date>
@@ -39569,9 +39309,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’armée européenne</dc:title>
         <dc:date>1950-09-18</dc:date>
@@ -39596,9 +39333,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’atmosphère de Strasbourg</dc:title>
         <dc:date>1950-09-11</dc:date>
@@ -39623,9 +39357,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un été orageux</dc:title>
         <dc:date>1950-09-09</dc:date>
@@ -39650,9 +39381,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Avant Strasbourg</dc:title>
         <dc:date>1950-06-26</dc:date>
@@ -39677,9 +39405,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1950-06-19</dc:date>
@@ -39704,9 +39429,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Valeur de l’Europe</dc:title>
         <dc:date>1950-06-12</dc:date>
@@ -39731,9 +39453,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le règne des experts</dc:title>
         <dc:date>1950-06-05</dc:date>
@@ -39758,9 +39477,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Conversation avec un Américain</dc:title>
         <dc:date>1950-05-29</dc:date>
@@ -39785,9 +39501,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’opinion</dc:title>
         <dc:date>1950-05-22</dc:date>
@@ -39812,9 +39525,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Lenteurs et progrès</dc:title>
         <dc:date>1950-05-15</dc:date>
@@ -39839,9 +39549,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et l’Amérique (II)</dc:title>
         <dc:date>1950-05-08</dc:date>
@@ -39866,9 +39573,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe et l’Amérique</dc:title>
         <dc:date>1950-05-01</dc:date>
@@ -39893,9 +39597,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’union atlantique</dc:title>
         <dc:date>1950-04-24</dc:date>
@@ -39920,9 +39621,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Branle-bas mondial</dc:title>
         <dc:date>1950-04-17</dc:date>
@@ -39947,9 +39645,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les volontaires de Daniel Villey</dc:title>
         <dc:date>1950-04-10</dc:date>
@@ -39974,9 +39669,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les politiciens et l’Europe</dc:title>
         <dc:date>1950-04-03</dc:date>
@@ -40001,9 +39693,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Deux enquêtes sur l’union</dc:title>
         <dc:date>1950-03-27</dc:date>
@@ -40028,9 +39717,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — De l’Europe au monde</dc:title>
         <dc:date>1950-03-20</dc:date>
@@ -40055,9 +39741,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe n’est pas pour “demain”</dc:title>
         <dc:date>1950-03-13</dc:date>
@@ -40082,9 +39765,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Neutralité européenne</dc:title>
         <dc:date>1950-03-06</dc:date>
@@ -40109,9 +39789,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Après les élections anglaises</dc:title>
         <dc:date>1950-02-27</dc:date>
@@ -40136,9 +39813,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La guerre impossible</dc:title>
         <dc:date>1950-02-20</dc:date>
@@ -40163,9 +39837,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les deux raisons de fédérer l’Europe</dc:title>
         <dc:date>1950-02-13</dc:date>
@@ -40190,9 +39861,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Passer à l’action</dc:title>
         <dc:date>1950-02-06</dc:date>
@@ -40217,9 +39885,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un tiers-ordre européen</dc:title>
         <dc:date>1950-01-30</dc:date>
@@ -40244,9 +39909,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Questions et objections des étudiants de Lausanne</dc:title>
         <dc:date>1950-01-23</dc:date>
@@ -40271,9 +39933,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Une enquête chez les étudiants</dc:title>
         <dc:date>1950-01-16</dc:date>
@@ -40298,9 +39957,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Par où commencer ? Par l’économie ?</dc:title>
         <dc:date>1950-01-09</dc:date>
@@ -40325,9 +39981,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Bon demi-siècle !</dc:title>
         <dc:date>1950-01-02</dc:date>
@@ -40352,9 +40005,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Bilan 1949</dc:title>
         <dc:date>1949-12-26</dc:date>
@@ -40379,9 +40029,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Optimistes et pessimistes</dc:title>
         <dc:date>1949-12-19</dc:date>
@@ -40406,9 +40053,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Conférence européenne de la culture</dc:title>
         <dc:date>1949-12-05</dc:date>
@@ -40433,9 +40077,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les suites de Strasbourg</dc:title>
         <dc:date>1949-11-28</dc:date>
@@ -40460,9 +40101,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Encore notre neutralité</dc:title>
         <dc:date>1949-11-21</dc:date>
@@ -40487,9 +40125,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et Strasbourg (II)</dc:title>
         <dc:date>1949-11-14</dc:date>
@@ -40514,9 +40149,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Amérique veut nous unir</dc:title>
         <dc:date>1949-11-07</dc:date>
@@ -40541,9 +40173,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et Strasbourg</dc:title>
         <dc:date>1949-10-31</dc:date>
@@ -40568,9 +40197,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Militer pour la fédération</dc:title>
         <dc:date>1949-10-24</dc:date>
@@ -40595,9 +40221,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Que pouvez-vous faire ?</dc:title>
         <dc:date>1949-10-17</dc:date>
@@ -40622,9 +40245,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Les résultats de Strasbourg</dc:title>
         <dc:date>1949-10-10</dc:date>
@@ -40649,9 +40269,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “Êtes-vous satisfait de Strasbourg ?”</dc:title>
         <dc:date>1949-10-03</dc:date>
@@ -40676,9 +40293,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La dévaluation et la bombe soviétique</dc:title>
         <dc:date>1949-09-26</dc:date>
@@ -40703,9 +40317,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Un bel été</dc:title>
         <dc:date>1949-09-19</dc:date>
@@ -40730,9 +40341,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Faisons le point</dc:title>
         <dc:date>1949-07-04</dc:date>
@@ -40757,9 +40365,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Centre européen de la culture</dc:title>
         <dc:date>1949-06-27</dc:date>
@@ -40784,9 +40389,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Suisse et l’Europe (IV)</dc:title>
         <dc:date>1949-06-20</dc:date>
@@ -40811,9 +40413,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Suisse 1848-Europe 1949 (II)</dc:title>
         <dc:date>1949-06-13</dc:date>
@@ -40838,9 +40437,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Suisse 1848-Europe 1949</dc:title>
         <dc:date>1949-05-30</dc:date>
@@ -40865,9 +40461,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La neutralité suisse</dc:title>
         <dc:date>1949-05-23</dc:date>
@@ -40892,9 +40485,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Statut du Conseil de l’Europe</dc:title>
         <dc:date>1949-05-09</dc:date>
@@ -40919,9 +40509,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’URSS et l’Europe fédérée</dc:title>
         <dc:date>1949-05-02</dc:date>
@@ -40946,9 +40533,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’union de l’Europe et l’Amérique</dc:title>
         <dc:date>1949-04-25</dc:date>
@@ -40973,9 +40557,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Pâques européennes</dc:title>
         <dc:date>1949-04-18</dc:date>
@@ -41000,9 +40581,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Allemagne et l’Europe</dc:title>
         <dc:date>1949-04-11</dc:date>
@@ -41027,9 +40605,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “Une idée généreuse” ?</dc:title>
         <dc:date>1949-04-04</dc:date>
@@ -41054,9 +40629,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Conseil de l’Europe</dc:title>
         <dc:date>1949-03-28</dc:date>
@@ -41081,9 +40653,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le pacte de l’Atlantique et la fédération européenne</dc:title>
         <dc:date>1949-03-21</dc:date>
@@ -41108,9 +40677,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — La Cour suprême européenne</dc:title>
         <dc:date>1949-03-14</dc:date>
@@ -41135,9 +40701,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — “La paix, la paix !”</dc:title>
         <dc:date>1949-03-07</dc:date>
@@ -41162,9 +40725,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Assemblée européenne</dc:title>
         <dc:date>1949-02-27</dc:date>
@@ -41189,9 +40749,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — Le Conseil international du Mouvement européen</dc:title>
         <dc:date>1949-02-25</dc:date>
@@ -41216,9 +40773,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>*URL</rdf:value></z:AutomaticTag>
-        </dc:subject>
         <dc:subject>Entretien</dc:subject>
         <dc:title>Demain l’Europe ! — L’Europe en marche</dc:title>
         <dc:date>1949-02-21</dc:date>
@@ -41231,36 +40785,6 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
             </dcterms:URI>
         </dc:identifier>
     </bib:Manuscript>
-    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf>
-           <bib:Journal><dc:title>Preuves</dc:title></bib:Journal>
-        </dcterms:isPartOf>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Rougemont</foaf:surname>
-                        <foaf:givenName>Denis de</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dc:title>L’échéance de septembre</dc:title>
-        <dc:date>1957-10</dc:date>
-        <dc:subject>
-            <dcterms:LCC>
-               <rdf:value>ddr19571000preuv_p0054</rdf:value>
-            </dcterms:LCC>
-        </dc:subject>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0054</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dc:description>Publisher Place: Paris</dc:description>
-        <bib:pages>54-55</bib:pages>
-    </bib:Article>
     <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/preuv/ddr19571000preuv_p0072">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -41291,10 +40815,10 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
         <dc:description>Publisher Place: Paris</dc:description>
         <bib:pages>72-73</bib:pages>
     </bib:Article>
-    <bib:Article rdf:about="https://www.unige.ch/rougemont/articles/jg/ddr19410114jg">
+    <bib:Article rdf:about="#item_41216">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
-           <bib:Newspaper><dc:title>Journal de Genève</dc:title></bib:Newspaper>
+           <bib:Newspaper><dc:title>Le Semeur</dc:title></bib:Newspaper>
         </dcterms:isPartOf>
         <bib:authors>
             <rdf:Seq>
@@ -41306,20 +40830,36 @@ Réponse à l’enquête « Que lisent les écrivains romands ? »</dc:descri
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:title>Veille d’élection présidentielle</dc:title>
-        <dc:date>1941-01-14</dc:date>
+        <dc:title>[Réponse à une enquête] Sur le pluralisme politique dans l’Église</dc:title>
+        <dc:date>1953-02</dc:date>
         <dc:subject>
-           <dcterms:LCC><rdf:value>ddr19410114jg</rdf:value></dcterms:LCC>
+           <dcterms:LCC><rdf:value>ddr19530200sem</rdf:value></dcterms:LCC>
         </dc:subject>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.unige.ch/rougemont/articles/jg/ddr19410114jg</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dc:description>Publisher Place: Genève
-
-Le journal précise : « De notre envoyé spécial ».</dc:description>
-        <bib:pages>1</bib:pages>
+        <dc:description>Publisher Place: Paris</dc:description>
+        <bib:pages>274-275</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_41217">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Fénix</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenName>Denis de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>L’eau</dc:title>
+        <dc:date>1968-04-00</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>ddr19680400eau</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>Publisher Place: Montpellier</dc:description>
+        <bib:pages>1-2</bib:pages>
     </bib:Article>
     <z:Collection rdf:about="#collection_48">
         <dc:title>ddr_articles</dc:title>
@@ -42104,6 +41644,7 @@ Le journal précise : « De notre envoyé spécial ».</dc:description>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370222jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370301jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19370323jg"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19401114jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19410117jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19410218jg"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/jg/ddr19460512jg"/>
@@ -42431,7 +41972,7 @@ Le journal précise : « De notre envoyé spécial ».</dc:description>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19610800de"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19610600aae"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19590000smce"/>
-        <dcterms:hasPart rdf:resource="#item_40177"/>
+        <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19580800ll"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19551200dw"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19550917al"/>
         <dcterms:hasPart rdf:resource="https://www.unige.ch/rougemont/articles/*/ddr19540800ecdp"/>
