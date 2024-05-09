@@ -108,7 +108,7 @@ class ZoteroTei
         $data = json_decode($json, false, 1024, JSON_THROW_ON_ERROR);
         foreach($data as $item) {
             self::extraVariables($item);
-            // if url, put it around title
+            // if url, put it around title, just for citation
             if (isset($item->URL) && $item->URL) {
                 $item->title = "<a href=\"{$item->URL}\">$item->title</a>";
                 unset($item->URL);
@@ -129,6 +129,14 @@ class ZoteroTei
 
         // no glob of TEI file to populate
         if (!count($argv)) return;
+
+        // reload csl without link around title
+        $data = json_decode($json, false, 1024, JSON_THROW_ON_ERROR);
+        foreach($data as $item) {
+            self::extraVariables($item);
+        }
+
+
         // alert if no tei export of the lib
         $zotero_tei_file = $dst_path . ".xml";
         if (!file_exists($zotero_tei_file)) {

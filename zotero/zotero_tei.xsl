@@ -79,7 +79,16 @@
       <xsl:apply-templates select="node()|@*" mode="html2tei"/>
     </xsl:copy>
   </xsl:template>
-  
+
+  <xsl:template match="a" mode="html2tei">
+    <ref>
+      <xsl:attribute name="target">
+        <xsl:value-of select="@href"/>
+      </xsl:attribute>
+      <xsl:apply-templates mode="html2tei"/>
+    </ref>
+  </xsl:template>
+
   <xsl:template match="i" mode="html2tei">
     <hi>
       <xsl:apply-templates mode="html2tei"/>
