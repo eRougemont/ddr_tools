@@ -1200,7 +1200,7 @@ $ids = [
     "ddr1961ggde" => "ddr19610900ggde",
 ];
 
-$glob = dirname(dirname(__DIR__)) . '/ddr_livres/*.xml';
+$glob = dirname(dirname(__DIR__)) . '/ddr_inedits/*.xml';
 echo "$glob\n";
 foreach (glob($glob) as $file) {
     echo "$file\n";
