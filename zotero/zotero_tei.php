@@ -201,9 +201,9 @@ class ZoteroTei
                         ],
                     );
                     if (isset($csl_dic[$id])) {
-                        $xml = str_replace(
-                            '<xenoData type="CSL"/>', 
-                            "<xenoData type=\"CSL\"><![CDATA[\n$csl_dic[$id]\n]]></xenoData>", 
+                        $xml = preg_replace(
+                            '@\s*<xenoData type="CSL"/>@', 
+                            "\n    <xenoData type=\"CSL\"><![CDATA[\n$csl_dic[$id]\n]]></xenoData>", 
                             $xml);
                     }
                     else {

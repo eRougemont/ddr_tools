@@ -66,7 +66,7 @@
       <xsl:apply-templates select="$zotero_tei/*/tei:biblStruct[*/tei:idno[@type='callNumber'] = $id]"/>
       <xsl:text>
         </xsl:text>
-      <bibl type="APA7">
+      <bibl type="zotero">
         <xsl:apply-templates select="$zotero_html/*/div[span/@id = $id]/node()" mode="html2tei"/>
       </bibl>
       <xsl:text>

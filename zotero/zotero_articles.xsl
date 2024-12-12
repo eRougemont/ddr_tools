@@ -40,8 +40,7 @@
   <xsl:template match="tei:div[@type='article']/tei:head">
     <xsl:variable name="id" select="ancestor::tei:div[@type='article'][1]/@xml:id"/>
     <xsl:copy>
-      <xsl:apply-templates select="node()[not(self::tei:note)]"/>
-      <note resp="editor" type="bibl">
+      <xsl:apply-templates select="node()[not(self::tei:note)]"/><note resp="editor" type="bibl">
         <xsl:choose>
           <xsl:when test="not($zotero_html/*/div[span/@id = $id])">
             <xsl:message>404 id=<xsl:value-of select="$id"/></xsl:message>

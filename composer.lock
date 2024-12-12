@@ -8,19 +8,18 @@
     "packages": [
         {
             "name": "citation-style-language/locales",
-            "version": "dev-master",
+            "version": "v0.0.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/locales.git",
-                "reference": "cf4b49404fc15cf9a37372e4707ce710b0935ccc"
+                "reference": "96d704de2fc7b930ae4a0ec4686a7143bb4a0d33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/cf4b49404fc15cf9a37372e4707ce710b0935ccc",
-                "reference": "cf4b49404fc15cf9a37372e4707ce710b0935ccc",
+                "url": "https://api.github.com/repos/citation-style-language/locales/zipball/96d704de2fc7b930ae4a0ec4686a7143bb4a0d33",
+                "reference": "96d704de2fc7b930ae4a0ec4686a7143bb4a0d33",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -41,7 +40,7 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/locales/issues",
-                "source": "https://github.com/citation-style-language/locales/tree/v0.0.19"
+                "source": "https://github.com/citation-style-language/locales/tree/v0.0.25"
             },
             "funding": [
                 {
@@ -49,20 +48,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-03-24T00:02:07+00:00"
+            "time": "2024-11-21T14:12:58+00:00"
         },
         {
             "name": "citation-style-language/styles",
-            "version": "v1.0.2.x-dev",
+            "version": "v0.0.569",
             "source": {
                 "type": "git",
                 "url": "https://github.com/citation-style-language/styles.git",
-                "reference": "ce9cddfa92633626950290d674dcccf9af612f05"
+                "reference": "6b7b611908b20c91f34110d1c9489fb3278e0ef5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/ce9cddfa92633626950290d674dcccf9af612f05",
-                "reference": "ce9cddfa92633626950290d674dcccf9af612f05",
+                "url": "https://api.github.com/repos/citation-style-language/styles/zipball/6b7b611908b20c91f34110d1c9489fb3278e0ef5",
+                "reference": "6b7b611908b20c91f34110d1c9489fb3278e0ef5",
                 "shasum": ""
             },
             "type": "library",
@@ -80,7 +79,7 @@
             "homepage": "http://citationstyles.org/",
             "support": {
                 "issues": "https://github.com/citation-style-language/styles/issues",
-                "source": "https://github.com/citation-style-language/styles/tree/v1.0.2"
+                "source": "https://github.com/citation-style-language/styles/tree/v0.0.569"
             },
             "funding": [
                 {
@@ -88,29 +87,30 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-03T23:38:16+00:00"
+            "time": "2024-11-29T19:26:09+00:00"
         },
         {
             "name": "erusev/parsedown",
-            "version": "1.8.0-beta-7",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown.git",
-                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955"
+                "reference": "c9dc49f68f7bd14e5aa107d86a08ce59203f02ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown/zipball/fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
-                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/c9dc49f68f7bd14e5aa107d86a08ce59203f02ee",
+                "reference": "c9dc49f68f7bd14e5aa107d86a08ce59203f02ee",
                 "shasum": ""
             },
             "require": {
                 "ext-mbstring": "*",
-                "php": ">=5.3.0"
+                "php": ">=7.1"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8.35"
+                "phpunit/phpunit": "^7.5|^8.5|^9.6"
             },
+            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-0": {
@@ -136,9 +136,9 @@
             ],
             "support": {
                 "issues": "https://github.com/erusev/parsedown/issues",
-                "source": "https://github.com/erusev/parsedown/tree/1.8.0-beta-7"
+                "source": "https://github.com/erusev/parsedown/tree/master"
             },
-            "time": "2019-03-17T18:47:21+00:00"
+            "time": "2024-12-01T16:36:17+00:00"
         },
         {
             "name": "erusev/parsedown-extra",
@@ -146,22 +146,23 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/erusev/parsedown-extra.git",
-                "reference": "fd33d68349630d18d56367712a64445a6e0bc83e"
+                "reference": "acebd175967ac1224dc710ab6082e5a28c202c85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/fd33d68349630d18d56367712a64445a6e0bc83e",
-                "reference": "fd33d68349630d18d56367712a64445a6e0bc83e",
+                "url": "https://api.github.com/repos/erusev/parsedown-extra/zipball/acebd175967ac1224dc710ab6082e5a28c202c85",
+                "reference": "acebd175967ac1224dc710ab6082e5a28c202c85",
                 "shasum": ""
             },
             "require": {
-                "erusev/parsedown": "^1.8.0|^1.8.0-beta-4",
+                "erusev/parsedown": "dev-master",
                 "ext-dom": "*",
+                "ext-libxml": "*",
                 "ext-mbstring": "*",
-                "php": ">=5.3.6"
+                "php": ">=7.1"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8.35"
+                "phpunit/phpunit": "^7.5|^8.5|^9.6"
             },
             "default-branch": true,
             "type": "library",
@@ -178,7 +179,7 @@
                 {
                     "name": "Emanuil Rusev",
                     "email": "hello@erusev.com",
-                    "homepage": "http://erusev.com"
+                    "homepage": "https://erusev.com"
                 }
             ],
             "description": "An extension of Parsedown that adds support for Markdown Extra.",
@@ -193,7 +194,7 @@
                 "issues": "https://github.com/erusev/parsedown-extra/issues",
                 "source": "https://github.com/erusev/parsedown-extra/tree/master"
             },
-            "time": "2021-10-25T08:46:29+00:00"
+            "time": "2024-11-03T08:25:00+00:00"
         },
         {
             "name": "myclabs/php-enum",
@@ -264,12 +265,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/oeuvres/kit.git",
-                "reference": "5ceeff4a8f3b05c80521c60d7720e9a8d93986b3"
+                "reference": "bb208f2123bc08b12a61468a88c63de20d17a991"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oeuvres/kit/zipball/5ceeff4a8f3b05c80521c60d7720e9a8d93986b3",
-                "reference": "5ceeff4a8f3b05c80521c60d7720e9a8d93986b3",
+                "url": "https://api.github.com/repos/oeuvres/kit/zipball/bb208f2123bc08b12a61468a88c63de20d17a991",
+                "reference": "bb208f2123bc08b12a61468a88c63de20d17a991",
                 "shasum": ""
             },
             "require": {
@@ -315,7 +316,7 @@
                 "issues": "https://github.com/oeuvres/kit/issues",
                 "source": "https://github.com/oeuvres/kit/tree/main"
             },
-            "time": "2024-03-31T11:01:23+00:00"
+            "time": "2024-10-14T23:42:48+00:00"
         },
         {
             "name": "oeuvres/teinte",
@@ -323,7 +324,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_php",
-                "reference": "ad2244283f88b0b04e38fe8255a026bf617f6c61"
+                "reference": "4b414013d6707e5b473524ffdedc91cac66a2f6c"
             },
             "require": {
                 "erusev/parsedown-extra": "dev-master",
@@ -372,7 +373,7 @@
             "dist": {
                 "type": "path",
                 "url": "../teinte_xsl",
-                "reference": "d8d36c9856a33d41334e7235ee6e873102f76bfc"
+                "reference": "2fceb6487f7c73cb82dcbc2244dd8c542e34021b"
             },
             "type": "library",
             "autoload": {
@@ -451,11 +452,11 @@
             "dist": {
                 "type": "path",
                 "url": "../citeproc-php",
-                "reference": "0fb08dbc36a728cfdd11a4e806e8ff15d0625dc4"
+                "reference": "bb76e77bf9ab6fb7fbafe845818a514d6770c08a"
             },
             "require": {
-                "citation-style-language/locales": "^1",
-                "citation-style-language/styles": "^1",
+                "citation-style-language/locales": "v0.0.*",
+                "citation-style-language/styles": "v0.0.*",
                 "ext-intl": "*",
                 "ext-json": "*",
                 "ext-mbstring": "*",
