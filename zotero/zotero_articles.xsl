@@ -41,7 +41,7 @@
     <xsl:variable name="id" select="ancestor::tei:div[@type='article'][1]/@xml:id"/>
     <xsl:copy>
       <xsl:apply-templates select="node()[not(self::tei:note)]"/>
-      <note resp="editor" type="zotero">
+      <note resp="editor" type="bibl">
         <xsl:choose>
           <xsl:when test="not($zotero_html/*/div[span/@id = $id])">
             <xsl:message>404 id=<xsl:value-of select="$id"/></xsl:message>
@@ -54,7 +54,7 @@
       </note>
       <xsl:for-each select="tei:note">
         <xsl:choose>
-          <xsl:when test="position() = 1"/>
+          <xsl:when test="@type = 'bibl'"/>
           <xsl:otherwise>
             <xsl:value-of select="$lf"/>
             <xsl:apply-templates select="."/>
