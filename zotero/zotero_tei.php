@@ -168,7 +168,7 @@ class ZoteroTei
                 $xml = file_get_contents($tei_file);
                 Xt::loadXml($xml, $dom);
                 
-                if ($type == 'ddr_articles') {
+                if ($type == 'ddr_articles' || str_starts_with($id, 'ddr-')) {
                     $xml = Xt::transformToXml(
                         __DIR__ . "/zotero_articles.xsl",
                         $dom,
